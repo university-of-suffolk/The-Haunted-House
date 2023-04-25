@@ -2100,3 +2100,347 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.04.25-14.55.39:184][579]LogFileHelpers: InternalPromptForCheckoutAndSave took 164 ms (total: 934 ms)
 [2023.04.25-14.55.39:194][579]AssetCheck: New page: Asset Save: L_Game
 [2023.04.25-14.55.39:194][579]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/L_Game.L_Game
+[2023.04.25-15.05.21:484][663]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.04.25-15.05.21:490][663]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.25-15.05.21:490][663]PIE: New page: PIE session: L_Game (25 Apr 2023, 17:05:21)
+[2023.04.25-15.05.21:490][663]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_Game
+[2023.04.25-15.05.21:494][663]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003166s)
+[2023.04.25-15.05.21:494][663]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_Game.L_Game to /Game/Levels/UEDPIE_0_L_Game.L_Game (0.003210s)
+[2023.04.25-15.05.21:494][663]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.25-15.05.21:494][663]LogAIModule: Creating AISystem for world L_Game
+[2023.04.25-15.05.21:495][663]LogPlayLevel: PIE: World Init took: (0.001121s)
+[2023.04.25-15.05.21:568][663]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2023.04.25-15.05.21:569][663]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2023.04.25-15.05.21:569][663]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.25-15.05.21:569][663]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.25-15.05.21:569][663]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.25-15.05.21:569][663]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.25-15.05.21:569][663]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.25-15.05.21:569][663]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.25-15.05.21:569][663]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.25-15.05.21:569][663]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.25-15.05.21:570][663]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.25-15.05.21:570][663]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.25-15.05.21:570][663]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.25-15.05.21:573][663]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.25-15.05.21:683][663]LogAudioMixer: Display: Using Audio Hardware Device Speakers / Headphones (Realtek Audio)
+[2023.04.25-15.05.21:683][663]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.25-15.05.21:683][663]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.25-15.05.21:683][663]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.25-15.05.21:684][663]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2023.04.25-15.05.21:684][663]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2023.04.25-15.05.21:690][663]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2023.04.25-15.05.21:690][663]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2023.04.25-15.05.21:690][663]LogInit: FAudioDevice initialized.
+[2023.04.25-15.05.21:690][663]LogAudio: Display: Audio Device (ID: 14) registered with world 'L_Game'.
+[2023.04.25-15.05.21:771][663]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.25-15.05.21:771][663]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.04.25-15.05.21:783][663]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_Game.L_Game up for play (max tick rate 0) at 2023.04.25-16.05.21
+[2023.04.25-15.05.21:785][663]LogWorld: Bringing up level for play took: 0.013467
+[2023.04.25-15.05.21:790][663]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2023.04.25-15.05.21:791][663]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.04.25-15.05.21:794][663]LogLevelInstance: Loaded 1 levels in 0 seconds
+[2023.04.25-15.05.21:802][663]LogStreaming: Display: FlushAsyncLoading(-1): 1 QueuedPackages, 0 AsyncPackages
+[2023.04.25-15.05.21:824][663]LogStreaming: Warning: Detected 156 objects loaded in PostLoad while streaming, this may cause hitches as we're blocking async loading to pre-load them.
+[2023.04.25-15.05.21:843][663]PIE: Server logged in
+[2023.04.25-15.05.21:848][663]PIE: Play in editor total start time 0.358 seconds.
+[2023.04.25-15.05.21:905][663]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.04.25-15.05.24:299][823]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2023.04.25-15.05.24:299][823]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.04.25-15.05.24:299][823]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.04.25-15.06.33:361][441]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.04.25-15.06.33:361][441]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.04.25-15.06.44:290][226]LogBlueprintUserMessages: [BP_Target_C_1] Hello
+[2023.04.25-15.06.48:855][556]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.25-15.06.48:855][556]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_Game
+[2023.04.25-15.06.48:858][556]LogSlate: Window 'TheHauntedHouse Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.04.25-15.06.48:866][556]LogWorld: UWorld::CleanupWorld for L_Game, bSessionEnded=true, bCleanupResources=true
+[2023.04.25-15.06.48:866][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-15.06.48:871][556]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.25-15.06.48:879][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-15.06.48:953][556]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2023.04.25-15.06.48:955][556]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2023.04.25-15.06.48:967][556]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2023.04.25-15.06.48:995][557]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2023.04.25-15.06.49:069][557]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2023.04.25-15.08.24:950][ 69]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2023.04.25-15.08.24:951][ 69]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.25-15.08.51:834][912]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2023.04.25-15.08.52:013][912]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2023.04.25-15.08.52:272][925]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.25-15.08.52:395][925]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2023.04.25-15.08.52:395][925]LogSavePackage: Moving '../../../../../../Users/Administrator/Documents/GitHub/The-Haunted-House/TheHauntedHouse_UE5/Saved/BP_FirstPersonCharacterE2B4395044E1294EF80542899E63DDF4.tmp' to '../../../../../../Users/Administrator/Documents/GitHub/The-Haunted-House/TheHauntedHouse_UE5/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2023.04.25-15.08.52:402][925]LogFileHelpers: InternalPromptForCheckoutAndSave took 130 ms (total: 1.06 sec)
+[2023.04.25-15.08.52:419][925]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2023.04.25-15.08.52:419][925]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2023.04.25-15.08.56:797][228]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2023.04.25-15.08.56:972][228]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2023.04.25-15.08.57:447][257]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.25-15.08.57:553][257]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2023.04.25-15.08.57:554][257]LogSavePackage: Moving '../../../../../../Users/Administrator/Documents/GitHub/The-Haunted-House/TheHauntedHouse_UE5/Saved/BP_FirstPersonCharacter55F235C54987D84BD3E196897B84D16E.tmp' to '../../../../../../Users/Administrator/Documents/GitHub/The-Haunted-House/TheHauntedHouse_UE5/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2023.04.25-15.08.57:563][257]LogFileHelpers: InternalPromptForCheckoutAndSave took 117 ms (total: 1.18 sec)
+[2023.04.25-15.08.57:581][257]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2023.04.25-15.08.57:581][257]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2023.04.25-15.09.30:675][959]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2023.04.25-15.09.30:849][959]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2023.04.25-15.09.31:628][  7]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.25-15.09.31:741][  7]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2023.04.25-15.09.31:741][  7]LogSavePackage: Moving '../../../../../../Users/Administrator/Documents/GitHub/The-Haunted-House/TheHauntedHouse_UE5/Saved/BP_FirstPersonCharacter73E3910F4E2C9C1BAD2820A5E06A1522.tmp' to '../../../../../../Users/Administrator/Documents/GitHub/The-Haunted-House/TheHauntedHouse_UE5/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2023.04.25-15.09.31:748][  7]LogFileHelpers: InternalPromptForCheckoutAndSave took 119 ms (total: 1.30 sec)
+[2023.04.25-15.09.31:764][  7]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2023.04.25-15.09.31:764][  7]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2023.04.25-15.10.13:015][627]BlueprintLog: New page: Compile BP_Target
+[2023.04.25-15.10.13:131][627]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2023.04.25-15.10.13:474][647]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.25-15.10.13:576][647]LogSavePackage: Moving output files for package: /Game/TeamContent/Blueprints/BP_Target
+[2023.04.25-15.10.13:577][647]LogSavePackage: Moving '../../../../../../Users/Administrator/Documents/GitHub/The-Haunted-House/TheHauntedHouse_UE5/Saved/BP_TargetC92A9F3B407A62B0EDAFCFA43A1D2A03.tmp' to '../../../../../../Users/Administrator/Documents/GitHub/The-Haunted-House/TheHauntedHouse_UE5/Content/TeamContent/Blueprints/BP_Target.uasset'
+[2023.04.25-15.10.13:586][647]LogFileHelpers: InternalPromptForCheckoutAndSave took 111 ms (total: 1.41 sec)
+[2023.04.25-15.10.13:596][647]AssetCheck: New page: Asset Save: BP_Target
+[2023.04.25-15.10.13:596][647]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TeamContent/Blueprints/BP_Target.BP_Target
+[2023.04.25-15.11.06:616][700]BlueprintLog: New page: Compile BP_Target
+[2023.04.25-15.11.06:730][700]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2023.04.25-15.11.18:407][509]BlueprintLog: New page: Compile BP_Target
+[2023.04.25-15.11.18:519][509]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2023.04.25-15.11.18:959][531]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.25-15.11.19:018][531]LogSavePackage: Moving output files for package: /Game/TeamContent/Blueprints/BP_Target
+[2023.04.25-15.11.19:019][531]LogSavePackage: Moving '../../../../../../Users/Administrator/Documents/GitHub/The-Haunted-House/TheHauntedHouse_UE5/Saved/BP_Target921FDD724DBCC6FF7B4302ABCE7A7EA8.tmp' to '../../../../../../Users/Administrator/Documents/GitHub/The-Haunted-House/TheHauntedHouse_UE5/Content/TeamContent/Blueprints/BP_Target.uasset'
+[2023.04.25-15.11.19:028][531]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 1.48 sec)
+[2023.04.25-15.11.19:037][531]AssetCheck: New page: Asset Save: BP_Target
+[2023.04.25-15.11.19:037][531]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TeamContent/Blueprints/BP_Target.BP_Target
+[2023.04.25-15.11.34:336][369]BlueprintLog: New page: Compile BP_Target
+[2023.04.25-15.11.34:452][369]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2023.04.25-15.11.35:084][396]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.25-15.11.35:189][396]LogSavePackage: Moving output files for package: /Game/TeamContent/Blueprints/BP_Target
+[2023.04.25-15.11.35:190][396]LogSavePackage: Moving '../../../../../../Users/Administrator/Documents/GitHub/The-Haunted-House/TheHauntedHouse_UE5/Saved/BP_Target6E795CD6430CBE1DE6581FB14DE5440A.tmp' to '../../../../../../Users/Administrator/Documents/GitHub/The-Haunted-House/TheHauntedHouse_UE5/Content/TeamContent/Blueprints/BP_Target.uasset'
+[2023.04.25-15.11.35:201][396]LogFileHelpers: InternalPromptForCheckoutAndSave took 117 ms (total: 1.59 sec)
+[2023.04.25-15.11.35:211][396]AssetCheck: New page: Asset Save: BP_Target
+[2023.04.25-15.11.35:211][396]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TeamContent/Blueprints/BP_Target.BP_Target
+[2023.04.25-15.11.35:714][422]LogEditorViewport: Clicking Background
+[2023.04.25-15.11.38:058][565]LogSlate: Window 'BP_FirstPersonCharacter' being destroyed
+[2023.04.25-15.11.38:062][565]LogSlate: Window 'BP_FirstPersonCharacter' being destroyed
+[2023.04.25-15.11.38:067][565]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.04.25-15.11.38:067][565]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-15.11.38:129][565]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.04.25-15.11.38:129][565]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2023.04.25-15.11.38:129][565]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-15.11.38:183][565]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.04.25-15.11.38:183][565]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2023.04.25-15.11.38:183][565]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-15.11.38:991][630]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.04.25-15.11.38:997][630]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.25-15.11.38:997][630]PIE: New page: PIE session: L_Game (25 Apr 2023, 17:11:38)
+[2023.04.25-15.11.38:997][630]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_Game
+[2023.04.25-15.11.39:000][630]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002512s)
+[2023.04.25-15.11.39:000][630]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_Game.L_Game to /Game/Levels/UEDPIE_0_L_Game.L_Game (0.002546s)
+[2023.04.25-15.11.39:000][630]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.25-15.11.39:001][630]LogAIModule: Creating AISystem for world L_Game
+[2023.04.25-15.11.39:001][630]LogPlayLevel: PIE: World Init took: (0.000971s)
+[2023.04.25-15.11.39:082][630]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2023.04.25-15.11.39:092][630]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2023.04.25-15.11.39:092][630]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.25-15.11.39:092][630]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.25-15.11.39:092][630]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.25-15.11.39:092][630]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.25-15.11.39:092][630]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.25-15.11.39:092][630]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.25-15.11.39:092][630]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.25-15.11.39:092][630]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.25-15.11.39:094][630]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.25-15.11.39:094][630]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.25-15.11.39:094][630]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.25-15.11.39:096][630]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.25-15.11.39:209][630]LogAudioMixer: Display: Using Audio Hardware Device Speakers / Headphones (Realtek Audio)
+[2023.04.25-15.11.39:210][630]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.25-15.11.39:210][630]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.25-15.11.39:210][630]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.25-15.11.39:211][630]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2023.04.25-15.11.39:211][630]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2023.04.25-15.11.39:217][630]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2023.04.25-15.11.39:217][630]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2023.04.25-15.11.39:217][630]LogInit: FAudioDevice initialized.
+[2023.04.25-15.11.39:217][630]LogAudio: Display: Audio Device (ID: 15) registered with world 'L_Game'.
+[2023.04.25-15.11.39:277][630]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.25-15.11.39:278][630]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.04.25-15.11.39:289][630]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_Game.L_Game up for play (max tick rate 0) at 2023.04.25-16.11.39
+[2023.04.25-15.11.39:292][630]LogWorld: Bringing up level for play took: 0.013262
+[2023.04.25-15.11.39:297][630]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2023.04.25-15.11.39:298][630]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.04.25-15.11.39:301][630]LogLevelInstance: Loaded 1 levels in 0 seconds
+[2023.04.25-15.11.39:315][630]LogStreaming: Display: FlushAsyncLoading(-1): 1 QueuedPackages, 0 AsyncPackages
+[2023.04.25-15.11.39:336][630]LogStreaming: Warning: Detected 156 objects loaded in PostLoad while streaming, this may cause hitches as we're blocking async loading to pre-load them.
+[2023.04.25-15.11.39:353][630]PIE: Server logged in
+[2023.04.25-15.11.39:355][630]PIE: Play in editor total start time 0.359 seconds.
+[2023.04.25-15.11.39:403][630]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.04.25-15.11.43:555][913]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.25-15.11.43:555][913]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_Game
+[2023.04.25-15.11.43:556][913]LogSlate: Window 'TheHauntedHouse Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.04.25-15.11.43:581][913]LogWorld: UWorld::CleanupWorld for L_Game, bSessionEnded=true, bCleanupResources=true
+[2023.04.25-15.11.43:581][913]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-15.11.43:584][913]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.25-15.11.43:593][913]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-15.11.43:635][913]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.25-15.11.43:639][913]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2023.04.25-15.11.43:642][913]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2023.04.25-15.11.43:696][913]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2023.04.25-15.11.43:728][914]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2023.04.25-15.11.43:786][914]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2023.04.25-15.11.47:411][216]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2023.04.25-15.11.47:412][216]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.25-15.11.49:864][317]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TeamContent/Blueprints/BP_Target.BP_Target
+[2023.04.25-15.11.49:865][317]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.25-15.11.57:838][749]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.04.25-15.11.57:844][749]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.04.25-15.11.57:845][749]LogPlayLevel: [PlayLevel] Compiling BP_Target before play...
+[2023.04.25-15.11.57:959][749]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.04.25-15.11.57:962][749]LogPlayLevel: PlayLevel: Blueprint regeneration took 118 ms (1 blueprints)
+[2023.04.25-15.11.57:962][749]PIE: New page: PIE session: L_Game (25 Apr 2023, 17:11:57)
+[2023.04.25-15.11.57:962][749]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_Game
+[2023.04.25-15.11.57:964][749]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002152s)
+[2023.04.25-15.11.57:964][749]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_Game.L_Game to /Game/Levels/UEDPIE_0_L_Game.L_Game (0.002183s)
+[2023.04.25-15.11.57:965][749]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.25-15.11.57:965][749]LogAIModule: Creating AISystem for world L_Game
+[2023.04.25-15.11.57:965][749]LogPlayLevel: PIE: World Init took: (0.000878s)
+[2023.04.25-15.11.58:027][749]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.04.25-15.11.58:028][749]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2023.04.25-15.11.58:028][749]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.25-15.11.58:028][749]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.25-15.11.58:028][749]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.25-15.11.58:028][749]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.25-15.11.58:028][749]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.25-15.11.58:028][749]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.25-15.11.58:028][749]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.25-15.11.58:028][749]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.25-15.11.58:029][749]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.25-15.11.58:029][749]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.25-15.11.58:029][749]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.25-15.11.58:031][749]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.25-15.11.58:137][749]LogAudioMixer: Display: Using Audio Hardware Device Speakers / Headphones (Realtek Audio)
+[2023.04.25-15.11.58:137][749]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.25-15.11.58:137][749]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.25-15.11.58:137][749]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.25-15.11.58:138][749]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2023.04.25-15.11.58:138][749]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2023.04.25-15.11.58:142][749]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2023.04.25-15.11.58:142][749]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2023.04.25-15.11.58:142][749]LogInit: FAudioDevice initialized.
+[2023.04.25-15.11.58:142][749]LogAudio: Display: Audio Device (ID: 16) registered with world 'L_Game'.
+[2023.04.25-15.11.58:203][749]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.25-15.11.58:204][749]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.04.25-15.11.58:214][749]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_Game.L_Game up for play (max tick rate 0) at 2023.04.25-16.11.58
+[2023.04.25-15.11.58:216][749]LogWorld: Bringing up level for play took: 0.012004
+[2023.04.25-15.11.58:221][749]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2023.04.25-15.11.58:221][749]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.04.25-15.11.58:224][749]LogLevelInstance: Loaded 1 levels in 0 seconds
+[2023.04.25-15.11.58:231][749]LogStreaming: Display: FlushAsyncLoading(-1): 1 QueuedPackages, 0 AsyncPackages
+[2023.04.25-15.11.58:250][749]LogStreaming: Warning: Detected 156 objects loaded in PostLoad while streaming, this may cause hitches as we're blocking async loading to pre-load them.
+[2023.04.25-15.11.58:268][749]PIE: Server logged in
+[2023.04.25-15.11.58:272][749]PIE: Play in editor total start time 0.429 seconds.
+[2023.04.25-15.11.58:330][749]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.04.25-15.12.02:274][969]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.25-15.12.02:274][969]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_Game
+[2023.04.25-15.12.02:275][969]LogSlate: Window 'TheHauntedHouse Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.04.25-15.12.02:283][969]LogWorld: UWorld::CleanupWorld for L_Game, bSessionEnded=true, bCleanupResources=true
+[2023.04.25-15.12.02:283][969]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-15.12.02:297][969]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.25-15.12.02:304][969]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-15.12.02:371][969]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2023.04.25-15.12.02:373][969]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2023.04.25-15.12.02:385][969]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.04.25-15.12.02:456][970]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2023.04.25-15.12.02:518][970]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2023.04.25-15.12.09:626][404]Cmd: EDIT COPY
+[2023.04.25-15.12.09:764][410]Cmd: EDIT PASTE
+[2023.04.25-15.12.21:428][332]Cmd: EDIT COPY
+[2023.04.25-15.12.21:596][336]Cmd: EDIT PASTE
+[2023.04.25-15.12.22:671][415]Cmd: EDIT COPY
+[2023.04.25-15.12.22:844][430]Cmd: EDIT PASTE
+[2023.04.25-15.12.27:773][815]Cmd: EDIT COPY
+[2023.04.25-15.12.27:923][819]Cmd: EDIT PASTE
+[2023.04.25-15.12.31:079][ 61]Cmd: EDIT COPY
+[2023.04.25-15.12.31:239][ 66]Cmd: EDIT PASTE
+[2023.04.25-15.12.33:753][214]Cmd: EDIT COPY
+[2023.04.25-15.12.33:874][218]Cmd: EDIT PASTE
+[2023.04.25-15.12.37:071][504]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2023.04.25-15.12.37:078][504]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.25-15.12.37:175][504]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.04.25-15.12.37:183][504]LogSavePackage: Moving output files for package: /Game/Levels/L_Game
+[2023.04.25-15.12.37:183][504]LogSavePackage: Moving '../../../../../../Users/Administrator/Documents/GitHub/The-Haunted-House/TheHauntedHouse_UE5/Saved/L_GameE7A515E1488E55DC72B6E0831D73F396.tmp' to '../../../../../../Users/Administrator/Documents/GitHub/The-Haunted-House/TheHauntedHouse_UE5/Content/Levels/L_Game.umap'
+[2023.04.25-15.12.37:195][504]LogFileHelpers: Saving map 'L_Game' took 0.084
+[2023.04.25-15.12.37:234][504]LogSavePackage: Moving output files for package: /Game/TeamContent/Blueprints/BP_Target
+[2023.04.25-15.12.37:234][504]LogSavePackage: Moving '../../../../../../Users/Administrator/Documents/GitHub/The-Haunted-House/TheHauntedHouse_UE5/Saved/BP_TargetEF0299524B86BE0F4D5403BFA9368142.tmp' to '../../../../../../Users/Administrator/Documents/GitHub/The-Haunted-House/TheHauntedHouse_UE5/Content/TeamContent/Blueprints/BP_Target.uasset'
+[2023.04.25-15.12.37:277][504]LogFileHelpers: InternalPromptForCheckoutAndSave took 198 ms (total: 1.79 sec)
+[2023.04.25-15.12.37:289][504]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.25-15.12.37:289][504]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TeamContent/Blueprints/BP_Target.BP_Target
+[2023.04.25-15.12.37:289][504]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/L_Game.L_Game
+[2023.04.25-15.12.38:190][583]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.04.25-15.12.38:196][583]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.25-15.12.38:197][583]PIE: New page: PIE session: L_Game (25 Apr 2023, 17:12:38)
+[2023.04.25-15.12.38:197][583]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_Game
+[2023.04.25-15.12.38:201][583]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004105s)
+[2023.04.25-15.12.38:201][583]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_Game.L_Game to /Game/Levels/UEDPIE_0_L_Game.L_Game (0.004142s)
+[2023.04.25-15.12.38:201][583]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.25-15.12.38:201][583]LogAIModule: Creating AISystem for world L_Game
+[2023.04.25-15.12.38:202][583]LogPlayLevel: PIE: World Init took: (0.000947s)
+[2023.04.25-15.12.38:262][583]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.04.25-15.12.38:264][583]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2023.04.25-15.12.38:264][583]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.25-15.12.38:264][583]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.25-15.12.38:264][583]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.25-15.12.38:264][583]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.25-15.12.38:264][583]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.25-15.12.38:264][583]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.25-15.12.38:264][583]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.25-15.12.38:264][583]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.25-15.12.38:265][583]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.25-15.12.38:265][583]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.25-15.12.38:265][583]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.25-15.12.38:267][583]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.25-15.12.38:351][583]LogAudioMixer: Display: Using Audio Hardware Device Speakers / Headphones (Realtek Audio)
+[2023.04.25-15.12.38:351][583]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.25-15.12.38:351][583]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.25-15.12.38:351][583]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.25-15.12.38:353][583]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2023.04.25-15.12.38:353][583]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2023.04.25-15.12.38:356][583]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2023.04.25-15.12.38:356][583]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2023.04.25-15.12.38:356][583]LogInit: FAudioDevice initialized.
+[2023.04.25-15.12.38:356][583]LogAudio: Display: Audio Device (ID: 17) registered with world 'L_Game'.
+[2023.04.25-15.12.38:422][583]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.25-15.12.38:422][583]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.04.25-15.12.38:435][583]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_Game.L_Game up for play (max tick rate 0) at 2023.04.25-16.12.38
+[2023.04.25-15.12.38:437][583]LogWorld: Bringing up level for play took: 0.014600
+[2023.04.25-15.12.38:442][583]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2023.04.25-15.12.38:444][583]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.04.25-15.12.38:445][583]LogLevelInstance: Loaded 1 levels in 0 seconds
+[2023.04.25-15.12.38:454][583]LogStreaming: Display: FlushAsyncLoading(-1): 1 QueuedPackages, 0 AsyncPackages
+[2023.04.25-15.12.38:473][583]LogStreaming: Warning: Detected 156 objects loaded in PostLoad while streaming, this may cause hitches as we're blocking async loading to pre-load them.
+[2023.04.25-15.12.38:493][583]PIE: Server logged in
+[2023.04.25-15.12.38:497][583]PIE: Play in editor total start time 0.301 seconds.
+[2023.04.25-15.12.38:519][583]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.04.25-15.12.54:255][657]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.25-15.12.54:255][657]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_Game
+[2023.04.25-15.12.54:255][657]LogSlate: Window 'TheHauntedHouse Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.04.25-15.12.54:263][657]LogWorld: UWorld::CleanupWorld for L_Game, bSessionEnded=true, bCleanupResources=true
+[2023.04.25-15.12.54:263][657]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-15.12.54:276][657]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.25-15.12.54:283][657]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-15.12.54:345][657]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.25-15.12.54:346][657]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2023.04.25-15.12.54:348][657]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2023.04.25-15.12.54:361][657]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.04.25-15.12.54:396][658]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2023.04.25-15.12.54:456][658]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2023.04.25-15.12.56:805][867]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.04.25-15.13.22:215][785]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_Pickup_Rifle.BP_Pickup_Rifle
+[2023.04.25-15.13.22:216][785]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.25-15.13.25:405][939]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2023.04.25-15.13.25:405][939]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-15.13.29:316][147]LogSlate: Window 'BP_Target' being destroyed
+[2023.04.25-15.13.29:320][147]LogSlate: Window 'BP_Target' being destroyed
+[2023.04.25-15.13.29:324][147]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.04.25-15.13.29:324][147]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2023.04.25-15.13.29:324][147]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-15.13.29:412][147]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.04.25-15.13.29:413][147]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2023.04.25-15.13.29:413][147]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-15.13.31:320][295]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
