@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Administrator/Desktop/Group Project Haunted House/TheHauntedHouse_1/TheHauntedHouse_UE5/TheHauntedHouse_UE5/Content/TeamContent/Blueprints/BP_Target.uasset",
+				"C:/Users/Administrator/Desktop/Group Project Haunted House/TheHauntedHouse_1/TheHauntedHouse_UE5/TheHauntedHouse_UE5/Content/Levels/L_Game.umap",
 				"F:/Unreal Projects/The-Haunted-House/TheHauntedHouse_UE5/Content/Levels/L_Game.umap",
 				"F:/Unreal Projects/The-Haunted-House/TheHauntedHouse_UE5/Content/TeamContent/Sounds/Sound_Cues/SC_MonsterHit.uasset",
 				"F:/Unreal Projects/The-Haunted-House/TheHauntedHouse_UE5/Content/TeamContent/Sounds/Sound_Cues/SC_TargetHit.uasset",
