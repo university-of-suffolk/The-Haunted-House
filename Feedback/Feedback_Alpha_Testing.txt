@@ -1,0 +1,8 @@
+feedback,
+
+multiple types of targets, targets that make you lose points
+modify speed of cart depending on the rail angle,
+distractions througout the level, effects or something,
+ray from gun when shooting,
+
+
