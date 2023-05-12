@@ -2275,3 +2275,13 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.05.12-13.03.53:597][990]LogFileHelpers: InternalPromptForCheckoutAndSave took 224 ms (total: 3.11 sec)
 [2023.05.12-13.03.53:612][990]AssetCheck: New page: Asset Save: MainMenuLevel
 [2023.05.12-13.03.53:612][990]LogContentValidation: Display: Validating /Script/Engine.World /Game/TeamContent/LEVELS/MainMenuLevel.MainMenuLevel
+[2023.05.12-13.06.09:062][485]BlueprintLog: New page: Compile MainMenuLevel
+[2023.05.12-13.06.09:205][485]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2023.05.12-13.06.09:948][525]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.12-13.06.10:134][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2023.05.12-13.06.10:144][525]LogSavePackage: Moving output files for package: /Game/TeamContent/LEVELS/MainMenuLevel
+[2023.05.12-13.06.10:144][525]LogSavePackage: Moving '../../../../../../Users/Administrator/Documents/GitHub/The-Haunted-House/TheHauntedHouse_UE5/Saved/MainMenuLevelAC7A065A4536B138053153B87DC72B78.tmp' to '../../../../../../Users/Administrator/Documents/GitHub/The-Haunted-House/TheHauntedHouse_UE5/Content/TeamContent/LEVELS/MainMenuLevel.umap'
+[2023.05.12-13.06.10:161][525]LogFileHelpers: Saving map 'MainMenuLevel' took 0.149
+[2023.05.12-13.06.10:169][525]LogFileHelpers: InternalPromptForCheckoutAndSave took 220 ms (total: 3.33 sec)
+[2023.05.12-13.06.10:181][525]AssetCheck: New page: Asset Save: MainMenuLevel
+[2023.05.12-13.06.10:181][525]LogContentValidation: Display: Validating /Script/Engine.World /Game/TeamContent/LEVELS/MainMenuLevel.MainMenuLevel
