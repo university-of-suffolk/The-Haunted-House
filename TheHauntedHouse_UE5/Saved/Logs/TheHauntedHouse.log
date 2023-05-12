@@ -1442,3 +1442,836 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.05.12-10.57.50:495][570]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/BlueprintsBrens/NewOptionsMenu.NewOptionsMenu
 [2023.05.12-10.57.59:458][147]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
 [2023.05.12-10.58.06:802][147]LogSlate: Window 'Save Content' being destroyed
+[2023.05.12-11.02.53:439][101]BlueprintLog: New page: Compile NewOptionsMenu
+[2023.05.12-11.02.53:581][101]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2023.05.12-11.02.54:353][137]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.12-11.02.54:421][137]LogSavePackage: Moving output files for package: /Game/FirstPerson/BlueprintsBrens/NewOptionsMenu
+[2023.05.12-11.02.54:422][137]LogSavePackage: Moving '../../../../../../Users/Administrator/Documents/GitHub/The-Haunted-House/TheHauntedHouse_UE5/Saved/NewOptionsMenu0BA4411243E37B001BFDD2A45646490D.tmp' to '../../../../../../Users/Administrator/Documents/GitHub/The-Haunted-House/TheHauntedHouse_UE5/Content/FirstPerson/BlueprintsBrens/NewOptionsMenu.uasset'
+[2023.05.12-11.02.54:431][137]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 764 ms)
+[2023.05.12-11.02.54:451][137]AssetCheck: New page: Asset Save: NewOptionsMenu
+[2023.05.12-11.02.54:452][137]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/BlueprintsBrens/NewOptionsMenu.NewOptionsMenu
+[2023.05.12-11.05.55:072][488]LogSlate: Window 'Color Picker' being destroyed
+[2023.05.12-11.08.03:702][ 10]LogSlate: Window 'Color Picker' being destroyed
+[2023.05.12-11.08.27:217][521]LogSlate: Window 'Color Picker' being destroyed
+[2023.05.12-11.08.41:751][472]BlueprintLog: New page: Compile NewCreditsMenu
+[2023.05.12-11.08.41:885][472]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2023.05.12-11.08.42:685][511]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.12-11.08.42:751][511]LogSavePackage: Moving output files for package: /Game/FirstPerson/BlueprintsBrens/NewCreditsMenu
+[2023.05.12-11.08.42:752][511]LogSavePackage: Moving '../../../../../../Users/Administrator/Documents/GitHub/The-Haunted-House/TheHauntedHouse_UE5/Saved/NewCreditsMenuBEA85B1B4E6AAEA9D488A38DAB23FE45.tmp' to '../../../../../../Users/Administrator/Documents/GitHub/The-Haunted-House/TheHauntedHouse_UE5/Content/FirstPerson/BlueprintsBrens/NewCreditsMenu.uasset'
+[2023.05.12-11.08.42:760][511]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 839 ms)
+[2023.05.12-11.08.42:780][511]AssetCheck: New page: Asset Save: NewCreditsMenu
+[2023.05.12-11.08.42:780][511]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/BlueprintsBrens/NewCreditsMenu.NewCreditsMenu
+[2023.05.12-11.09.19:170][306]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2023.05.12-11.09.19:173][306]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.128
+[2023.05.12-11.09.19:173][306]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/BlueprintsBrens/Materials/5de104a7e04c1681251981] ([1] browsable assets)...
+[2023.05.12-11.09.19:177][306]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/FirstPerson/BlueprintsBrens/Materials/5de104a7e04c1681251981.5de104a7e04c1681251981]
+[2023.05.12-11.09.19:177][306]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/BlueprintsBrens/Materials/5de104a7e04c1681251981]
+[2023.05.12-11.09.19:179][306]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/BlueprintsBrens/Materials/5de104a7e04c1681251981_Auto0
+[2023.05.12-11.09.19:179][306]LogSavePackage: Moving '../../../../../../Users/Administrator/Documents/GitHub/The-Haunted-House/TheHauntedHouse_UE5/Saved/5de104a7e04c1681251981_Auto0E83EAFD746F9EB292F51C583975EA9DE.tmp' to '../../../../../../Users/Administrator/Documents/GitHub/The-Haunted-House/TheHauntedHouse_UE5/Saved/Autosaves/Game/FirstPerson/BlueprintsBrens/Materials/5de104a7e04c1681251981_Auto0.uasset'
+[2023.05.12-11.09.19:180][306]LogFileHelpers: Auto-saving content packages took 0.007
+[2023.05.12-11.09.56:981][542]LogSlate: Window 'Color Picker' being destroyed
+[2023.05.12-11.10.22:651][191]LogSlate: Window 'Color Picker' being destroyed
+[2023.05.12-11.10.31:054][734]BlueprintLog: New page: Compile NewMainMenu
+[2023.05.12-11.10.31:189][734]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.05.12-11.10.32:066][774]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.12-11.10.32:112][774]LogSavePackage: Moving output files for package: /Game/FirstPerson/BlueprintsBrens/NewMainMenu
+[2023.05.12-11.10.32:113][774]LogSavePackage: Moving '../../../../../../Users/Administrator/Documents/GitHub/The-Haunted-House/TheHauntedHouse_UE5/Saved/NewMainMenu3ED0415440202642A78C19BCF7C1FC66.tmp' to '../../../../../../Users/Administrator/Documents/GitHub/The-Haunted-House/TheHauntedHouse_UE5/Content/FirstPerson/BlueprintsBrens/NewMainMenu.uasset'
+[2023.05.12-11.10.32:121][774]LogFileHelpers: InternalPromptForCheckoutAndSave took 55 ms (total: 894 ms)
+[2023.05.12-11.10.32:135][774]AssetCheck: New page: Asset Save: NewMainMenu
+[2023.05.12-11.10.32:135][774]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/BlueprintsBrens/NewMainMenu.NewMainMenu
+[2023.05.12-11.25.47:570][876]LogHttp: Warning: 00000AB97699DC00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7F16121A-46FA-70AB-A7A5-DCAE5F492878%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.1-23901901%2B%2B%2BUE5%2BRelease-5.1&UserID=69d30c024bf4113deb282fb4d5fcdd6b%7C005d88e2607d47ba8bca94393f93e29d%7C59dc4bc1-a94b-4be7-90df-7d3c8efe4ffb&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.05.12-11.25.47:570][876]LogHttp: Warning: 00000AB97699DC00: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2023.05.12-11.25.47:570][876]LogHttp: Warning: 00000AB97699DC00: libcurl info message cache 0 (Found bundle for host: 0xab8ef960a50 [serially])
+[2023.05.12-11.25.47:570][876]LogHttp: Warning: 00000AB97699DC00: libcurl info message cache 1 (Re-using existing connection #5 with host datarouter.ol.epicgames.com)
+[2023.05.12-11.25.47:570][876]LogHttp: Warning: 00000AB97699DC00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.0.94.246) port 443 (#5))
+[2023.05.12-11.25.47:570][876]LogHttp: Warning: 00000AB97699DC00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2023.05.12-11.25.47:570][876]LogHttp: Warning: 00000AB97699DC00: libcurl info message cache 4 (OpenSSL SSL_read: Connection was reset, errno 10054)
+[2023.05.12-11.25.47:570][876]LogHttp: Warning: 00000AB97699DC00: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2023.05.12-11.25.47:570][876]LogHttp: Warning: 00000AB97699DC00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2023.05.12-11.25.47:570][876]LogHttp: Warning: 00000AB97699DC00: libcurl info message cache 7 (Closing connection 5)
+[2023.05.12-11.25.47:570][876]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7F16121A-46FA-70AB-A7A5-DCAE5F492878%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.1-23901901%2B%2B%2BUE5%2BRelease-5.1&UserID=69d30c024bf4113deb282fb4d5fcdd6b%7C005d88e2607d47ba8bca94393f93e29d%7C59dc4bc1-a94b-4be7-90df-7d3c8efe4ffb&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.05.12-11.45.00:848][606]LogDerivedDataCache: C:/Users/Administrator/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.041 and deleted 0 files with total size 0 MiB. Scanned 967 files in 964 folders with total size 31 MiB.
+[2023.05.12-11.57.47:613][558]LogHttp: Warning: 00000AB976996900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7F16121A-46FA-70AB-A7A5-DCAE5F492878%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.1-23901901%2B%2B%2BUE5%2BRelease-5.1&UserID=69d30c024bf4113deb282fb4d5fcdd6b%7C005d88e2607d47ba8bca94393f93e29d%7C59dc4bc1-a94b-4be7-90df-7d3c8efe4ffb&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.05.12-11.57.47:613][558]LogHttp: Warning: 00000AB976996900: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2023.05.12-11.57.47:613][558]LogHttp: Warning: 00000AB976996900: libcurl info message cache 0 (Found bundle for host: 0xab8ef960510 [serially])
+[2023.05.12-11.57.47:613][558]LogHttp: Warning: 00000AB976996900: libcurl info message cache 1 (Re-using existing connection #6 with host datarouter.ol.epicgames.com)
+[2023.05.12-11.57.47:613][558]LogHttp: Warning: 00000AB976996900: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.235.136.192) port 443 (#6))
+[2023.05.12-11.57.47:614][558]LogHttp: Warning: 00000AB976996900: libcurl info message cache 3 (We are completely uploaded and fine)
+[2023.05.12-11.57.47:614][558]LogHttp: Warning: 00000AB976996900: libcurl info message cache 4 (OpenSSL SSL_read: Connection was reset, errno 10054)
+[2023.05.12-11.57.47:614][558]LogHttp: Warning: 00000AB976996900: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2023.05.12-11.57.47:614][558]LogHttp: Warning: 00000AB976996900: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2023.05.12-11.57.47:614][558]LogHttp: Warning: 00000AB976996900: libcurl info message cache 7 (Closing connection 6)
+[2023.05.12-11.57.47:614][558]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7F16121A-46FA-70AB-A7A5-DCAE5F492878%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.1-23901901%2B%2B%2BUE5%2BRelease-5.1&UserID=69d30c024bf4113deb282fb4d5fcdd6b%7C005d88e2607d47ba8bca94393f93e29d%7C59dc4bc1-a94b-4be7-90df-7d3c8efe4ffb&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.05.12-12.01.23:756][619]LogSlate: Window 'Color Picker' being destroyed
+[2023.05.12-12.01.42:059][831]LogSlate: Window 'Color Picker' being destroyed
+[2023.05.12-12.01.54:398][654]LogSlate: Window 'Color Picker' being destroyed
+[2023.05.12-12.02.14:279][673]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.12-12.02.14:330][673]LogSavePackage: Moving output files for package: /Game/FirstPerson/BlueprintsBrens/NewCreditsMenu
+[2023.05.12-12.02.14:331][673]LogSavePackage: Moving '../../../../../../Users/Administrator/Documents/GitHub/The-Haunted-House/TheHauntedHouse_UE5/Saved/NewCreditsMenu3840B8EB4B927F752A82C1A1CD3B9D37.tmp' to '../../../../../../Users/Administrator/Documents/GitHub/The-Haunted-House/TheHauntedHouse_UE5/Content/FirstPerson/BlueprintsBrens/NewCreditsMenu.uasset'
+[2023.05.12-12.02.14:337][673]LogFileHelpers: InternalPromptForCheckoutAndSave took 57 ms (total: 951 ms)
+[2023.05.12-12.02.14:364][673]AssetCheck: New page: Asset Save: NewCreditsMenu
+[2023.05.12-12.02.14:364][673]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/BlueprintsBrens/NewCreditsMenu.NewCreditsMenu
+[2023.05.12-12.03.00:330][503]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2023.05.12-12.03.00:333][503]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.135
+[2023.05.12-12.03.00:333][503]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/BlueprintsBrens/NewCreditsMenu] ([2] browsable assets)...
+[2023.05.12-12.03.00:338][503]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/FirstPerson/BlueprintsBrens/NewCreditsMenu.NewCreditsMenu]
+[2023.05.12-12.03.00:338][503]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/BlueprintsBrens/NewCreditsMenu]
+[2023.05.12-12.03.00:347][503]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/BlueprintsBrens/NewCreditsMenu_Auto1
+[2023.05.12-12.03.00:347][503]LogSavePackage: Moving '../../../../../../Users/Administrator/Documents/GitHub/The-Haunted-House/TheHauntedHouse_UE5/Saved/NewCreditsMenu_Auto1B2DC990644BEA6CC699DF3A749A5F9CA.tmp' to '../../../../../../Users/Administrator/Documents/GitHub/The-Haunted-House/TheHauntedHouse_UE5/Saved/Autosaves/Game/FirstPerson/BlueprintsBrens/NewCreditsMenu_Auto1.uasset'
+[2023.05.12-12.03.00:348][503]LogFileHelpers: Auto-saving content packages took 0.015
+[2023.05.12-12.05.34:423][ 37]BlueprintLog: New page: Compile NewCreditsMenu
+[2023.05.12-12.05.34:556][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2023.05.12-12.05.35:299][ 68]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.12-12.05.35:395][ 68]LogSavePackage: Moving output files for package: /Game/FirstPerson/BlueprintsBrens/NewCreditsMenu
+[2023.05.12-12.05.35:396][ 68]LogSavePackage: Moving '../../../../../../Users/Administrator/Documents/GitHub/The-Haunted-House/TheHauntedHouse_UE5/Saved/NewCreditsMenuCCA6A2AE4A4BB335E66EEFAD501C6210.tmp' to '../../../../../../Users/Administrator/Documents/GitHub/The-Haunted-House/TheHauntedHouse_UE5/Content/FirstPerson/BlueprintsBrens/NewCreditsMenu.uasset'
+[2023.05.12-12.05.35:404][ 68]LogFileHelpers: InternalPromptForCheckoutAndSave took 104 ms (total: 1.05 sec)
+[2023.05.12-12.05.35:427][ 68]AssetCheck: New page: Asset Save: NewCreditsMenu
+[2023.05.12-12.05.35:427][ 68]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/BlueprintsBrens/NewCreditsMenu.NewCreditsMenu
+[2023.05.12-12.06.58:772][313]BlueprintLog: New page: Compile NewOptionsMenu
+[2023.05.12-12.06.58:906][313]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2023.05.12-12.07.00:290][387]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.12-12.07.00:375][387]LogSavePackage: Moving output files for package: /Game/FirstPerson/BlueprintsBrens/NewOptionsMenu
+[2023.05.12-12.07.00:376][387]LogSavePackage: Moving '../../../../../../Users/Administrator/Documents/GitHub/The-Haunted-House/TheHauntedHouse_UE5/Saved/NewOptionsMenuB08ECB364867253826F433A27A16EEC2.tmp' to '../../../../../../Users/Administrator/Documents/GitHub/The-Haunted-House/TheHauntedHouse_UE5/Content/FirstPerson/BlueprintsBrens/NewOptionsMenu.uasset'
+[2023.05.12-12.07.00:386][387]LogFileHelpers: InternalPromptForCheckoutAndSave took 96 ms (total: 1.15 sec)
+[2023.05.12-12.07.00:408][387]AssetCheck: New page: Asset Save: NewOptionsMenu
+[2023.05.12-12.07.00:408][387]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/BlueprintsBrens/NewOptionsMenu.NewOptionsMenu
+[2023.05.12-12.09.51:477][759]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.12-12.09.51:477][759]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.12-12.09.51:477][759]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.12-12.09.51:477][759]LogEditorClassViewer: Warning: Class /Engine/Transient.REINST_SKEL_NewCreditsMenu_C_159 has parent /Game/FirstPerson/BlueprintsBrens/MainMenu.SKEL_MainMenu_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.12-12.12.19:962][630]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.12-12.12.19:962][630]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.12-12.13.11:190][789]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.12-12.13.11:190][789]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.12-12.13.32:612][168]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.12-12.13.32:612][168]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.12-12.13.54:511][633]BlueprintLog: New page: Compile NewOptionsMenu
+[2023.05.12-12.13.54:663][633]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2023.05.12-12.13.56:171][724]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.12-12.13.56:245][724]LogSavePackage: Moving output files for package: /Game/FirstPerson/BlueprintsBrens/NewOptionsMenu
+[2023.05.12-12.13.56:246][724]LogSavePackage: Moving '../../../../../../Users/Administrator/Documents/GitHub/The-Haunted-House/TheHauntedHouse_UE5/Saved/NewOptionsMenuC3A751684DE0197F4E64209B483680D0.tmp' to '../../../../../../Users/Administrator/Documents/GitHub/The-Haunted-House/TheHauntedHouse_UE5/Content/FirstPerson/BlueprintsBrens/NewOptionsMenu.uasset'
+[2023.05.12-12.13.56:255][724]LogFileHelpers: InternalPromptForCheckoutAndSave took 84 ms (total: 1.23 sec)
+[2023.05.12-12.13.56:276][724]AssetCheck: New page: Asset Save: NewOptionsMenu
+[2023.05.12-12.13.56:276][724]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/BlueprintsBrens/NewOptionsMenu.NewOptionsMenu
+[2023.05.12-12.13.58:293][857]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.12-12.13.58:293][857]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.12-12.14.05:948][313]BlueprintLog: New page: Compile NewCreditsMenu
+[2023.05.12-12.14.06:091][313]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2023.05.12-12.14.07:329][374]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.12-12.14.07:402][374]LogSavePackage: Moving output files for package: /Game/FirstPerson/BlueprintsBrens/NewCreditsMenu
+[2023.05.12-12.14.07:403][374]LogSavePackage: Moving '../../../../../../Users/Administrator/Documents/GitHub/The-Haunted-House/TheHauntedHouse_UE5/Saved/NewCreditsMenu0058221744F7AAAEC6BD76BEE6E0337B.tmp' to '../../../../../../Users/Administrator/Documents/GitHub/The-Haunted-House/TheHauntedHouse_UE5/Content/FirstPerson/BlueprintsBrens/NewCreditsMenu.uasset'
+[2023.05.12-12.14.07:411][374]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms (total: 1.31 sec)
+[2023.05.12-12.14.07:434][374]AssetCheck: New page: Asset Save: NewCreditsMenu
+[2023.05.12-12.14.07:435][374]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/BlueprintsBrens/NewCreditsMenu.NewCreditsMenu
+[2023.05.12-12.17.58:245][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2023.05.12-12.17.58:248][ 33]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.132
+[2023.05.12-12.17.58:248][ 33]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/BlueprintsBrens/NewMainMenu] ([2] browsable assets)...
+[2023.05.12-12.17.58:253][ 33]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/FirstPerson/BlueprintsBrens/NewMainMenu.NewMainMenu]
+[2023.05.12-12.17.58:253][ 33]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/BlueprintsBrens/NewMainMenu]
+[2023.05.12-12.17.58:262][ 33]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/BlueprintsBrens/NewMainMenu_Auto2
+[2023.05.12-12.17.58:262][ 33]LogSavePackage: Moving '../../../../../../Users/Administrator/Documents/GitHub/The-Haunted-House/TheHauntedHouse_UE5/Saved/NewMainMenu_Auto2EFB0F3FB487B5761AF6E6AA8C67B619A.tmp' to '../../../../../../Users/Administrator/Documents/GitHub/The-Haunted-House/TheHauntedHouse_UE5/Saved/Autosaves/Game/FirstPerson/BlueprintsBrens/NewMainMenu_Auto2.uasset'
+[2023.05.12-12.17.58:263][ 33]LogFileHelpers: Auto-saving content packages took 0.015
+[2023.05.12-12.22.42:871][623]BlueprintLog: New page: Compile NewMainMenu
+[2023.05.12-12.22.43:003][623]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2023.05.12-12.22.43:887][676]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.12-12.22.43:960][676]LogSavePackage: Moving output files for package: /Game/FirstPerson/BlueprintsBrens/NewMainMenu
+[2023.05.12-12.22.43:961][676]LogSavePackage: Moving '../../../../../../Users/Administrator/Documents/GitHub/The-Haunted-House/TheHauntedHouse_UE5/Saved/NewMainMenuC58359494693C2A01F853AB56199E565.tmp' to '../../../../../../Users/Administrator/Documents/GitHub/The-Haunted-House/TheHauntedHouse_UE5/Content/FirstPerson/BlueprintsBrens/NewMainMenu.uasset'
+[2023.05.12-12.22.43:971][676]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 1.40 sec)
+[2023.05.12-12.22.43:990][676]AssetCheck: New page: Asset Save: NewMainMenu
+[2023.05.12-12.22.43:990][676]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/BlueprintsBrens/NewMainMenu.NewMainMenu
+[2023.05.12-12.24.31:869][ 80]LogViewport: Scene viewport resized to 2742x1262, mode Windowed.
+[2023.05.12-12.24.59:734][866]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.12-12.24.59:734][866]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.12-12.25.26:672][659]LogViewport: Scene viewport resized to 1014x582, mode Windowed.
+[2023.05.12-12.27.47:231][717]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.12-12.27.47:232][717]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.12-12.27.47:232][717]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.12-12.27.47:232][717]LogEditorClassViewer: Warning: Class /Engine/Transient.REINST_SKEL_NewMainMenu_C_171 has parent /Game/FirstPerson/BlueprintsBrens/MainMenu.SKEL_MainMenu_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.12-12.27.47:232][717]LogEditorClassViewer: Warning: Class /Engine/Transient.REINST_SKEL_NewMainMenu_C_172 has parent /Game/FirstPerson/BlueprintsBrens/MainMenu.SKEL_MainMenu_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.12-12.28.43:705][408]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2023.05.12-12.28.43:709][408]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.134
+[2023.05.12-12.28.43:709][408]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/BlueprintsBrens/NewMainMenu] ([2] browsable assets)...
+[2023.05.12-12.28.43:712][408]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/FirstPerson/BlueprintsBrens/NewMainMenu.NewMainMenu]
+[2023.05.12-12.28.43:712][408]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/BlueprintsBrens/NewMainMenu]
+[2023.05.12-12.28.43:722][408]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/BlueprintsBrens/NewMainMenu_Auto3
+[2023.05.12-12.28.43:723][408]LogSavePackage: Moving '../../../../../../Users/Administrator/Documents/GitHub/The-Haunted-House/TheHauntedHouse_UE5/Saved/NewMainMenu_Auto334FB72374802F18CC3C9AB841FE61D81.tmp' to '../../../../../../Users/Administrator/Documents/GitHub/The-Haunted-House/TheHauntedHouse_UE5/Saved/Autosaves/Game/FirstPerson/BlueprintsBrens/NewMainMenu_Auto3.uasset'
+[2023.05.12-12.28.43:724][408]LogFileHelpers: Auto-saving content packages took 0.015
+[2023.05.12-12.30.47:899][627]LogHttp: Warning: 00000AB98B1F9B00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7F16121A-46FA-70AB-A7A5-DCAE5F492878%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.1-23901901%2B%2B%2BUE5%2BRelease-5.1&UserID=69d30c024bf4113deb282fb4d5fcdd6b%7C005d88e2607d47ba8bca94393f93e29d%7C59dc4bc1-a94b-4be7-90df-7d3c8efe4ffb&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.05.12-12.30.47:899][627]LogHttp: Warning: 00000AB98B1F9B00: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2023.05.12-12.30.47:899][627]LogHttp: Warning: 00000AB98B1F9B00: libcurl info message cache 0 (Found bundle for host: 0xab8ef9604b0 [serially])
+[2023.05.12-12.30.47:899][627]LogHttp: Warning: 00000AB98B1F9B00: libcurl info message cache 1 (Re-using existing connection #7 with host datarouter.ol.epicgames.com)
+[2023.05.12-12.30.47:899][627]LogHttp: Warning: 00000AB98B1F9B00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.214.247.70) port 443 (#7))
+[2023.05.12-12.30.47:899][627]LogHttp: Warning: 00000AB98B1F9B00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2023.05.12-12.30.47:899][627]LogHttp: Warning: 00000AB98B1F9B00: libcurl info message cache 4 (OpenSSL SSL_read: Connection was reset, errno 10054)
+[2023.05.12-12.30.47:899][627]LogHttp: Warning: 00000AB98B1F9B00: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2023.05.12-12.30.47:899][627]LogHttp: Warning: 00000AB98B1F9B00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2023.05.12-12.30.47:899][627]LogHttp: Warning: 00000AB98B1F9B00: libcurl info message cache 7 (Closing connection 7)
+[2023.05.12-12.30.47:899][627]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7F16121A-46FA-70AB-A7A5-DCAE5F492878%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.1-23901901%2B%2B%2BUE5%2BRelease-5.1&UserID=69d30c024bf4113deb282fb4d5fcdd6b%7C005d88e2607d47ba8bca94393f93e29d%7C59dc4bc1-a94b-4be7-90df-7d3c8efe4ffb&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.05.12-12.33.48:636][883]BlueprintLog: New page: Compile NewMainMenu
+[2023.05.12-12.33.48:790][883]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2023.05.12-12.33.49:613][925]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.12-12.33.49:694][925]LogSavePackage: Moving output files for package: /Game/FirstPerson/BlueprintsBrens/NewMainMenu
+[2023.05.12-12.33.49:695][925]LogSavePackage: Moving '../../../../../../Users/Administrator/Documents/GitHub/The-Haunted-House/TheHauntedHouse_UE5/Saved/NewMainMenu4DAFAD12436CF3310C0E1BB024EA4D94.tmp' to '../../../../../../Users/Administrator/Documents/GitHub/The-Haunted-House/TheHauntedHouse_UE5/Content/FirstPerson/BlueprintsBrens/NewMainMenu.uasset'
+[2023.05.12-12.33.49:703][925]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 1.49 sec)
+[2023.05.12-12.33.49:726][925]AssetCheck: New page: Asset Save: NewMainMenu
+[2023.05.12-12.33.49:726][925]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/BlueprintsBrens/NewMainMenu.NewMainMenu
+[2023.05.12-12.34.13:065][461]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.12-12.34.13:065][461]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.12-12.35.34:019][824]BlueprintLog: New page: Compile NewMainMenu
+[2023.05.12-12.35.34:159][824]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2023.05.12-12.35.35:171][884]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.12-12.35.35:268][884]LogSavePackage: Moving output files for package: /Game/FirstPerson/BlueprintsBrens/NewMainMenu
+[2023.05.12-12.35.35:268][884]LogSavePackage: Moving '../../../../../../Users/Administrator/Documents/GitHub/The-Haunted-House/TheHauntedHouse_UE5/Saved/NewMainMenu507D3CEA48BF1C78BABD37AE36E6008B.tmp' to '../../../../../../Users/Administrator/Documents/GitHub/The-Haunted-House/TheHauntedHouse_UE5/Content/FirstPerson/BlueprintsBrens/NewMainMenu.uasset'
+[2023.05.12-12.35.35:276][884]LogFileHelpers: InternalPromptForCheckoutAndSave took 104 ms (total: 1.59 sec)
+[2023.05.12-12.35.35:286][884]AssetCheck: New page: Asset Save: NewMainMenu
+[2023.05.12-12.35.35:286][884]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/BlueprintsBrens/NewMainMenu.NewMainMenu
+[2023.05.12-12.35.48:873][495]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.12-12.35.48:873][495]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.12-12.36.03:699][390]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.12-12.36.03:739][390]LogSavePackage: Moving output files for package: /Game/FirstPerson/BlueprintsBrens/NewCreditsMenu
+[2023.05.12-12.36.03:739][390]LogSavePackage: Moving '../../../../../../Users/Administrator/Documents/GitHub/The-Haunted-House/TheHauntedHouse_UE5/Saved/NewCreditsMenu417B63604A2458ACF6C379AE709B61C8.tmp' to '../../../../../../Users/Administrator/Documents/GitHub/The-Haunted-House/TheHauntedHouse_UE5/Content/FirstPerson/BlueprintsBrens/NewCreditsMenu.uasset'
+[2023.05.12-12.36.03:744][390]LogFileHelpers: InternalPromptForCheckoutAndSave took 44 ms (total: 1.64 sec)
+[2023.05.12-12.36.03:758][390]AssetCheck: New page: Asset Save: NewCreditsMenu
+[2023.05.12-12.36.03:758][390]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/BlueprintsBrens/NewCreditsMenu.NewCreditsMenu
+[2023.05.12-12.36.17:730][279]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.12-12.36.17:797][279]LogSavePackage: Moving output files for package: /Game/FirstPerson/BlueprintsBrens/NewOptionsMenu
+[2023.05.12-12.36.17:798][279]LogSavePackage: Moving '../../../../../../Users/Administrator/Documents/GitHub/The-Haunted-House/TheHauntedHouse_UE5/Saved/NewOptionsMenu74C5672B45F566313232ECBFE8C9EDC0.tmp' to '../../../../../../Users/Administrator/Documents/GitHub/The-Haunted-House/TheHauntedHouse_UE5/Content/FirstPerson/BlueprintsBrens/NewOptionsMenu.uasset'
+[2023.05.12-12.36.17:811][279]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 1.72 sec)
+[2023.05.12-12.36.17:827][279]AssetCheck: New page: Asset Save: NewOptionsMenu
+[2023.05.12-12.36.17:827][279]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/BlueprintsBrens/NewOptionsMenu.NewOptionsMenu
+[2023.05.12-12.36.28:650][972]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.12-12.36.28:739][972]LogSavePackage: Moving output files for package: /Game/FirstPerson/BlueprintsBrens/NewMainMenu
+[2023.05.12-12.36.28:740][972]LogSavePackage: Moving '../../../../../../Users/Administrator/Documents/GitHub/The-Haunted-House/TheHauntedHouse_UE5/Saved/NewMainMenuC9BCC32E4844BE3DA59F4E8C0F904208.tmp' to '../../../../../../Users/Administrator/Documents/GitHub/The-Haunted-House/TheHauntedHouse_UE5/Content/FirstPerson/BlueprintsBrens/NewMainMenu.uasset'
+[2023.05.12-12.36.28:753][972]LogFileHelpers: InternalPromptForCheckoutAndSave took 102 ms (total: 1.82 sec)
+[2023.05.12-12.36.28:762][972]AssetCheck: New page: Asset Save: NewMainMenu
+[2023.05.12-12.36.28:762][972]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/BlueprintsBrens/NewMainMenu.NewMainMenu
+[2023.05.12-12.37.50:785][855]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.05.12-12.37.50:808][855]LogContentBrowser: Creating deferred item: NewFolder
+[2023.05.12-12.37.50:828][856]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.05.12-12.37.55:125][115]LogContentBrowser: Attempting asset rename: NewFolder -> LEVELS
+[2023.05.12-12.37.55:126][115]LogContentBrowser: End creating deferred item NewFolder
+[2023.05.12-12.38.00:911][437]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2023.05.12-12.38.00:928][437]LogContentBrowser: Creating deferred item: NewWorld
+[2023.05.12-12.38.01:018][439]LogContentBrowser: Renaming the item being created (Deferred Item: NewWorld).
+[2023.05.12-12.38.16:205][596]LogContentBrowser: Attempting asset rename: NewWorld -> NewWorld
+[2023.05.12-12.38.16:207][596]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.12-12.38.16:215][596]LogContentBrowser: End creating deferred item NewWorld
+[2023.05.12-12.38.18:899][726]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/TeamContent/LEVELS/NewWorld does not exist, will not scan.
+[2023.05.12-12.38.27:407][257]LogContentBrowser: Attempting asset rename: NewWorld -> MainMenuLevel
+[2023.05.12-12.38.27:520][257]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.12-12.38.27:726][257]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2023.05.12-12.38.27:733][257]LogSavePackage: Moving output files for package: /Game/TeamContent/LEVELS/MainMenuLevel
+[2023.05.12-12.38.27:733][257]LogSavePackage: Moving '../../../../../../Users/Administrator/Documents/GitHub/The-Haunted-House/TheHauntedHouse_UE5/Saved/MainMenuLevel847D065E45A6C3972A1E2AB925B2BDA1.tmp' to '../../../../../../Users/Administrator/Documents/GitHub/The-Haunted-House/TheHauntedHouse_UE5/Content/TeamContent/LEVELS/MainMenuLevel.umap'
+[2023.05.12-12.38.27:746][257]LogFileHelpers: Saving map 'MainMenuLevel' took 0.159
+[2023.05.12-12.38.27:754][257]LogFileHelpers: InternalPromptForCheckoutAndSave took 233 ms (total: 2.06 sec)
+[2023.05.12-12.38.27:884][257]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2023.05.12-12.38.27:983][257]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2023.05.12-12.38.28:080][257]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.05.12-12.38.28:090][257]AssetCheck: New page: Asset Save: MainMenuLevel
+[2023.05.12-12.38.28:090][257]LogContentValidation: Display: Validating /Script/Engine.World /Game/TeamContent/LEVELS/MainMenuLevel.MainMenuLevel
+[2023.05.12-12.39.00:735][497]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2023.05.12-12.39.07:743][497]LogSlate: Window 'Save Content' being destroyed
+[2023.05.12-12.39.07:762][497]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.12-12.39.07:835][497]LogSavePackage: Moving output files for package: /Game/FirstPerson/BlueprintsBrens/Materials/5de104a7e04c1681251981
+[2023.05.12-12.39.07:835][497]LogSavePackage: Moving '../../../../../../Users/Administrator/Documents/GitHub/The-Haunted-House/TheHauntedHouse_UE5/Saved/5de104a7e04c16812519811B53E26741FDCC91ECCF8FAB192F5B39.tmp' to '../../../../../../Users/Administrator/Documents/GitHub/The-Haunted-House/TheHauntedHouse_UE5/Content/FirstPerson/BlueprintsBrens/Materials/5de104a7e04c1681251981.uasset'
+[2023.05.12-12.39.07:842][497]LogSavePackage: Moving output files for package: /Game/FirstPerson/BlueprintsBrens/Materials/A-Haunted-House-1920x1080
+[2023.05.12-12.39.07:842][497]LogSavePackage: Moving '../../../../../../Users/Administrator/Documents/GitHub/The-Haunted-House/TheHauntedHouse_UE5/Saved/A-Haunted-House-1920x1080A86AB53441C1ED15201288A1C52C7C2C.tmp' to '../../../../../../Users/Administrator/Documents/GitHub/The-Haunted-House/TheHauntedHouse_UE5/Content/FirstPerson/BlueprintsBrens/Materials/A-Haunted-House-1920x1080.uasset'
+[2023.05.12-12.39.07:847][497]LogSavePackage: Moving output files for package: /Game/FirstPerson/BlueprintsBrens/Materials/edeafa30b7283b689df48b12d9c52eae--spooky-house-creepy-houses
+[2023.05.12-12.39.07:847][497]LogSavePackage: Moving '../../../../../../Users/Administrator/Documents/GitHub/The-Haunted-House/TheHauntedHouse_UE5/Saved/edeafa30b7283b689df48b12d9c52eaeF2188CA44184C4BE11FB2295C6AE9A48.tmp' to '../../../../../../Users/Administrator/Documents/GitHub/The-Haunted-House/TheHauntedHouse_UE5/Content/FirstPerson/BlueprintsBrens/Materials/edeafa30b7283b689df48b12d9c52eae--spooky-house-creepy-houses.uasset'
+[2023.05.12-12.39.07:852][497]LogSavePackage: Moving output files for package: /Game/FirstPerson/BlueprintsBrens/FONTS/fofbb_reg
+[2023.05.12-12.39.07:852][497]LogSavePackage: Moving '../../../../../../Users/Administrator/Documents/GitHub/The-Haunted-House/TheHauntedHouse_UE5/Saved/fofbb_reg96EABFA94A396273209D3AB84ECE0994.tmp' to '../../../../../../Users/Administrator/Documents/GitHub/The-Haunted-House/TheHauntedHouse_UE5/Content/FirstPerson/BlueprintsBrens/FONTS/fofbb_reg.uasset'
+[2023.05.12-12.39.07:868][497]LogSavePackage: Moving output files for package: /Game/FirstPerson/BlueprintsBrens/FONTS/fofbb_reg_Font
+[2023.05.12-12.39.07:868][497]LogSavePackage: Moving '../../../../../../Users/Administrator/Documents/GitHub/The-Haunted-House/TheHauntedHouse_UE5/Saved/fofbb_reg_FontF19AA72F48F34A0622614EB54A547A9D.tmp' to '../../../../../../Users/Administrator/Documents/GitHub/The-Haunted-House/TheHauntedHouse_UE5/Content/FirstPerson/BlueprintsBrens/FONTS/fofbb_reg_Font.uasset'
+[2023.05.12-12.39.07:895][497]LogSavePackage: Moving output files for package: /Game/FirstPerson/BlueprintsBrens/MainMenu
+[2023.05.12-12.39.07:895][497]LogSavePackage: Moving '../../../../../../Users/Administrator/Documents/GitHub/The-Haunted-House/TheHauntedHouse_UE5/Saved/MainMenuB54202E14C5CF0B0C01F9DAD0E53CC27.tmp' to '../../../../../../Users/Administrator/Documents/GitHub/The-Haunted-House/TheHauntedHouse_UE5/Content/FirstPerson/BlueprintsBrens/MainMenu.uasset'
+[2023.05.12-12.39.07:897][497]LogSavePackage: Moving output files for package: /Game/FirstPerson/BlueprintsBrens/FONTS/shlop_rg
+[2023.05.12-12.39.07:898][497]LogSavePackage: Moving '../../../../../../Users/Administrator/Documents/GitHub/The-Haunted-House/TheHauntedHouse_UE5/Saved/shlop_rgF75918304131F9DE8975B5B889C4EB89.tmp' to '../../../../../../Users/Administrator/Documents/GitHub/The-Haunted-House/TheHauntedHouse_UE5/Content/FirstPerson/BlueprintsBrens/FONTS/shlop_rg.uasset'
+[2023.05.12-12.39.07:904][497]LogSavePackage: Moving output files for package: /Game/FirstPerson/BlueprintsBrens/FONTS/shlop_rg_Font
+[2023.05.12-12.39.07:904][497]LogSavePackage: Moving '../../../../../../Users/Administrator/Documents/GitHub/The-Haunted-House/TheHauntedHouse_UE5/Saved/shlop_rg_FontD1F3D099447E110C4FE731986064C247.tmp' to '../../../../../../Users/Administrator/Documents/GitHub/The-Haunted-House/TheHauntedHouse_UE5/Content/FirstPerson/BlueprintsBrens/FONTS/shlop_rg_Font.uasset'
+[2023.05.12-12.39.07:906][497]LogSavePackage: Moving output files for package: /Game/FirstPerson/BlueprintsBrens/Materials/wp2050581
+[2023.05.12-12.39.07:906][497]LogSavePackage: Moving '../../../../../../Users/Administrator/Documents/GitHub/The-Haunted-House/TheHauntedHouse_UE5/Saved/wp20505814A7DC4CC4773B3ACAF500293E7BD459C.tmp' to '../../../../../../Users/Administrator/Documents/GitHub/The-Haunted-House/TheHauntedHouse_UE5/Content/FirstPerson/BlueprintsBrens/Materials/wp2050581.uasset'
+[2023.05.12-12.39.07:908][497]LogSavePackage: Moving output files for package: /Game/FirstPerson/BlueprintsBrens/FONTS/Zombie_Holocaust
+[2023.05.12-12.39.07:908][497]LogSavePackage: Moving '../../../../../../Users/Administrator/Documents/GitHub/The-Haunted-House/TheHauntedHouse_UE5/Saved/Zombie_HolocaustDC5099FE405D1624FDD3F5A07B174AFF.tmp' to '../../../../../../Users/Administrator/Documents/GitHub/The-Haunted-House/TheHauntedHouse_UE5/Content/FirstPerson/BlueprintsBrens/FONTS/Zombie_Holocaust.uasset'
+[2023.05.12-12.39.07:916][497]LogSavePackage: Moving output files for package: /Game/FirstPerson/BlueprintsBrens/FONTS/Zombie_Holocaust_Font
+[2023.05.12-12.39.07:916][497]LogSavePackage: Moving '../../../../../../Users/Administrator/Documents/GitHub/The-Haunted-House/TheHauntedHouse_UE5/Saved/Zombie_Holocaust_FontA9AEE6BB4599CCE430D3169DCBF5E3E5.tmp' to '../../../../../../Users/Administrator/Documents/GitHub/The-Haunted-House/TheHauntedHouse_UE5/Content/FirstPerson/BlueprintsBrens/FONTS/Zombie_Holocaust_Font.uasset'
+[2023.05.12-12.39.07:935][497]LogFileHelpers: InternalPromptForCheckoutAndSave took 172 ms (total: 2.23 sec)
+[2023.05.12-12.39.07:935][497]LogAssetEditorSubsystem: Opening Asset editor for World /Game/TeamContent/LEVELS/MainMenuLevel.MainMenuLevel
+[2023.05.12-12.39.07:935][497]Cmd: MAP LOAD FILE="../../../../../../Users/Administrator/Documents/GitHub/The-Haunted-House/TheHauntedHouse_UE5/Content/TeamContent/LEVELS/MainMenuLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.05.12-12.39.07:936][497]LightingResults: New page: Lighting Build
+[2023.05.12-12.39.07:936][497]LoadErrors: New page: Loading map: MainMenuLevel.umap
+[2023.05.12-12.39.07:961][497]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.12-12.39.07:963][497]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.12-12.39.07:969][497]LogContentBundle: [Container: FirstPersonMap] Deleting container.
+[2023.05.12-12.39.07:969][497]MapCheck: New page: Map Check
+[2023.05.12-12.39.07:970][497]LightingResults: New page: Lighting Build
+[2023.05.12-12.39.08:068][497]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.12-12.39.08:097][497]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2023.05.12-12.39.08:105][497]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2023.05.12-12.39.08:105][497]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.12-12.39.08:210][497]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2023.05.12-12.39.08:307][497]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2023.05.12-12.39.08:311][497]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenuLevel'.
+[2023.05.12-12.39.08:311][497]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.12-12.39.08:312][497]LogAIModule: Creating AISystem for world MainMenuLevel
+[2023.05.12-12.39.08:324][497]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.05.12-12.39.08:424][497]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2023.05.12-12.39.08:440][497]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.05.12-12.39.08:440][497]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.132ms to complete.
+[2023.05.12-12.39.08:440][497]LogFileHelpers: Loading map 'MainMenuLevel' took 0.505
+[2023.05.12-12.39.08:466][497]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.12-12.39.08:466][497]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/BlueprintsBrens/MainMenu.MainMenu
+[2023.05.12-12.39.08:467][497]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/FirstPerson/BlueprintsBrens/Materials/edeafa30b7283b689df48b12d9c52eae--spooky-house-creepy-houses.edeafa30b7283b689df48b12d9c52eae--spooky-house-creepy-houses
+[2023.05.12-12.39.08:467][497]LogContentValidation: Display: Validating /Script/Engine.Font /Game/FirstPerson/BlueprintsBrens/FONTS/shlop_rg_Font.shlop_rg_Font
+[2023.05.12-12.39.08:467][497]LogContentValidation: Display: Validating /Script/Engine.FontFace /Game/FirstPerson/BlueprintsBrens/FONTS/shlop_rg.shlop_rg
+[2023.05.12-12.39.08:467][497]LogContentValidation: Display: Validating /Script/Engine.Font /Game/FirstPerson/BlueprintsBrens/FONTS/Zombie_Holocaust_Font.Zombie_Holocaust_Font
+[2023.05.12-12.39.08:467][497]LogContentValidation: Display: Validating /Script/Engine.FontFace /Game/FirstPerson/BlueprintsBrens/FONTS/Zombie_Holocaust.Zombie_Holocaust
+[2023.05.12-12.39.08:467][497]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/FirstPerson/BlueprintsBrens/Materials/A-Haunted-House-1920x1080.A-Haunted-House-1920x1080
+[2023.05.12-12.39.08:467][497]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/FirstPerson/BlueprintsBrens/Materials/5de104a7e04c1681251981.5de104a7e04c1681251981
+[2023.05.12-12.39.08:467][497]LogContentValidation: Display: Validating /Script/Engine.Font /Game/FirstPerson/BlueprintsBrens/FONTS/fofbb_reg_Font.fofbb_reg_Font
+[2023.05.12-12.39.08:467][497]LogContentValidation: Display: Validating /Script/Engine.FontFace /Game/FirstPerson/BlueprintsBrens/FONTS/fofbb_reg.fofbb_reg
+[2023.05.12-12.39.08:467][497]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/FirstPerson/BlueprintsBrens/Materials/wp2050581.wp2050581
+[2023.05.12-12.39.39:384][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2023.05.12-12.39.39:387][ 75]LogAssetEditorSubsystem: Opening Asset editor for World /Game/TeamContent/LEVELS/MainMenuLevel.MainMenuLevel
+[2023.05.12-12.39.39:387][ 75]Cmd: MAP LOAD FILE="../../../../../../Users/Administrator/Documents/GitHub/The-Haunted-House/TheHauntedHouse_UE5/Content/TeamContent/LEVELS/MainMenuLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.05.12-12.39.39:387][ 75]LightingResults: New page: Lighting Build
+[2023.05.12-12.39.39:387][ 75]LoadErrors: New page: Loading map: MainMenuLevel.umap
+[2023.05.12-12.39.39:389][ 75]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2023.05.12-12.39.39:389][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.12-12.39.39:389][ 75]MapCheck: New page: Map Check
+[2023.05.12-12.39.39:389][ 75]LightingResults: New page: Lighting Build
+[2023.05.12-12.39.39:492][ 75]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.12-12.39.39:495][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2023.05.12-12.39.39:503][ 75]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenuLevel'.
+[2023.05.12-12.39.39:503][ 75]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.12-12.39.39:504][ 75]LogAIModule: Creating AISystem for world MainMenuLevel
+[2023.05.12-12.39.39:512][ 75]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.05.12-12.39.39:625][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2023.05.12-12.39.39:644][ 75]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.05.12-12.39.39:645][ 75]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.149ms to complete.
+[2023.05.12-12.39.39:645][ 75]LogFileHelpers: Loading map 'MainMenuLevel' took 0.258
+[2023.05.12-12.39.51:331][980]LogEditorViewport: Clicking Background
+[2023.05.12-12.39.53:183][132]LogEditorViewport: Clicking Background
+[2023.05.12-12.39.57:630][502]LogViewport: Scene viewport resized to 2742x1262, mode Windowed.
+[2023.05.12-12.40.06:064][376]LogViewport: Scene viewport resized to 1014x582, mode Windowed.
+[2023.05.12-12.40.47:533][812]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.12-12.40.47:533][812]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.12-12.40.47:533][812]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.12-12.40.49:789][ 45]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/TeamContent/LEVELS/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel
+[2023.05.12-12.40.49:792][ 45]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.12-12.42.33:344][620]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.12-12.42.33:345][620]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.12-12.42.33:345][620]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.12-12.45.00:901][213]LogDerivedDataCache: C:/Users/Administrator/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.093 and deleted 0 files with total size 0 MiB. Scanned 968 files in 965 folders with total size 31 MiB.
+[2023.05.12-12.46.02:738][891]BlueprintLog: New page: Compile MainMenuLevel
+[2023.05.12-12.46.02:883][891]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2023.05.12-12.46.03:990][996]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.12-12.46.04:163][996]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2023.05.12-12.46.04:171][996]LogSavePackage: Moving output files for package: /Game/TeamContent/LEVELS/MainMenuLevel
+[2023.05.12-12.46.04:172][996]LogSavePackage: Moving '../../../../../../Users/Administrator/Documents/GitHub/The-Haunted-House/TheHauntedHouse_UE5/Saved/MainMenuLevelDA7F1CD640DB15403369C3BAD1F6B4BA.tmp' to '../../../../../../Users/Administrator/Documents/GitHub/The-Haunted-House/TheHauntedHouse_UE5/Content/TeamContent/LEVELS/MainMenuLevel.umap'
+[2023.05.12-12.46.04:187][996]LogFileHelpers: Saving map 'MainMenuLevel' took 0.156
+[2023.05.12-12.46.04:194][996]LogFileHelpers: InternalPromptForCheckoutAndSave took 203 ms (total: 2.43 sec)
+[2023.05.12-12.46.04:207][996]AssetCheck: New page: Asset Save: MainMenuLevel
+[2023.05.12-12.46.04:207][996]LogContentValidation: Display: Validating /Script/Engine.World /Game/TeamContent/LEVELS/MainMenuLevel.MainMenuLevel
+[2023.05.12-12.46.56:797][ 27]LogShaderCompilers: Display: ================================================
+[2023.05.12-12.46.56:797][ 27]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.12-12.46.56:797][ 27]LogShaderCompilers: Display: Total job queries 6398, among them cache hits 14 (0.22%)
+[2023.05.12-12.46.56:797][ 27]LogShaderCompilers: Display: Tracking 6373 distinct input hashes that result in 4588 distinct outputs (71.99%)
+[2023.05.12-12.46.56:797][ 27]LogShaderCompilers: Display: RAM used: 38.18 MB (0.04 GB) of 3276.80 MB (3.20 GB) budget. Usage: 1.17%
+[2023.05.12-12.46.56:797][ 27]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.05.12-12.46.56:797][ 27]LogShaderCompilers: Display: Shaders Compiled: 6373
+[2023.05.12-12.46.56:797][ 27]LogShaderCompilers: Display: Jobs assigned 6384, completed 6373 (99.83%)
+[2023.05.12-12.46.56:797][ 27]LogShaderCompilers: Display: Average time worker was idle: 238.56 s
+[2023.05.12-12.46.56:797][ 27]LogShaderCompilers: Display: Time job spent in pending queue: average 120.50 s, longest 243.76 s
+[2023.05.12-12.46.56:797][ 27]LogShaderCompilers: Display: Job execution time: average 4.67 s, max 44.82 s
+[2023.05.12-12.46.56:797][ 27]LogShaderCompilers: Display: Job life time (pending + execution): average 125.38 s, max 251.83
+[2023.05.12-12.46.56:797][ 27]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 269.71 s
+[2023.05.12-12.46.56:797][ 27]LogShaderCompilers: Display: Jobs were issued in 735 batches (only local compilation was used), average 8.69 jobs/batch
+[2023.05.12-12.46.56:797][ 27]LogShaderCompilers: Display: Average processing rate: 23.63 jobs/sec
+[2023.05.12-12.46.56:797][ 27]LogShaderCompilers: Display: Total thread time: 2980.97 s
+[2023.05.12-12.46.56:797][ 27]LogShaderCompilers: Display: Total thread preprocess time: 154.06 s
+[2023.05.12-12.46.56:797][ 27]LogShaderCompilers: Display: Percentage time preprocessing: 5.17%
+[2023.05.12-12.46.56:797][ 27]LogShaderCompilers: Display: Effective parallelization: 11.05 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2023.05.12-12.46.56:797][ 27]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.05.12-12.46.56:797][ 27]LogShaderCompilers: Display:                                          FTSRRejectShadingCS (compiled    6 times, average 19.89 sec, max 43.12 sec, min 2.27 sec)
+[2023.05.12-12.46.56:797][ 27]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 6.84 sec, max 7.92 sec, min 4.60 sec)
+[2023.05.12-12.46.56:797][ 27]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 6.17 sec, max 10.12 sec, min 2.54 sec)
+[2023.05.12-12.46.56:797][ 27]LogShaderCompilers: Display:                                   FCloudRenderViewPS111false (compiled    1 times, average 3.14 sec, max 3.14 sec, min 3.14 sec)
+[2023.05.12-12.46.56:797][ 27]LogShaderCompilers: Display:                                   FCloudRenderViewPS101false (compiled    1 times, average 2.90 sec, max 2.90 sec, min 2.90 sec)
+[2023.05.12-12.46.56:797][ 27]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.05.12-12.46.56:797][ 27]LogShaderCompilers: Display:                                             FDeferredLightPS - 11.08% of total time (compiled  150 times, average 2.20 sec, max 2.98 sec, min 1.97 sec)
+[2023.05.12-12.46.56:797][ 27]LogShaderCompilers: Display:                                          FTSRRejectShadingCS - 4.00% of total time (compiled    6 times, average 19.89 sec, max 43.12 sec, min 2.27 sec)
+[2023.05.12-12.46.56:797][ 27]LogShaderCompilers: Display:          FBuildInstanceIdBufferAndCommandsFromPrimitiveIdsCs - 2.93% of total time (compiled  256 times, average 0.34 sec, max 0.58 sec, min 0.23 sec)
+[2023.05.12-12.46.56:797][ 27]LogShaderCompilers: Display:                                                   FTonemapCS - 2.87% of total time (compiled  420 times, average 0.20 sec, max 0.26 sec, min 0.16 sec)
+[2023.05.12-12.46.56:797][ 27]LogShaderCompilers: Display:                                  FScreenProbeTraceMeshSDFsCS - 2.85% of total time (compiled   96 times, average 0.89 sec, max 1.25 sec, min 0.31 sec)
+[2023.05.12-12.46.56:797][ 27]LogShaderCompilers: Display: ================================================
+[2023.05.12-12.48.54:885][184]LogSlate: Window 'Project Settings' being destroyed
+[2023.05.12-12.48.54:889][184]LogSlate: Window 'Project Settings' being destroyed
+[2023.05.12-12.49.09:488][179]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.12-12.49.09:502][179]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.05.12-12.49.09:514][179]LogPlayLevel: [PlayLevel] Compiling MainMenu before play...
+[2023.05.12-12.49.09:514][179]LogPlayLevel: [PlayLevel]   Compiling NewCreditsMenu as a dependent...
+[2023.05.12-12.49.09:515][179]LogPlayLevel: [PlayLevel]   Compiling NewMainMenu as a dependent...
+[2023.05.12-12.49.09:515][179]LogPlayLevel: [PlayLevel]   Compiling NewOptionsMenu as a dependent...
+[2023.05.12-12.49.10:073][179]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2023.05.12-12.49.10:076][179]LogPlayLevel: PlayLevel: Blueprint regeneration took 573 ms (4 blueprints)
+[2023.05.12-12.49.10:080][179]PIE: New page: PIE session: MainMenuLevel (May 12, 2023, 2:49:10 PM)
+[2023.05.12-12.49.10:088][179]LogOnline: OSS: Created online subsystem instance for: NULL
+[2023.05.12-12.49.10:088][179]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.05.12-12.49.10:094][179]LogPlayLevel: Creating play world package: /Game/TeamContent/LEVELS/UEDPIE_0_MainMenuLevel
+[2023.05.12-12.49.10:098][179]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003357s)
+[2023.05.12-12.49.10:098][179]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TeamContent/LEVELS/MainMenuLevel.MainMenuLevel to /Game/TeamContent/LEVELS/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.003815s)
+[2023.05.12-12.49.10:099][179]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.12-12.49.10:099][179]LogAIModule: Creating AISystem for world MainMenuLevel
+[2023.05.12-12.49.10:100][179]LogPlayLevel: PIE: World Init took: (0.001413s)
+[2023.05.12-12.49.10:249][179]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2023.05.12-12.49.10:257][179]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.05.12-12.49.10:258][179]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.12-12.49.10:258][179]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.12-12.49.10:258][179]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.12-12.49.10:258][179]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.12-12.49.10:258][179]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.12-12.49.10:258][179]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.12-12.49.10:258][179]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.12-12.49.10:258][179]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.12-12.49.10:259][179]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.12-12.49.10:259][179]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.12-12.49.10:259][179]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.12-12.49.10:263][179]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.12-12.49.10:372][179]LogAudioMixer: Display: Using Audio Hardware Device Speakers / Headphones (Realtek Audio)
+[2023.05.12-12.49.10:373][179]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.12-12.49.10:373][179]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.12-12.49.10:373][179]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.12-12.49.10:375][179]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.05.12-12.49.10:375][179]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2023.05.12-12.49.10:378][179]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.05.12-12.49.10:378][179]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.05.12-12.49.10:378][179]LogInit: FAudioDevice initialized.
+[2023.05.12-12.49.10:378][179]LogAudio: Display: Audio Device (ID: 2) registered with world 'MainMenuLevel'.
+[2023.05.12-12.49.10:397][179]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.05.12-12.49.10:397][179]LogWorld: Bringing World /Game/TeamContent/LEVELS/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2023.05.12-13.49.10
+[2023.05.12-12.49.10:400][179]LogWorld: Bringing up level for play took: 0.002849
+[2023.05.12-12.49.10:404][179]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2023.05.12-12.49.10:412][179]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.05.12-12.49.10:474][179]LogScript: Warning: Accessed None trying to read property OptionsButton
+	NewMainMenu_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.NewMainMenu_C_0
+	Function /Game/FirstPerson/BlueprintsBrens/NewMainMenu.NewMainMenu_C:ExecuteUbergraph_NewMainMenu:0017
+[2023.05.12-12.49.10:474][179]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property OptionsButton". Node:  Set bIsEnabled Graph:  EventGraph Function:  Execute Ubergraph New Main Menu Blueprint:  NewMainMenu
+[2023.05.12-12.49.10:476][179]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2023.05.12-12.49.10:476][179]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.05.12-12.49.10:476][179]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.05.12-12.49.10:485][179]PIE: Server logged in
+[2023.05.12-12.49.10:486][179]PIE: Play in editor total start time 0.99 seconds.
+[2023.05.12-12.49.14:272][423]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.12-12.49.14:272][423]LogWorld: BeginTearingDown for /Game/TeamContent/LEVELS/UEDPIE_0_MainMenuLevel
+[2023.05.12-12.49.14:273][423]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2023.05.12-12.49.14:274][423]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.12-12.49.14:281][423]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.12-12.49.14:306][423]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.12-12.49.14:458][423]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.12-12.49.14:462][423]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.05.12-12.49.14:466][423]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.05.12-12.49.14:476][423]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.12-12.49.14:541][423]LogUObjectHash: Compacting FUObjectHashTables data took   5.88ms
+[2023.05.12-12.49.14:734][424]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2023.05.12-12.49.57:863][795]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.12-12.49.57:875][795]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.12-12.49.57:875][795]PIE: New page: PIE session: MainMenuLevel (May 12, 2023, 2:49:57 PM)
+[2023.05.12-12.49.57:875][795]LogPlayLevel: Creating play world package: /Game/TeamContent/LEVELS/UEDPIE_0_MainMenuLevel
+[2023.05.12-12.49.57:875][795]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001575s)
+[2023.05.12-12.49.57:875][795]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TeamContent/LEVELS/MainMenuLevel.MainMenuLevel to /Game/TeamContent/LEVELS/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.001607s)
+[2023.05.12-12.49.57:877][795]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.12-12.49.57:877][795]LogAIModule: Creating AISystem for world MainMenuLevel
+[2023.05.12-12.49.57:877][795]LogPlayLevel: PIE: World Init took: (0.000940s)
+[2023.05.12-12.49.58:057][795]LogUObjectHash: Compacting FUObjectHashTables data took   8.22ms
+[2023.05.12-12.49.58:061][795]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.05.12-12.49.58:061][795]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.12-12.49.58:061][795]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.12-12.49.58:061][795]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.12-12.49.58:061][795]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.12-12.49.58:061][795]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.12-12.49.58:061][795]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.12-12.49.58:061][795]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.12-12.49.58:061][795]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.12-12.49.58:062][795]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.12-12.49.58:062][795]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.12-12.49.58:062][795]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.12-12.49.58:066][795]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.12-12.49.58:187][795]LogAudioMixer: Display: Using Audio Hardware Device Speakers / Headphones (Realtek Audio)
+[2023.05.12-12.49.58:188][795]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.12-12.49.58:188][795]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.12-12.49.58:188][795]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.12-12.49.58:192][795]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2023.05.12-12.49.58:192][795]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2023.05.12-12.49.58:194][795]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2023.05.12-12.49.58:195][795]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2023.05.12-12.49.58:195][795]LogInit: FAudioDevice initialized.
+[2023.05.12-12.49.58:195][795]LogAudio: Display: Audio Device (ID: 3) registered with world 'MainMenuLevel'.
+[2023.05.12-12.49.58:208][795]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.05.12-12.49.58:209][795]LogWorld: Bringing World /Game/TeamContent/LEVELS/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2023.05.12-13.49.58
+[2023.05.12-12.49.58:210][795]LogWorld: Bringing up level for play took: 0.001131
+[2023.05.12-12.49.58:212][795]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2023.05.12-12.49.58:213][795]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.05.12-12.49.58:217][795]LogScript: Warning: Accessed None trying to read property OptionsButton
+	NewMainMenu_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.NewMainMenu_C_0
+	Function /Game/FirstPerson/BlueprintsBrens/NewMainMenu.NewMainMenu_C:ExecuteUbergraph_NewMainMenu:0017
+[2023.05.12-12.49.58:217][795]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property OptionsButton". Node:  Set bIsEnabled Graph:  EventGraph Function:  Execute Ubergraph New Main Menu Blueprint:  NewMainMenu
+[2023.05.12-12.49.58:217][795]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2023.05.12-12.49.58:217][795]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.05.12-12.49.58:217][795]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.05.12-12.49.58:221][795]PIE: Server logged in
+[2023.05.12-12.49.58:222][795]PIE: Play in editor total start time 0.348 seconds.
+[2023.05.12-12.50.01:665][999]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.12-12.50.01:665][999]LogWorld: BeginTearingDown for /Game/TeamContent/LEVELS/UEDPIE_0_MainMenuLevel
+[2023.05.12-12.50.01:665][999]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2023.05.12-12.50.01:665][999]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.12-12.50.01:668][999]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.12-12.50.01:681][999]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.12-12.50.01:804][999]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.12-12.50.01:805][999]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.05.12-12.50.01:806][999]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.05.12-12.50.01:812][999]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.12-12.50.01:815][999]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2023.05.12-12.50.01:908][  0]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2023.05.12-12.51.11:444][488]BlueprintLog: New page: Compile MainMenuLevel
+[2023.05.12-12.51.11:608][488]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2023.05.12-12.51.12:501][537]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.12-12.51.12:701][537]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.05.12-12.51.12:709][537]LogSavePackage: Moving output files for package: /Game/TeamContent/LEVELS/MainMenuLevel
+[2023.05.12-12.51.12:710][537]LogSavePackage: Moving '../../../../../../Users/Administrator/Documents/GitHub/The-Haunted-House/TheHauntedHouse_UE5/Saved/MainMenuLevel44A8EC9A45D7E1EAB07FDEAC75802CA7.tmp' to '../../../../../../Users/Administrator/Documents/GitHub/The-Haunted-House/TheHauntedHouse_UE5/Content/TeamContent/LEVELS/MainMenuLevel.umap'
+[2023.05.12-12.51.12:730][537]LogFileHelpers: Saving map 'MainMenuLevel' took 0.170
+[2023.05.12-12.51.12:737][537]LogFileHelpers: InternalPromptForCheckoutAndSave took 236 ms (total: 2.67 sec)
+[2023.05.12-12.51.12:751][537]AssetCheck: New page: Asset Save: MainMenuLevel
+[2023.05.12-12.51.12:751][537]LogContentValidation: Display: Validating /Script/Engine.World /Game/TeamContent/LEVELS/MainMenuLevel.MainMenuLevel
+[2023.05.12-12.51.30:569][730]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.05.12-12.51.30:569][730]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.12-12.51.30:585][730]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.05.12-12.51.30:585][730]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.12-12.51.35:893][  5]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.12-12.51.35:900][  5]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.12-12.51.35:900][  5]PIE: New page: PIE session: MainMenuLevel (May 12, 2023, 2:51:35 PM)
+[2023.05.12-12.51.35:900][  5]LogPlayLevel: Creating play world package: /Game/TeamContent/LEVELS/UEDPIE_0_MainMenuLevel
+[2023.05.12-12.51.35:902][  5]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001411s)
+[2023.05.12-12.51.35:902][  5]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TeamContent/LEVELS/MainMenuLevel.MainMenuLevel to /Game/TeamContent/LEVELS/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.001438s)
+[2023.05.12-12.51.35:902][  5]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.12-12.51.35:902][  5]LogAIModule: Creating AISystem for world MainMenuLevel
+[2023.05.12-12.51.35:902][  5]LogPlayLevel: PIE: World Init took: (0.000799s)
+[2023.05.12-12.51.36:068][  5]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2023.05.12-12.51.36:074][  5]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.05.12-12.51.36:074][  5]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.12-12.51.36:074][  5]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.12-12.51.36:074][  5]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.12-12.51.36:074][  5]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.12-12.51.36:074][  5]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.12-12.51.36:074][  5]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.12-12.51.36:074][  5]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.12-12.51.36:074][  5]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.12-12.51.36:075][  5]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.12-12.51.36:075][  5]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.12-12.51.36:075][  5]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.12-12.51.36:078][  5]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.12-12.51.36:183][  5]LogAudioMixer: Display: Using Audio Hardware Device Speakers / Headphones (Realtek Audio)
+[2023.05.12-12.51.36:184][  5]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.12-12.51.36:184][  5]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.12-12.51.36:184][  5]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.12-12.51.36:185][  5]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2023.05.12-12.51.36:185][  5]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2023.05.12-12.51.36:188][  5]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2023.05.12-12.51.36:189][  5]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2023.05.12-12.51.36:189][  5]LogInit: FAudioDevice initialized.
+[2023.05.12-12.51.36:189][  5]LogAudio: Display: Audio Device (ID: 4) registered with world 'MainMenuLevel'.
+[2023.05.12-12.51.36:202][  5]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.05.12-12.51.36:202][  5]LogWorld: Bringing World /Game/TeamContent/LEVELS/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2023.05.12-13.51.36
+[2023.05.12-12.51.36:202][  5]LogWorld: Bringing up level for play took: 0.000528
+[2023.05.12-12.51.36:206][  5]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2023.05.12-12.51.36:207][  5]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.05.12-12.51.36:210][  5]LogScript: Warning: Accessed None trying to read property OptionsButton
+	NewMainMenu_C /Engine/Transient.UnrealEdEngine_0:GameInstance_2.NewMainMenu_C_0
+	Function /Game/FirstPerson/BlueprintsBrens/NewMainMenu.NewMainMenu_C:ExecuteUbergraph_NewMainMenu:0017
+[2023.05.12-12.51.36:210][  5]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property OptionsButton". Node:  Set bIsEnabled Graph:  EventGraph Function:  Execute Ubergraph New Main Menu Blueprint:  NewMainMenu
+[2023.05.12-12.51.36:210][  5]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2023.05.12-12.51.36:210][  5]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.05.12-12.51.36:210][  5]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.05.12-12.51.36:212][  5]PIE: Server logged in
+[2023.05.12-12.51.36:212][  5]PIE: Play in editor total start time 0.313 seconds.
+[2023.05.12-12.51.55:706][964]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.12-12.51.55:706][964]LogWorld: BeginTearingDown for /Game/TeamContent/LEVELS/UEDPIE_0_MainMenuLevel
+[2023.05.12-12.51.55:707][964]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2023.05.12-12.51.55:707][964]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.12-12.51.55:714][964]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.12-12.51.55:734][964]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.12-12.51.55:849][964]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.12-12.51.55:850][964]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.05.12-12.51.55:851][964]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.05.12-12.51.55:857][964]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.12-12.51.55:886][964]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2023.05.12-12.51.55:974][965]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2023.05.12-12.53.06:804][959]LogSlate: Window 'Project Settings' being destroyed
+[2023.05.12-12.53.06:809][959]LogSlate: Window 'Project Settings' being destroyed
+[2023.05.12-12.55.17:189][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2023.05.12-12.56.05:850][491]BlueprintLog: New page: Compile MainMenuLevel
+[2023.05.12-12.56.05:991][491]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2023.05.12-12.56.07:347][566]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.12-12.56.07:526][566]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.05.12-12.56.07:536][566]LogSavePackage: Moving output files for package: /Game/TeamContent/LEVELS/MainMenuLevel
+[2023.05.12-12.56.07:536][566]LogSavePackage: Moving '../../../../../../Users/Administrator/Documents/GitHub/The-Haunted-House/TheHauntedHouse_UE5/Saved/MainMenuLevel00E2911B436CA0F1D64C7B8D0EC318E3.tmp' to '../../../../../../Users/Administrator/Documents/GitHub/The-Haunted-House/TheHauntedHouse_UE5/Content/TeamContent/LEVELS/MainMenuLevel.umap'
+[2023.05.12-12.56.07:553][566]LogFileHelpers: Saving map 'MainMenuLevel' took 0.151
+[2023.05.12-12.56.07:562][566]LogFileHelpers: InternalPromptForCheckoutAndSave took 215 ms (total: 2.88 sec)
+[2023.05.12-12.56.07:575][566]AssetCheck: New page: Asset Save: MainMenuLevel
+[2023.05.12-12.56.07:575][566]LogContentValidation: Display: Validating /Script/Engine.World /Game/TeamContent/LEVELS/MainMenuLevel.MainMenuLevel
+[2023.05.12-12.57.37:569][ 29]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.12-12.57.37:570][ 29]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.12-12.57.37:570][ 29]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.12-12.58.29:086][ 51]LogSlate: Window 'Project Settings' being destroyed
+[2023.05.12-12.58.29:092][ 51]LogSlate: Window 'Project Settings' being destroyed
+[2023.05.12-12.59.03:253][979]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.12-12.59.03:261][979]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.12-12.59.03:261][979]PIE: New page: PIE session: MainMenuLevel (May 12, 2023, 2:59:03 PM)
+[2023.05.12-12.59.03:261][979]LogPlayLevel: Creating play world package: /Game/TeamContent/LEVELS/UEDPIE_0_MainMenuLevel
+[2023.05.12-12.59.03:263][979]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001733s)
+[2023.05.12-12.59.03:263][979]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TeamContent/LEVELS/MainMenuLevel.MainMenuLevel to /Game/TeamContent/LEVELS/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.001770s)
+[2023.05.12-12.59.03:263][979]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.12-12.59.03:263][979]LogAIModule: Creating AISystem for world MainMenuLevel
+[2023.05.12-12.59.03:264][979]LogPlayLevel: PIE: World Init took: (0.001046s)
+[2023.05.12-12.59.03:385][979]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2023.05.12-12.59.03:403][979]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.05.12-12.59.03:403][979]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.12-12.59.03:403][979]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.12-12.59.03:403][979]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.12-12.59.03:403][979]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.12-12.59.03:403][979]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.12-12.59.03:403][979]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.12-12.59.03:403][979]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.12-12.59.03:403][979]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.12-12.59.03:404][979]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.12-12.59.03:404][979]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.12-12.59.03:404][979]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.12-12.59.03:407][979]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.12-12.59.03:511][979]LogAudioMixer: Display: Using Audio Hardware Device Speakers / Headphones (Realtek Audio)
+[2023.05.12-12.59.03:512][979]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.12-12.59.03:512][979]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.12-12.59.03:512][979]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.12-12.59.03:514][979]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2023.05.12-12.59.03:514][979]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2023.05.12-12.59.03:517][979]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2023.05.12-12.59.03:517][979]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2023.05.12-12.59.03:517][979]LogInit: FAudioDevice initialized.
+[2023.05.12-12.59.03:517][979]LogAudio: Display: Audio Device (ID: 5) registered with world 'MainMenuLevel'.
+[2023.05.12-12.59.03:532][979]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.05.12-12.59.03:533][979]LogWorld: Bringing World /Game/TeamContent/LEVELS/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2023.05.12-13.59.03
+[2023.05.12-12.59.03:533][979]LogWorld: Bringing up level for play took: 0.001100
+[2023.05.12-12.59.03:538][979]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2023.05.12-12.59.03:540][979]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.05.12-12.59.03:545][979]LogScript: Warning: Accessed None trying to read property OptionsButton
+	NewMainMenu_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.NewMainMenu_C_0
+	Function /Game/FirstPerson/BlueprintsBrens/NewMainMenu.NewMainMenu_C:ExecuteUbergraph_NewMainMenu:0017
+[2023.05.12-12.59.03:545][979]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property OptionsButton". Node:  Set bIsEnabled Graph:  EventGraph Function:  Execute Ubergraph New Main Menu Blueprint:  NewMainMenu
+[2023.05.12-12.59.03:545][979]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2023.05.12-12.59.03:545][979]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.05.12-12.59.03:545][979]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.05.12-12.59.03:549][979]PIE: Server logged in
+[2023.05.12-12.59.03:550][979]PIE: Play in editor total start time 0.29 seconds.
+[2023.05.12-12.59.28:604][860]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.12-12.59.28:604][860]LogWorld: BeginTearingDown for /Game/TeamContent/LEVELS/UEDPIE_0_MainMenuLevel
+[2023.05.12-12.59.28:604][860]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2023.05.12-12.59.28:604][860]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.12-12.59.28:608][860]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.12-12.59.28:621][860]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.12-12.59.28:726][860]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.12-12.59.28:726][860]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.05.12-12.59.28:728][860]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.05.12-12.59.28:743][860]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2023.05.12-12.59.28:825][861]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2023.05.12-12.59.37:776][645]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.12-12.59.37:783][645]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.12-12.59.37:783][645]PIE: New page: PIE session: MainMenuLevel (May 12, 2023, 2:59:37 PM)
+[2023.05.12-12.59.37:783][645]LogPlayLevel: Creating play world package: /Game/TeamContent/LEVELS/UEDPIE_0_MainMenuLevel
+[2023.05.12-12.59.37:784][645]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001404s)
+[2023.05.12-12.59.37:784][645]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TeamContent/LEVELS/MainMenuLevel.MainMenuLevel to /Game/TeamContent/LEVELS/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.001433s)
+[2023.05.12-12.59.37:785][645]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.12-12.59.37:785][645]LogAIModule: Creating AISystem for world MainMenuLevel
+[2023.05.12-12.59.37:785][645]LogPlayLevel: PIE: World Init took: (0.000928s)
+[2023.05.12-12.59.37:895][645]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2023.05.12-12.59.37:899][645]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.05.12-12.59.37:899][645]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.12-12.59.37:899][645]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.12-12.59.37:899][645]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.12-12.59.37:899][645]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.12-12.59.37:899][645]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.12-12.59.37:899][645]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.12-12.59.37:899][645]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.12-12.59.37:899][645]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.12-12.59.37:900][645]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.12-12.59.37:900][645]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.12-12.59.37:900][645]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.12-12.59.37:902][645]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.12-12.59.38:007][645]LogAudioMixer: Display: Using Audio Hardware Device Speakers / Headphones (Realtek Audio)
+[2023.05.12-12.59.38:007][645]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.12-12.59.38:007][645]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.12-12.59.38:007][645]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.12-12.59.38:008][645]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2023.05.12-12.59.38:008][645]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2023.05.12-12.59.38:014][645]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2023.05.12-12.59.38:014][645]LogInit: FAudioDevice initialized.
+[2023.05.12-12.59.38:014][645]LogAudio: Display: Audio Device (ID: 6) registered with world 'MainMenuLevel'.
+[2023.05.12-12.59.38:014][645]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2023.05.12-12.59.38:028][645]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.05.12-12.59.38:029][645]LogWorld: Bringing World /Game/TeamContent/LEVELS/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2023.05.12-13.59.38
+[2023.05.12-12.59.38:029][645]LogWorld: Bringing up level for play took: 0.000834
+[2023.05.12-12.59.38:033][645]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2023.05.12-12.59.38:034][645]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.05.12-12.59.38:038][645]LogScript: Warning: Accessed None trying to read property OptionsButton
+	NewMainMenu_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.NewMainMenu_C_0
+	Function /Game/FirstPerson/BlueprintsBrens/NewMainMenu.NewMainMenu_C:ExecuteUbergraph_NewMainMenu:0017
+[2023.05.12-12.59.38:038][645]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property OptionsButton". Node:  Set bIsEnabled Graph:  EventGraph Function:  Execute Ubergraph New Main Menu Blueprint:  NewMainMenu
+[2023.05.12-12.59.38:039][645]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2023.05.12-12.59.38:039][645]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.05.12-12.59.38:039][645]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.05.12-12.59.38:043][645]PIE: Server logged in
+[2023.05.12-12.59.38:044][645]PIE: Play in editor total start time 0.261 seconds.
+[2023.05.12-13.00.00:714][829]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.12-13.00.00:714][829]LogWorld: BeginTearingDown for /Game/TeamContent/LEVELS/UEDPIE_0_MainMenuLevel
+[2023.05.12-13.00.00:714][829]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2023.05.12-13.00.00:714][829]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.12-13.00.00:717][829]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.12-13.00.00:730][829]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.12-13.00.00:846][829]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.12-13.00.00:846][829]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.05.12-13.00.00:848][829]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.05.12-13.00.00:859][829]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2023.05.12-13.00.00:952][830]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2023.05.12-13.01.55:456][ 69]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.12-13.01.55:463][ 69]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.12-13.01.55:463][ 69]PIE: New page: PIE session: MainMenuLevel (May 12, 2023, 3:01:55 PM)
+[2023.05.12-13.01.55:463][ 69]LogPlayLevel: Creating play world package: /Game/TeamContent/LEVELS/UEDPIE_0_MainMenuLevel
+[2023.05.12-13.01.55:465][ 69]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001613s)
+[2023.05.12-13.01.55:465][ 69]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TeamContent/LEVELS/MainMenuLevel.MainMenuLevel to /Game/TeamContent/LEVELS/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.001648s)
+[2023.05.12-13.01.55:465][ 69]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.12-13.01.55:466][ 69]LogAIModule: Creating AISystem for world MainMenuLevel
+[2023.05.12-13.01.55:466][ 69]LogPlayLevel: PIE: World Init took: (0.001150s)
+[2023.05.12-13.01.55:573][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2023.05.12-13.01.55:577][ 69]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.05.12-13.01.55:577][ 69]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.12-13.01.55:577][ 69]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.12-13.01.55:577][ 69]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.12-13.01.55:577][ 69]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.12-13.01.55:577][ 69]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.12-13.01.55:577][ 69]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.12-13.01.55:577][ 69]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.12-13.01.55:577][ 69]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.12-13.01.55:577][ 69]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.12-13.01.55:577][ 69]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.12-13.01.55:577][ 69]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.12-13.01.55:580][ 69]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.12-13.01.55:685][ 69]LogAudioMixer: Display: Using Audio Hardware Device Speakers / Headphones (Realtek Audio)
+[2023.05.12-13.01.55:686][ 69]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.12-13.01.55:686][ 69]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.12-13.01.55:686][ 69]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.12-13.01.55:687][ 69]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2023.05.12-13.01.55:687][ 69]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2023.05.12-13.01.55:692][ 69]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2023.05.12-13.01.55:692][ 69]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2023.05.12-13.01.55:692][ 69]LogInit: FAudioDevice initialized.
+[2023.05.12-13.01.55:692][ 69]LogAudio: Display: Audio Device (ID: 7) registered with world 'MainMenuLevel'.
+[2023.05.12-13.01.55:703][ 69]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.05.12-13.01.55:704][ 69]LogWorld: Bringing World /Game/TeamContent/LEVELS/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2023.05.12-14.01.55
+[2023.05.12-13.01.55:704][ 69]LogWorld: Bringing up level for play took: 0.000544
+[2023.05.12-13.01.55:706][ 69]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2023.05.12-13.01.55:708][ 69]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.05.12-13.01.55:713][ 69]LogScript: Warning: Accessed None trying to read property OptionsButton
+	NewMainMenu_C /Engine/Transient.UnrealEdEngine_0:GameInstance_5.NewMainMenu_C_0
+	Function /Game/FirstPerson/BlueprintsBrens/NewMainMenu.NewMainMenu_C:ExecuteUbergraph_NewMainMenu:0017
+[2023.05.12-13.01.55:713][ 69]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property OptionsButton". Node:  Set bIsEnabled Graph:  EventGraph Function:  Execute Ubergraph New Main Menu Blueprint:  NewMainMenu
+[2023.05.12-13.01.55:713][ 69]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2023.05.12-13.01.55:713][ 69]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.05.12-13.01.55:713][ 69]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.05.12-13.01.55:717][ 69]PIE: Server logged in
+[2023.05.12-13.01.55:719][ 69]PIE: Play in editor total start time 0.256 seconds.
+[2023.05.12-13.02.02:495][441]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.12-13.02.02:495][441]LogWorld: BeginTearingDown for /Game/TeamContent/LEVELS/UEDPIE_0_MainMenuLevel
+[2023.05.12-13.02.02:495][441]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2023.05.12-13.02.02:496][441]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.12-13.02.02:502][441]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.12-13.02.02:518][441]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.12-13.02.02:629][441]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.12-13.02.02:629][441]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.05.12-13.02.02:631][441]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.05.12-13.02.02:640][441]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2023.05.12-13.02.02:727][442]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2023.05.12-13.02.03:714][493]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.12-13.02.03:721][493]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.12-13.02.03:721][493]PIE: New page: PIE session: MainMenuLevel (May 12, 2023, 3:02:03 PM)
+[2023.05.12-13.02.03:721][493]LogPlayLevel: Creating play world package: /Game/TeamContent/LEVELS/UEDPIE_0_MainMenuLevel
+[2023.05.12-13.02.03:722][493]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001265s)
+[2023.05.12-13.02.03:722][493]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TeamContent/LEVELS/MainMenuLevel.MainMenuLevel to /Game/TeamContent/LEVELS/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.001294s)
+[2023.05.12-13.02.03:722][493]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.12-13.02.03:723][493]LogAIModule: Creating AISystem for world MainMenuLevel
+[2023.05.12-13.02.03:723][493]LogPlayLevel: PIE: World Init took: (0.000907s)
+[2023.05.12-13.02.03:827][493]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2023.05.12-13.02.03:830][493]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2023.05.12-13.02.03:830][493]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.12-13.02.03:830][493]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.12-13.02.03:830][493]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.12-13.02.03:830][493]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.12-13.02.03:830][493]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.12-13.02.03:830][493]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.12-13.02.03:830][493]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.12-13.02.03:830][493]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.12-13.02.03:831][493]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.12-13.02.03:831][493]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.12-13.02.03:831][493]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.12-13.02.03:833][493]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.12-13.02.03:939][493]LogAudioMixer: Display: Using Audio Hardware Device Speakers / Headphones (Realtek Audio)
+[2023.05.12-13.02.03:940][493]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.12-13.02.03:940][493]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.12-13.02.03:940][493]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.12-13.02.03:941][493]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2023.05.12-13.02.03:941][493]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2023.05.12-13.02.03:945][493]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2023.05.12-13.02.03:945][493]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2023.05.12-13.02.03:945][493]LogInit: FAudioDevice initialized.
+[2023.05.12-13.02.03:945][493]LogAudio: Display: Audio Device (ID: 8) registered with world 'MainMenuLevel'.
+[2023.05.12-13.02.03:958][493]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.05.12-13.02.03:958][493]LogWorld: Bringing World /Game/TeamContent/LEVELS/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2023.05.12-14.02.03
+[2023.05.12-13.02.03:959][493]LogWorld: Bringing up level for play took: 0.000420
+[2023.05.12-13.02.03:963][493]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2023.05.12-13.02.03:963][493]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.05.12-13.02.03:966][493]LogScript: Warning: Accessed None trying to read property OptionsButton
+	NewMainMenu_C /Engine/Transient.UnrealEdEngine_0:GameInstance_6.NewMainMenu_C_0
+	Function /Game/FirstPerson/BlueprintsBrens/NewMainMenu.NewMainMenu_C:ExecuteUbergraph_NewMainMenu:0017
+[2023.05.12-13.02.03:966][493]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property OptionsButton". Node:  Set bIsEnabled Graph:  EventGraph Function:  Execute Ubergraph New Main Menu Blueprint:  NewMainMenu
+[2023.05.12-13.02.03:966][493]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2023.05.12-13.02.03:966][493]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.05.12-13.02.03:966][493]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.05.12-13.02.03:968][493]PIE: Server logged in
+[2023.05.12-13.02.03:969][493]PIE: Play in editor total start time 0.248 seconds.
+[2023.05.12-13.02.15:253][214]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.12-13.02.15:253][214]LogWorld: BeginTearingDown for /Game/TeamContent/LEVELS/UEDPIE_0_MainMenuLevel
+[2023.05.12-13.02.15:253][214]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2023.05.12-13.02.15:253][214]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.12-13.02.15:258][214]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.12-13.02.15:275][214]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.12-13.02.15:393][214]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.12-13.02.15:393][214]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.05.12-13.02.15:395][214]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.05.12-13.02.15:404][214]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2023.05.12-13.02.15:484][215]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2023.05.12-13.03.47:585][606]LogHttp: Warning: 00000AB9581F6900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7F16121A-46FA-70AB-A7A5-DCAE5F492878%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.1-23901901%2B%2B%2BUE5%2BRelease-5.1&UserID=69d30c024bf4113deb282fb4d5fcdd6b%7C005d88e2607d47ba8bca94393f93e29d%7C59dc4bc1-a94b-4be7-90df-7d3c8efe4ffb&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.05.12-13.03.47:585][606]LogHttp: Warning: 00000AB9581F6900: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2023.05.12-13.03.47:585][606]LogHttp: Warning: 00000AB9581F6900: libcurl info message cache 0 (Found bundle for host: 0xab8ef960ba0 [serially])
+[2023.05.12-13.03.47:585][606]LogHttp: Warning: 00000AB9581F6900: libcurl info message cache 1 (Re-using existing connection #8 with host datarouter.ol.epicgames.com)
+[2023.05.12-13.03.47:585][606]LogHttp: Warning: 00000AB9581F6900: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.233.130.146) port 443 (#8))
+[2023.05.12-13.03.47:585][606]LogHttp: Warning: 00000AB9581F6900: libcurl info message cache 3 (We are completely uploaded and fine)
+[2023.05.12-13.03.47:585][606]LogHttp: Warning: 00000AB9581F6900: libcurl info message cache 4 (OpenSSL SSL_read: Connection was reset, errno 10054)
+[2023.05.12-13.03.47:585][606]LogHttp: Warning: 00000AB9581F6900: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2023.05.12-13.03.47:585][606]LogHttp: Warning: 00000AB9581F6900: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2023.05.12-13.03.47:585][606]LogHttp: Warning: 00000AB9581F6900: libcurl info message cache 7 (Closing connection 8)
+[2023.05.12-13.03.47:585][606]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7F16121A-46FA-70AB-A7A5-DCAE5F492878%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.1-23901901%2B%2B%2BUE5%2BRelease-5.1&UserID=69d30c024bf4113deb282fb4d5fcdd6b%7C005d88e2607d47ba8bca94393f93e29d%7C59dc4bc1-a94b-4be7-90df-7d3c8efe4ffb&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.05.12-13.03.53:364][990]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2023.05.12-13.03.53:372][990]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.12-13.03.53:560][990]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2023.05.12-13.03.53:569][990]LogSavePackage: Moving output files for package: /Game/TeamContent/LEVELS/MainMenuLevel
+[2023.05.12-13.03.53:569][990]LogSavePackage: Moving '../../../../../../Users/Administrator/Documents/GitHub/The-Haunted-House/TheHauntedHouse_UE5/Saved/MainMenuLevel4538DDF14A12F225B7FAFB9A864C8BD7.tmp' to '../../../../../../Users/Administrator/Documents/GitHub/The-Haunted-House/TheHauntedHouse_UE5/Content/TeamContent/LEVELS/MainMenuLevel.umap'
+[2023.05.12-13.03.53:589][990]LogFileHelpers: Saving map 'MainMenuLevel' took 0.153
+[2023.05.12-13.03.53:597][990]LogFileHelpers: InternalPromptForCheckoutAndSave took 224 ms (total: 3.11 sec)
+[2023.05.12-13.03.53:612][990]AssetCheck: New page: Asset Save: MainMenuLevel
+[2023.05.12-13.03.53:612][990]LogContentValidation: Display: Validating /Script/Engine.World /Game/TeamContent/LEVELS/MainMenuLevel.MainMenuLevel
