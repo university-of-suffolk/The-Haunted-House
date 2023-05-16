@@ -3272,3 +3272,735 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.05.16-13.51.47:567][217]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
 [2023.05.16-13.51.52:909][844]LogContentBrowser: Attempting asset rename: NewFolder -> Bosses_UI
 [2023.05.16-13.51.52:910][844]LogContentBrowser: End creating deferred item NewFolder
+[2023.05.16-13.54.34:915][348]LogEditorViewport: Clicking Background
+[2023.05.16-13.54.56:205][340]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.05.16-13.54.57:793][340]LogSlate: Window 'Save Content' being destroyed
+[2023.05.16-13.54.57:804][340]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.16-13.54.57:945][340]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2023.05.16-13.54.57:946][340]LogSavePackage: Moving '../../../../../../Users/Administrator/Desktop/Group Project Haunted House/TheHauntedHouse_UE5/Saved/BP_FirstPersonCharacter6FA8B44E4FB6DFF7DD231B88FD26E013.tmp' to '../../../../../../Users/Administrator/Desktop/Group Project Haunted House/TheHauntedHouse_UE5/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2023.05.16-13.54.57:959][340]LogSavePackage: Moving output files for package: /Game/TeamContent/Blueprints/BP_Trap_Explosive
+[2023.05.16-13.54.57:959][340]LogSavePackage: Moving '../../../../../../Users/Administrator/Desktop/Group Project Haunted House/TheHauntedHouse_UE5/Saved/BP_Trap_ExplosiveE4188C7D463F623B8B29869F7CB94CA9.tmp' to '../../../../../../Users/Administrator/Desktop/Group Project Haunted House/TheHauntedHouse_UE5/Content/TeamContent/Blueprints/BP_Trap_Explosive.uasset'
+[2023.05.16-13.54.57:965][340]LogSavePackage: Moving output files for package: /Game/TeamContent/UI/Health/Hearts_UI
+[2023.05.16-13.54.57:966][340]LogSavePackage: Moving '../../../../../../Users/Administrator/Desktop/Group Project Haunted House/TheHauntedHouse_UE5/Saved/Hearts_UICE94EFA7480F31D10AB05AB5F857F8E7.tmp' to '../../../../../../Users/Administrator/Desktop/Group Project Haunted House/TheHauntedHouse_UE5/Content/TeamContent/UI/Health/Hearts_UI.uasset'
+[2023.05.16-13.54.58:092][340]LogSavePackage: Moving output files for package: /Game/TeamContent/Blueprints/TargetForDoor
+[2023.05.16-13.54.58:092][340]LogSavePackage: Moving '../../../../../../Users/Administrator/Desktop/Group Project Haunted House/TheHauntedHouse_UE5/Saved/TargetForDoor3FCDD0AB40B06FF8BDFFBBB062564BE6.tmp' to '../../../../../../Users/Administrator/Desktop/Group Project Haunted House/TheHauntedHouse_UE5/Content/TeamContent/Blueprints/TargetForDoor.uasset'
+[2023.05.16-13.54.58:105][340]LogFileHelpers: InternalPromptForCheckoutAndSave took 300 ms (total: 892 ms)
+[2023.05.16-13.54.58:256][340]LogAssetEditorSubsystem: Opening Asset editor for World /Game/TeamContent/Level_Instance_Rooms/LI_Crypt_Room_1.LI_Crypt_Room_1
+[2023.05.16-13.54.58:257][340]LightingResults: New page: Lighting Build
+[2023.05.16-13.54.58:257][340]LoadErrors: New page: Loading map: LI_Crypt_Room_1.umap
+[2023.05.16-13.54.58:285][340]LogWorld: UWorld::CleanupWorld for L_Game, bSessionEnded=true, bCleanupResources=true
+[2023.05.16-13.54.58:285][340]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.16-13.54.58:286][340]LogWorld: UWorld::CleanupWorld for LI_Crypt_Room_1, bSessionEnded=true, bCleanupResources=true
+[2023.05.16-13.54.58:286][340]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.16-13.54.58:286][340]LogWorld: UWorld::CleanupWorld for LI_Crypt_Room_3, bSessionEnded=true, bCleanupResources=true
+[2023.05.16-13.54.58:286][340]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.16-13.54.58:286][340]LogWorld: UWorld::CleanupWorld for LI_Manor_Room_4, bSessionEnded=true, bCleanupResources=true
+[2023.05.16-13.54.58:286][340]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.16-13.54.58:286][340]LogWorld: UWorld::CleanupWorld for LI_HauntedHouse, bSessionEnded=true, bCleanupResources=true
+[2023.05.16-13.54.58:286][340]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.16-13.54.58:286][340]LogWorld: UWorld::CleanupWorld for LI_Manor_Room_3, bSessionEnded=true, bCleanupResources=true
+[2023.05.16-13.54.58:286][340]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.16-13.54.58:286][340]LogWorld: UWorld::CleanupWorld for LI_Manor_Room_1, bSessionEnded=true, bCleanupResources=true
+[2023.05.16-13.54.58:286][340]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.16-13.54.58:286][340]LogWorld: UWorld::CleanupWorld for LI_Manor_Room_2, bSessionEnded=true, bCleanupResources=true
+[2023.05.16-13.54.58:286][340]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.16-13.54.58:286][340]MapCheck: New page: Map Check
+[2023.05.16-13.54.58:286][340]LightingResults: New page: Lighting Build
+[2023.05.16-13.54.58:422][340]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.16-13.54.58:451][340]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2023.05.16-13.54.58:462][340]LogWorld: UWorld::CleanupWorld for LI_Crypt_Room_1, bSessionEnded=true, bCleanupResources=true
+[2023.05.16-13.54.58:463][340]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.16-13.54.58:585][340]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.05.16-13.54.58:705][340]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.05.16-13.54.58:770][340]LogAudio: Display: Audio Device (ID: 1) registered with world 'LI_Crypt_Room_1'.
+[2023.05.16-13.54.58:770][340]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.16-13.54.58:770][340]LogAIModule: Creating AISystem for world LI_Crypt_Room_1
+[2023.05.16-13.54.58:782][340]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.05.16-13.54.58:906][340]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2023.05.16-13.54.58:936][340]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.05.16-13.54.58:936][340]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.163ms to complete.
+[2023.05.16-13.54.58:936][340]LogFileHelpers: Loading map 'LI_Crypt_Room_1' took 0.679
+[2023.05.16-13.54.58:979][340]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.16-13.54.58:979][340]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2023.05.16-13.54.58:980][340]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/TeamContent/UI/Health/Hearts_UI.Hearts_UI
+[2023.05.16-13.54.58:980][340]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TeamContent/Blueprints/BP_Trap_Explosive.BP_Trap_Explosive
+[2023.05.16-13.54.58:981][340]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TeamContent/Blueprints/TargetForDoor.TargetForDoor
+[2023.05.16-13.54.59:092][340]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2023.05.16-13.55.00:002][413]LogShaderCompilers: Display: ================================================
+[2023.05.16-13.55.00:002][413]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.16-13.55.00:002][413]LogShaderCompilers: Display: Total job queries 300, among them cache hits 28 (9.33%)
+[2023.05.16-13.55.00:002][413]LogShaderCompilers: Display: Tracking 272 distinct input hashes that result in 203 distinct outputs (74.63%)
+[2023.05.16-13.55.00:002][413]LogShaderCompilers: Display: RAM used: 2.37 MB (0.00 GB) of 3276.80 MB (3.20 GB) budget. Usage: 0.07%
+[2023.05.16-13.55.00:002][413]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.05.16-13.55.00:002][413]LogShaderCompilers: Display: Shaders Compiled: 7
+[2023.05.16-13.55.00:002][413]LogShaderCompilers: Display: Jobs assigned 7, completed 7 (100.00%)
+[2023.05.16-13.55.00:002][413]LogShaderCompilers: Display: Average time worker was idle: 838.31 s
+[2023.05.16-13.55.00:002][413]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.09 s
+[2023.05.16-13.55.00:002][413]LogShaderCompilers: Display: Job execution time: average 0.96 s, max 1.62 s
+[2023.05.16-13.55.00:002][413]LogShaderCompilers: Display: Job life time (pending + execution): average 1.02 s, max 1.67
+[2023.05.16-13.55.00:002][413]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.44 s
+[2023.05.16-13.55.00:002][413]LogShaderCompilers: Display: Jobs were issued in 7 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.05.16-13.55.00:002][413]LogShaderCompilers: Display: Average processing rate: 1.58 jobs/sec
+[2023.05.16-13.55.00:002][413]LogShaderCompilers: Display: Total thread time: 4.96 s
+[2023.05.16-13.55.00:002][413]LogShaderCompilers: Display: Total thread preprocess time: 0.24 s
+[2023.05.16-13.55.00:002][413]LogShaderCompilers: Display: Percentage time preprocessing: 4.84%
+[2023.05.16-13.55.00:002][413]LogShaderCompilers: Display: Effective parallelization: 1.12 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2023.05.16-13.55.00:002][413]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2023.05.16-13.55.00:002][413]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    3 times, average 0.85 sec, max 1.35 sec, min 0.57 sec)
+[2023.05.16-13.55.00:002][413]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 0.70 sec, max 0.70 sec, min 0.70 sec)
+[2023.05.16-13.55.00:002][413]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 0.60 sec, max 0.60 sec, min 0.60 sec)
+[2023.05.16-13.55.00:002][413]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.55 sec, max 0.56 sec, min 0.55 sec)
+[2023.05.16-13.55.00:002][413]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2023.05.16-13.55.00:002][413]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 51.31% of total time (compiled    3 times, average 0.85 sec, max 1.35 sec, min 0.57 sec)
+[2023.05.16-13.55.00:002][413]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 22.35% of total time (compiled    2 times, average 0.55 sec, max 0.56 sec, min 0.55 sec)
+[2023.05.16-13.55.00:002][413]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy - 14.21% of total time (compiled    1 times, average 0.70 sec, max 0.70 sec, min 0.70 sec)
+[2023.05.16-13.55.00:002][413]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 12.12% of total time (compiled    1 times, average 0.60 sec, max 0.60 sec, min 0.60 sec)
+[2023.05.16-13.55.00:002][413]LogShaderCompilers: Display: ================================================
+[2023.05.16-13.55.05:292][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2023.05.16-13.55.05:516][ 12]LogAssetEditorSubsystem: Opening Asset editor for World /Game/TeamContent/Level_Instance_Rooms/LI_Crypt_Room_2.LI_Crypt_Room_2
+[2023.05.16-13.55.05:516][ 12]LightingResults: New page: Lighting Build
+[2023.05.16-13.55.05:516][ 12]LoadErrors: New page: Loading map: LI_Crypt_Room_2.umap
+[2023.05.16-13.55.05:551][ 12]LogWorld: UWorld::CleanupWorld for LI_Crypt_Room_1, bSessionEnded=true, bCleanupResources=true
+[2023.05.16-13.55.05:551][ 12]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.16-13.55.05:551][ 12]MapCheck: New page: Map Check
+[2023.05.16-13.55.05:551][ 12]LightingResults: New page: Lighting Build
+[2023.05.16-13.55.05:687][ 12]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.16-13.55.05:693][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2023.05.16-13.55.05:698][ 12]LogWorld: UWorld::CleanupWorld for LI_Crypt_Room_2, bSessionEnded=true, bCleanupResources=true
+[2023.05.16-13.55.05:699][ 12]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.16-13.55.05:827][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2023.05.16-13.55.05:945][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2023.05.16-13.55.06:114][ 12]LogAudio: Display: Audio Device (ID: 1) registered with world 'LI_Crypt_Room_2'.
+[2023.05.16-13.55.06:114][ 12]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.16-13.55.06:114][ 12]LogAIModule: Creating AISystem for world LI_Crypt_Room_2
+[2023.05.16-13.55.06:134][ 12]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.05.16-13.55.06:257][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.05.16-13.55.06:280][ 12]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.05.16-13.55.06:280][ 12]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.177ms to complete.
+[2023.05.16-13.55.06:280][ 12]LogFileHelpers: Loading map 'LI_Crypt_Room_2' took 0.763
+[2023.05.16-13.55.10:694][468]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2023.05.16-13.55.10:840][468]LogAssetEditorSubsystem: Opening Asset editor for World /Game/TeamContent/Level_Instance_Rooms/LI_Crypt_Room_3.LI_Crypt_Room_3
+[2023.05.16-13.55.10:840][468]LightingResults: New page: Lighting Build
+[2023.05.16-13.55.10:840][468]LoadErrors: New page: Loading map: LI_Crypt_Room_3.umap
+[2023.05.16-13.55.10:844][468]LogWorld: UWorld::CleanupWorld for LI_Crypt_Room_2, bSessionEnded=true, bCleanupResources=true
+[2023.05.16-13.55.10:845][468]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.16-13.55.10:845][468]MapCheck: New page: Map Check
+[2023.05.16-13.55.10:845][468]LightingResults: New page: Lighting Build
+[2023.05.16-13.55.10:959][468]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.16-13.55.10:969][468]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2023.05.16-13.55.10:975][468]LogWorld: UWorld::CleanupWorld for LI_Crypt_Room_3, bSessionEnded=true, bCleanupResources=true
+[2023.05.16-13.55.10:975][468]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.16-13.55.11:093][468]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2023.05.16-13.55.11:211][468]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2023.05.16-13.55.11:276][468]LogAudio: Display: Audio Device (ID: 1) registered with world 'LI_Crypt_Room_3'.
+[2023.05.16-13.55.11:276][468]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.16-13.55.11:277][468]LogAIModule: Creating AISystem for world LI_Crypt_Room_3
+[2023.05.16-13.55.11:292][468]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.05.16-13.55.11:414][468]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2023.05.16-13.55.11:438][468]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.05.16-13.55.11:438][468]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.154ms to complete.
+[2023.05.16-13.55.11:438][468]LogFileHelpers: Loading map 'LI_Crypt_Room_3' took 0.599
+[2023.05.16-13.55.19:881][393]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.05.16-13.55.20:021][393]LogAssetEditorSubsystem: Opening Asset editor for World /Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_1.LI_Manor_Room_1
+[2023.05.16-13.55.20:021][393]LightingResults: New page: Lighting Build
+[2023.05.16-13.55.20:021][393]LoadErrors: New page: Loading map: LI_Manor_Room_1.umap
+[2023.05.16-13.55.20:051][393]LogWorld: UWorld::CleanupWorld for LI_Crypt_Room_3, bSessionEnded=true, bCleanupResources=true
+[2023.05.16-13.55.20:051][393]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.16-13.55.20:051][393]MapCheck: New page: Map Check
+[2023.05.16-13.55.20:051][393]LightingResults: New page: Lighting Build
+[2023.05.16-13.55.20:172][393]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.16-13.55.20:179][393]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2023.05.16-13.55.20:185][393]LogWorld: UWorld::CleanupWorld for LI_Manor_Room_1, bSessionEnded=true, bCleanupResources=true
+[2023.05.16-13.55.20:186][393]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.16-13.55.20:301][393]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2023.05.16-13.55.20:421][393]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2023.05.16-13.55.20:472][393]LogAudio: Display: Audio Device (ID: 1) registered with world 'LI_Manor_Room_1'.
+[2023.05.16-13.55.20:472][393]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.16-13.55.20:473][393]LogAIModule: Creating AISystem for world LI_Manor_Room_1
+[2023.05.16-13.55.20:475][393]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_1.LI_Manor_Room_1:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8D8101_1194302211.SK_TargetBase'
+[2023.05.16-13.55.20:475][393]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_1.LI_Manor_Room_1:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8D8101_1194295200.SK_TargetBase'
+[2023.05.16-13.55.20:476][393]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_1.LI_Manor_Room_1:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8D8101_1194325248.SK_TargetBase'
+[2023.05.16-13.55.20:477][393]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_1.LI_Manor_Room_1:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8D8101_1217193262.SK_TargetBase'
+[2023.05.16-13.55.20:477][393]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_1.LI_Manor_Room_1:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8D8101_1194310223.SK_TargetBase'
+[2023.05.16-13.55.20:478][393]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_1.LI_Manor_Room_1:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8D8101_1194302211.SK_TargetBase'
+[2023.05.16-13.55.20:479][393]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_1.LI_Manor_Room_1:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8D8101_1194302211.SK_TargetBase'
+[2023.05.16-13.55.20:480][393]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_1.LI_Manor_Room_1:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8D8101_1194295200.SK_TargetBase'
+[2023.05.16-13.55.20:481][393]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_1.LI_Manor_Room_1:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8D8101_1194295200.SK_TargetBase'
+[2023.05.16-13.55.20:482][393]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_1.LI_Manor_Room_1:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8D8101_1194325248.SK_TargetBase'
+[2023.05.16-13.55.20:482][393]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_1.LI_Manor_Room_1:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8D8101_1194325248.SK_TargetBase'
+[2023.05.16-13.55.20:483][393]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_1.LI_Manor_Room_1:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8D8101_1217193262.SK_TargetBase'
+[2023.05.16-13.55.20:484][393]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_1.LI_Manor_Room_1:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8D8101_1217193262.SK_TargetBase'
+[2023.05.16-13.55.20:485][393]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_1.LI_Manor_Room_1:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8D8101_1194310223.SK_TargetBase'
+[2023.05.16-13.55.20:486][393]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_1.LI_Manor_Room_1:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8D8101_1194310223.SK_TargetBase'
+[2023.05.16-13.55.20:497][393]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.05.16-13.55.20:616][393]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2023.05.16-13.55.20:640][393]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.05.16-13.55.20:642][393]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2.032ms to complete.
+[2023.05.16-13.55.20:642][393]LogFileHelpers: Loading map 'LI_Manor_Room_1' took 0.621
+[2023.05.16-13.55.26:875][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2023.05.16-13.55.27:000][ 75]LogAssetEditorSubsystem: Opening Asset editor for World /Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_2.LI_Manor_Room_2
+[2023.05.16-13.55.27:000][ 75]LightingResults: New page: Lighting Build
+[2023.05.16-13.55.27:000][ 75]LoadErrors: New page: Loading map: LI_Manor_Room_2.umap
+[2023.05.16-13.55.27:030][ 75]LogWorld: UWorld::CleanupWorld for LI_Manor_Room_1, bSessionEnded=true, bCleanupResources=true
+[2023.05.16-13.55.27:030][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.16-13.55.27:031][ 75]MapCheck: New page: Map Check
+[2023.05.16-13.55.27:031][ 75]LightingResults: New page: Lighting Build
+[2023.05.16-13.55.27:166][ 75]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.16-13.55.27:171][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2023.05.16-13.55.27:176][ 75]LogWorld: UWorld::CleanupWorld for LI_Manor_Room_2, bSessionEnded=true, bCleanupResources=true
+[2023.05.16-13.55.27:176][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.16-13.55.27:297][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2023.05.16-13.55.27:409][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2023.05.16-13.55.27:435][ 75]LogAudio: Display: Audio Device (ID: 1) registered with world 'LI_Manor_Room_2'.
+[2023.05.16-13.55.27:435][ 75]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.16-13.55.27:435][ 75]LogAIModule: Creating AISystem for world LI_Manor_Room_2
+[2023.05.16-13.55.27:437][ 75]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_2.LI_Manor_Room_2:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1245037493.SK_TargetBase'
+[2023.05.16-13.55.27:437][ 75]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_2.LI_Manor_Room_2:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1245042500.SK_TargetBase'
+[2023.05.16-13.55.27:438][ 75]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_2.LI_Manor_Room_2:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1245023476.SK_TargetBase'
+[2023.05.16-13.55.27:438][ 75]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_2.LI_Manor_Room_2:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1245027481.SK_TargetBase'
+[2023.05.16-13.55.27:439][ 75]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_2.LI_Manor_Room_2:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1245037493.SK_TargetBase'
+[2023.05.16-13.55.27:440][ 75]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_2.LI_Manor_Room_2:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1245037493.SK_TargetBase'
+[2023.05.16-13.55.27:441][ 75]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_2.LI_Manor_Room_2:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1245042500.SK_TargetBase'
+[2023.05.16-13.55.27:442][ 75]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_2.LI_Manor_Room_2:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1245042500.SK_TargetBase'
+[2023.05.16-13.55.27:442][ 75]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_2.LI_Manor_Room_2:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1245023476.SK_TargetBase'
+[2023.05.16-13.55.27:443][ 75]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_2.LI_Manor_Room_2:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1245023476.SK_TargetBase'
+[2023.05.16-13.55.27:444][ 75]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_2.LI_Manor_Room_2:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1245027481.SK_TargetBase'
+[2023.05.16-13.55.27:445][ 75]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_2.LI_Manor_Room_2:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1245027481.SK_TargetBase'
+[2023.05.16-13.55.27:456][ 75]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.05.16-13.55.27:574][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2023.05.16-13.55.27:600][ 75]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.05.16-13.55.27:600][ 75]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.144ms to complete.
+[2023.05.16-13.55.27:600][ 75]LogFileHelpers: Loading map 'LI_Manor_Room_2' took 0.600
+[2023.05.16-13.55.30:521][371]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.05.16-13.55.30:640][371]LogAssetEditorSubsystem: Opening Asset editor for World /Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_3.LI_Manor_Room_3
+[2023.05.16-13.55.30:640][371]LightingResults: New page: Lighting Build
+[2023.05.16-13.55.30:640][371]LoadErrors: New page: Loading map: LI_Manor_Room_3.umap
+[2023.05.16-13.55.30:680][371]LogWorld: UWorld::CleanupWorld for LI_Manor_Room_2, bSessionEnded=true, bCleanupResources=true
+[2023.05.16-13.55.30:680][371]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.16-13.55.30:681][371]MapCheck: New page: Map Check
+[2023.05.16-13.55.30:681][371]LightingResults: New page: Lighting Build
+[2023.05.16-13.55.30:819][371]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.16-13.55.30:823][371]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2023.05.16-13.55.30:828][371]LogWorld: UWorld::CleanupWorld for LI_Manor_Room_3, bSessionEnded=true, bCleanupResources=true
+[2023.05.16-13.55.30:828][371]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.16-13.55.30:951][371]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2023.05.16-13.55.31:070][371]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2023.05.16-13.55.31:104][371]LogAudio: Display: Audio Device (ID: 1) registered with world 'LI_Manor_Room_3'.
+[2023.05.16-13.55.31:105][371]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.16-13.55.31:105][371]LogAIModule: Creating AISystem for world LI_Manor_Room_3
+[2023.05.16-13.55.31:106][371]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_3.LI_Manor_Room_3:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1320842531.SK_TargetBase'
+[2023.05.16-13.55.31:107][371]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_3.LI_Manor_Room_3:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1320851543.SK_TargetBase'
+[2023.05.16-13.55.31:107][371]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_3.LI_Manor_Room_3:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1320826511.SK_TargetBase'
+[2023.05.16-13.55.31:108][371]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_3.LI_Manor_Room_3:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1320817502.SK_TargetBase'
+[2023.05.16-13.55.31:108][371]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_3.LI_Manor_Room_3:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1335127545.SK_TargetBase'
+[2023.05.16-13.55.31:109][371]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_3.LI_Manor_Room_3:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1320830516.SK_TargetBase'
+[2023.05.16-13.55.31:109][371]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_3.LI_Manor_Room_3:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1320846537.SK_TargetBase'
+[2023.05.16-13.55.31:110][371]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_3.LI_Manor_Room_3:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1320842531.SK_TargetBase'
+[2023.05.16-13.55.31:110][371]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_3.LI_Manor_Room_3:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1320842531.SK_TargetBase'
+[2023.05.16-13.55.31:111][371]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_3.LI_Manor_Room_3:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1320851543.SK_TargetBase'
+[2023.05.16-13.55.31:112][371]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_3.LI_Manor_Room_3:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1320851543.SK_TargetBase'
+[2023.05.16-13.55.31:113][371]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_3.LI_Manor_Room_3:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1320826511.SK_TargetBase'
+[2023.05.16-13.55.31:114][371]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_3.LI_Manor_Room_3:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1320826511.SK_TargetBase'
+[2023.05.16-13.55.31:115][371]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_3.LI_Manor_Room_3:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1320817502.SK_TargetBase'
+[2023.05.16-13.55.31:116][371]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_3.LI_Manor_Room_3:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1320817502.SK_TargetBase'
+[2023.05.16-13.55.31:116][371]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_3.LI_Manor_Room_3:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1335127545.SK_TargetBase'
+[2023.05.16-13.55.31:117][371]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_3.LI_Manor_Room_3:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1335127545.SK_TargetBase'
+[2023.05.16-13.55.31:118][371]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_3.LI_Manor_Room_3:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1320830516.SK_TargetBase'
+[2023.05.16-13.55.31:119][371]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_3.LI_Manor_Room_3:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1320830516.SK_TargetBase'
+[2023.05.16-13.55.31:119][371]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_3.LI_Manor_Room_3:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1320846537.SK_TargetBase'
+[2023.05.16-13.55.31:120][371]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_3.LI_Manor_Room_3:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1320846537.SK_TargetBase'
+[2023.05.16-13.55.31:131][371]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.05.16-13.55.31:254][371]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2023.05.16-13.55.31:275][371]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.05.16-13.55.31:277][371]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.762ms to complete.
+[2023.05.16-13.55.31:277][371]LogFileHelpers: Loading map 'LI_Manor_Room_3' took 0.638
+[2023.05.16-13.56.26:133][831]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.05.16-13.56.26:239][831]LogStaticMesh: Warning: Invalid material [MM_WaterMaterialMaster_Inst] used on Nanite static mesh [SM_WaterPlane] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2023.05.16-13.56.26:255][831]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/L_Game.L_Game
+[2023.05.16-13.56.26:255][831]Cmd: MAP LOAD FILE="../../../../../../Users/Administrator/Desktop/Group Project Haunted House/TheHauntedHouse_UE5/Content/Levels/L_Game.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.05.16-13.56.26:255][831]LightingResults: New page: Lighting Build
+[2023.05.16-13.56.26:255][831]LoadErrors: New page: Loading map: L_Game.umap
+[2023.05.16-13.56.26:289][831]LogWorld: UWorld::CleanupWorld for LI_Manor_Room_3, bSessionEnded=true, bCleanupResources=true
+[2023.05.16-13.56.26:289][831]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.16-13.56.26:289][831]MapCheck: New page: Map Check
+[2023.05.16-13.56.26:289][831]LightingResults: New page: Lighting Build
+[2023.05.16-13.56.26:290][831]LogStaticMesh: Warning: Invalid material [MM_WaterMaterialMaster_Inst] used on Nanite static mesh [SM_WaterPlane] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2023.05.16-13.56.26:412][831]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.16-13.56.26:417][831]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2023.05.16-13.56.26:423][831]LogWorld: UWorld::CleanupWorld for L_Game, bSessionEnded=true, bCleanupResources=true
+[2023.05.16-13.56.26:424][831]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.16-13.56.26:544][831]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2023.05.16-13.56.26:662][831]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2023.05.16-13.56.26:676][831]LogAudio: Display: Audio Device (ID: 1) registered with world 'L_Game'.
+[2023.05.16-13.56.26:676][831]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.16-13.56.26:677][831]LogAIModule: Creating AISystem for world L_Game
+[2023.05.16-13.56.26:685][831]LogStaticMesh: Warning: Invalid material [MM_WaterMaterialMaster_Inst] used on Nanite static mesh [SM_WaterPlane] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2023.05.16-13.56.26:685][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/L_Game.L_Game:PersistentLevel.BP_Target_C_1.SK_TargetBase'
+[2023.05.16-13.56.26:686][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/L_Game.L_Game:PersistentLevel.BP_Target_C_2.SK_TargetBase'
+[2023.05.16-13.56.26:686][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/L_Game.L_Game:PersistentLevel.BP_Target_C_3.SK_TargetBase'
+[2023.05.16-13.56.26:686][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/L_Game.L_Game:PersistentLevel.BP_Target_C_4.SK_TargetBase'
+[2023.05.16-13.56.26:686][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/L_Game.L_Game:PersistentLevel.BP_Target_C_5.SK_TargetBase'
+[2023.05.16-13.56.26:687][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/L_Game.L_Game:PersistentLevel.BP_Target_C_6.SK_TargetBase'
+[2023.05.16-13.56.26:687][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/L_Game.L_Game:PersistentLevel.BP_Target_C_7.SK_TargetBase'
+[2023.05.16-13.56.26:687][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/L_Game.L_Game:PersistentLevel.BP_Target_C_8.SK_TargetBase'
+[2023.05.16-13.56.26:687][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/L_Game.L_Game:PersistentLevel.BP_Target_C_9.SK_TargetBase'
+[2023.05.16-13.56.26:693][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/L_Game.L_Game:PersistentLevel.BP_Target_C_1.SK_TargetBase'
+[2023.05.16-13.56.26:694][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/L_Game.L_Game:PersistentLevel.BP_Target_C_1.SK_TargetBase'
+[2023.05.16-13.56.26:695][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/L_Game.L_Game:PersistentLevel.BP_Target_C_2.SK_TargetBase'
+[2023.05.16-13.56.26:695][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/L_Game.L_Game:PersistentLevel.BP_Target_C_2.SK_TargetBase'
+[2023.05.16-13.56.26:696][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/L_Game.L_Game:PersistentLevel.BP_Target_C_3.SK_TargetBase'
+[2023.05.16-13.56.26:697][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/L_Game.L_Game:PersistentLevel.BP_Target_C_3.SK_TargetBase'
+[2023.05.16-13.56.26:698][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/L_Game.L_Game:PersistentLevel.BP_Target_C_4.SK_TargetBase'
+[2023.05.16-13.56.26:699][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/L_Game.L_Game:PersistentLevel.BP_Target_C_4.SK_TargetBase'
+[2023.05.16-13.56.26:699][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/L_Game.L_Game:PersistentLevel.BP_Target_C_5.SK_TargetBase'
+[2023.05.16-13.56.26:700][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/L_Game.L_Game:PersistentLevel.BP_Target_C_5.SK_TargetBase'
+[2023.05.16-13.56.26:701][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/L_Game.L_Game:PersistentLevel.BP_Target_C_6.SK_TargetBase'
+[2023.05.16-13.56.26:702][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/L_Game.L_Game:PersistentLevel.BP_Target_C_6.SK_TargetBase'
+[2023.05.16-13.56.26:702][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/L_Game.L_Game:PersistentLevel.BP_Target_C_7.SK_TargetBase'
+[2023.05.16-13.56.26:703][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/L_Game.L_Game:PersistentLevel.BP_Target_C_7.SK_TargetBase'
+[2023.05.16-13.56.26:704][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/L_Game.L_Game:PersistentLevel.BP_Target_C_8.SK_TargetBase'
+[2023.05.16-13.56.26:705][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/L_Game.L_Game:PersistentLevel.BP_Target_C_8.SK_TargetBase'
+[2023.05.16-13.56.26:706][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/L_Game.L_Game:PersistentLevel.BP_Target_C_9.SK_TargetBase'
+[2023.05.16-13.56.26:706][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/L_Game.L_Game:PersistentLevel.BP_Target_C_9.SK_TargetBase'
+[2023.05.16-13.56.26:718][831]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.05.16-13.56.26:721][831]LogStaticMesh: Warning: Invalid material [MM_WaterMaterialMaster_Inst] used on Nanite static mesh [SM_WaterPlane] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2023.05.16-13.56.26:838][831]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2023.05.16-13.56.26:858][831]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.05.16-13.56.26:858][831]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.147ms to complete.
+[2023.05.16-13.56.26:858][831]LogFileHelpers: Loading map 'L_Game' took 0.603
+[2023.05.16-13.56.26:896][831]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/TeamContent/Level_Instance_Rooms/LI_Crypt_Room_1_LevelInstance_578ac00b8687b305_0) is flushing async loading
+[2023.05.16-13.56.26:896][831]LogStreaming: Display: FlushAsyncLoading(-1): 1 QueuedPackages, 0 AsyncPackages
+[2023.05.16-13.56.26:934][831]LogStreaming: Warning: Detected 264 objects loaded in PostLoad while streaming, this may cause hitches as we're blocking async loading to pre-load them.
+[2023.05.16-13.56.26:961][831]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/TeamContent/Level_Instance_Rooms/LI_Crypt_Room_3_LevelInstance_7b63892e2f3c6c04_0) is flushing async loading
+[2023.05.16-13.56.26:988][831]LogStreaming: Warning: Detected 282 objects loaded in PostLoad while streaming, this may cause hitches as we're blocking async loading to pre-load them.
+[2023.05.16-13.56.27:008][831]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_4_LevelInstance_7fbbc5072cf00e64_0) is flushing async loading
+[2023.05.16-13.56.27:027][831]LogStreaming: Warning: Detected 189 objects loaded in PostLoad while streaming, this may cause hitches as we're blocking async loading to pre-load them.
+[2023.05.16-13.56.27:054][831]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/TeamContent/Level_Instance_Rooms/LI_HauntedHouse_LevelInstance_4f2cc2ea75d82e9a_0) is flushing async loading
+[2023.05.16-13.56.27:184][831]LogStreaming: Warning: Detected 2187 objects loaded in PostLoad while streaming, this may cause hitches as we're blocking async loading to pre-load them.
+[2023.05.16-13.56.27:502][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_HauntedHouse_LevelInstance_4f2cc2ea75d82e9a_0.LI_HauntedHouse:PersistentLevel.BP_Target_C_UAID_F02F744EB1AAC47F01_1587407991.SK_TargetBase'
+[2023.05.16-13.56.27:503][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_HauntedHouse_LevelInstance_4f2cc2ea75d82e9a_0.LI_HauntedHouse:PersistentLevel.BP_Target_C_UAID_F02F744EB1AAC47F01_1591824992.SK_TargetBase'
+[2023.05.16-13.56.27:504][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_HauntedHouse_LevelInstance_4f2cc2ea75d82e9a_0.LI_HauntedHouse:PersistentLevel.BP_Target_C_UAID_F02F744EB1AAC47F01_2096461998.SK_TargetBase'
+[2023.05.16-13.56.27:504][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_HauntedHouse_LevelInstance_4f2cc2ea75d82e9a_0.LI_HauntedHouse:PersistentLevel.BP_Target_C_UAID_F02F744EB1AAC48001_1363665831.SK_TargetBase'
+[2023.05.16-13.56.27:505][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_HauntedHouse_LevelInstance_4f2cc2ea75d82e9a_0.LI_HauntedHouse:PersistentLevel.BP_Target_C_UAID_F02F744EB1AAC47F01_2111202001.SK_TargetBase'
+[2023.05.16-13.56.27:517][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_HauntedHouse_LevelInstance_4f2cc2ea75d82e9a_0.LI_HauntedHouse:PersistentLevel.BP_Target_C_UAID_F02F744EB1AAC27F01_1836289626.SK_TargetBase'
+[2023.05.16-13.56.27:518][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_HauntedHouse_LevelInstance_4f2cc2ea75d82e9a_0.LI_HauntedHouse:PersistentLevel.BP_Target_C_UAID_F02F744EB1AAC47F01_1548062986.SK_TargetBase'
+[2023.05.16-13.56.27:518][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_HauntedHouse_LevelInstance_4f2cc2ea75d82e9a_0.LI_HauntedHouse:PersistentLevel.BP_Target_C_UAID_F02F744EB1AAC48001_1445019835.SK_TargetBase'
+[2023.05.16-13.56.27:518][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_HauntedHouse_LevelInstance_4f2cc2ea75d82e9a_0.LI_HauntedHouse:PersistentLevel.BP_Target_C_UAID_F02F744EB1AAC57F01_1169150186.SK_TargetBase'
+[2023.05.16-13.56.27:519][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_HauntedHouse_LevelInstance_4f2cc2ea75d82e9a_0.LI_HauntedHouse:PersistentLevel.BP_Target_C_UAID_F02F744EB1AAC47F01_1578285989.SK_TargetBase'
+[2023.05.16-13.56.27:519][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_HauntedHouse_LevelInstance_4f2cc2ea75d82e9a_0.LI_HauntedHouse:PersistentLevel.BP_Target_C_UAID_F02F744EB1AAC47F01_2103607000.SK_TargetBase'
+[2023.05.16-13.56.27:519][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_HauntedHouse_LevelInstance_4f2cc2ea75d82e9a_0.LI_HauntedHouse:PersistentLevel.BP_Target_C_UAID_F02F744EB1AAC48001_1301433828.SK_TargetBase'
+[2023.05.16-13.56.27:520][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_HauntedHouse_LevelInstance_4f2cc2ea75d82e9a_0.LI_HauntedHouse:PersistentLevel.BP_Target_C_UAID_F02F744EB1AAC47F01_1564386987.SK_TargetBase'
+[2023.05.16-13.56.27:521][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_HauntedHouse_LevelInstance_4f2cc2ea75d82e9a_0.LI_HauntedHouse:PersistentLevel.BP_Target_C_UAID_F02F744EB1AAC57F01_1151577185.SK_TargetBase'
+[2023.05.16-13.56.27:521][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_HauntedHouse_LevelInstance_4f2cc2ea75d82e9a_0.LI_HauntedHouse:PersistentLevel.BP_Target_C_UAID_F02F744EB1AAC57F01_1197673190.SK_TargetBase'
+[2023.05.16-13.56.27:522][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_HauntedHouse_LevelInstance_4f2cc2ea75d82e9a_0.LI_HauntedHouse:PersistentLevel.BP_Target_C_UAID_F02F744EB1AAC47F01_2098912999.SK_TargetBase'
+[2023.05.16-13.56.27:522][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_HauntedHouse_LevelInstance_4f2cc2ea75d82e9a_0.LI_HauntedHouse:PersistentLevel.BP_Target_C_UAID_F02F744EB1AAC47F01_1733332994.SK_TargetBase'
+[2023.05.16-13.56.27:523][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_HauntedHouse_LevelInstance_4f2cc2ea75d82e9a_0.LI_HauntedHouse:PersistentLevel.BP_Target_C_UAID_F02F744EB1AAC48001_1342160830.SK_TargetBase'
+[2023.05.16-13.56.27:525][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_HauntedHouse_LevelInstance_4f2cc2ea75d82e9a_0.LI_HauntedHouse:PersistentLevel.BP_Target_C_UAID_F02F744EB1AAC47F01_2123405002.SK_TargetBase'
+[2023.05.16-13.56.27:525][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_HauntedHouse_LevelInstance_4f2cc2ea75d82e9a_0.LI_HauntedHouse:PersistentLevel.BP_Target_C_UAID_F02F744EB1AAC47F01_2129924003.SK_TargetBase'
+[2023.05.16-13.56.27:525][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_HauntedHouse_LevelInstance_4f2cc2ea75d82e9a_0.LI_HauntedHouse:PersistentLevel.BP_Target_C_UAID_F02F744EB1AAC57F01_1181737188.SK_TargetBase'
+[2023.05.16-13.56.27:526][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_HauntedHouse_LevelInstance_4f2cc2ea75d82e9a_0.LI_HauntedHouse:PersistentLevel.BP_Target_C_UAID_F02F744EB1AAC57F01_1129415183.SK_TargetBase'
+[2023.05.16-13.56.27:526][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_HauntedHouse_LevelInstance_4f2cc2ea75d82e9a_0.LI_HauntedHouse:PersistentLevel.BP_Target_C_UAID_F02F744EB1AAC47F01_1591827993.SK_TargetBase'
+[2023.05.16-13.56.27:526][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_HauntedHouse_LevelInstance_4f2cc2ea75d82e9a_0.LI_HauntedHouse:PersistentLevel.BP_Target_C_UAID_F02F744EB1AAC48001_1327803829.SK_TargetBase'
+[2023.05.16-13.56.27:527][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_HauntedHouse_LevelInstance_4f2cc2ea75d82e9a_0.LI_HauntedHouse:PersistentLevel.BP_Target_C_UAID_F02F744EB1AAC48001_1407580833.SK_TargetBase'
+[2023.05.16-13.56.27:527][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_HauntedHouse_LevelInstance_4f2cc2ea75d82e9a_0.LI_HauntedHouse:PersistentLevel.BP_Target_C_UAID_F02F744EB1AAC47F01_1587404990.SK_TargetBase'
+[2023.05.16-13.56.27:528][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_HauntedHouse_LevelInstance_4f2cc2ea75d82e9a_0.LI_HauntedHouse:PersistentLevel.BP_Target_C_UAID_F02F744EB1AAC57F01_1129417184.SK_TargetBase'
+[2023.05.16-13.56.27:528][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_HauntedHouse_LevelInstance_4f2cc2ea75d82e9a_0.LI_HauntedHouse:PersistentLevel.BP_Target_C_UAID_F02F744EB1AAC57F01_1187287189.SK_TargetBase'
+[2023.05.16-13.56.27:529][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_HauntedHouse_LevelInstance_4f2cc2ea75d82e9a_0.LI_HauntedHouse:PersistentLevel.BP_Target_C_UAID_F02F744EB1AAC48001_1417617834.SK_TargetBase'
+[2023.05.16-13.56.27:530][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_HauntedHouse_LevelInstance_4f2cc2ea75d82e9a_0.LI_HauntedHouse:PersistentLevel.BP_Target_C_UAID_F02F744EB1AAC47F01_1578269988.SK_TargetBase'
+[2023.05.16-13.56.27:531][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_HauntedHouse_LevelInstance_4f2cc2ea75d82e9a_0.LI_HauntedHouse:PersistentLevel.BP_Target_C_UAID_F02F744EB1AAC57F01_1173262187.SK_TargetBase'
+[2023.05.16-13.56.27:531][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_HauntedHouse_LevelInstance_4f2cc2ea75d82e9a_0.LI_HauntedHouse:PersistentLevel.BP_Target_C_UAID_F02F744EB1AAC47F01_1733354995.SK_TargetBase'
+[2023.05.16-13.56.27:531][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_HauntedHouse_LevelInstance_4f2cc2ea75d82e9a_0.LI_HauntedHouse:PersistentLevel.BP_Target_C_UAID_F02F744EB1AAC48001_1386619832.SK_TargetBase'
+[2023.05.16-13.56.27:542][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_HauntedHouse_LevelInstance_4f2cc2ea75d82e9a_0.LI_HauntedHouse:PersistentLevel.BP_Target_C_UAID_F02F744EB1AAC47F01_1587407991.SK_TargetBase'
+[2023.05.16-13.56.27:543][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_HauntedHouse_LevelInstance_4f2cc2ea75d82e9a_0.LI_HauntedHouse:PersistentLevel.BP_Target_C_UAID_F02F744EB1AAC47F01_1587407991.SK_TargetBase'
+[2023.05.16-13.56.27:544][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_HauntedHouse_LevelInstance_4f2cc2ea75d82e9a_0.LI_HauntedHouse:PersistentLevel.BP_Target_C_UAID_F02F744EB1AAC47F01_1591824992.SK_TargetBase'
+[2023.05.16-13.56.27:545][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_HauntedHouse_LevelInstance_4f2cc2ea75d82e9a_0.LI_HauntedHouse:PersistentLevel.BP_Target_C_UAID_F02F744EB1AAC47F01_1591824992.SK_TargetBase'
+[2023.05.16-13.56.27:549][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_HauntedHouse_LevelInstance_4f2cc2ea75d82e9a_0.LI_HauntedHouse:PersistentLevel.BP_Target_C_UAID_F02F744EB1AAC47F01_2096461998.SK_TargetBase'
+[2023.05.16-13.56.27:549][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_HauntedHouse_LevelInstance_4f2cc2ea75d82e9a_0.LI_HauntedHouse:PersistentLevel.BP_Target_C_UAID_F02F744EB1AAC47F01_2096461998.SK_TargetBase'
+[2023.05.16-13.56.27:551][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_HauntedHouse_LevelInstance_4f2cc2ea75d82e9a_0.LI_HauntedHouse:PersistentLevel.BP_Target_C_UAID_F02F744EB1AAC48001_1363665831.SK_TargetBase'
+[2023.05.16-13.56.27:552][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_HauntedHouse_LevelInstance_4f2cc2ea75d82e9a_0.LI_HauntedHouse:PersistentLevel.BP_Target_C_UAID_F02F744EB1AAC48001_1363665831.SK_TargetBase'
+[2023.05.16-13.56.27:553][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_HauntedHouse_LevelInstance_4f2cc2ea75d82e9a_0.LI_HauntedHouse:PersistentLevel.BP_Target_C_UAID_F02F744EB1AAC47F01_2111202001.SK_TargetBase'
+[2023.05.16-13.56.27:554][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_HauntedHouse_LevelInstance_4f2cc2ea75d82e9a_0.LI_HauntedHouse:PersistentLevel.BP_Target_C_UAID_F02F744EB1AAC47F01_2111202001.SK_TargetBase'
+[2023.05.16-13.56.28:548][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_HauntedHouse_LevelInstance_4f2cc2ea75d82e9a_0.LI_HauntedHouse:PersistentLevel.BP_Target_C_UAID_F02F744EB1AAC27F01_1836289626.SK_TargetBase'
+[2023.05.16-13.56.28:549][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_HauntedHouse_LevelInstance_4f2cc2ea75d82e9a_0.LI_HauntedHouse:PersistentLevel.BP_Target_C_UAID_F02F744EB1AAC27F01_1836289626.SK_TargetBase'
+[2023.05.16-13.56.28:550][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_HauntedHouse_LevelInstance_4f2cc2ea75d82e9a_0.LI_HauntedHouse:PersistentLevel.BP_Target_C_UAID_F02F744EB1AAC47F01_1548062986.SK_TargetBase'
+[2023.05.16-13.56.28:550][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_HauntedHouse_LevelInstance_4f2cc2ea75d82e9a_0.LI_HauntedHouse:PersistentLevel.BP_Target_C_UAID_F02F744EB1AAC47F01_1548062986.SK_TargetBase'
+[2023.05.16-13.56.28:551][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_HauntedHouse_LevelInstance_4f2cc2ea75d82e9a_0.LI_HauntedHouse:PersistentLevel.BP_Target_C_UAID_F02F744EB1AAC48001_1445019835.SK_TargetBase'
+[2023.05.16-13.56.28:552][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_HauntedHouse_LevelInstance_4f2cc2ea75d82e9a_0.LI_HauntedHouse:PersistentLevel.BP_Target_C_UAID_F02F744EB1AAC48001_1445019835.SK_TargetBase'
+[2023.05.16-13.56.28:553][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_HauntedHouse_LevelInstance_4f2cc2ea75d82e9a_0.LI_HauntedHouse:PersistentLevel.BP_Target_C_UAID_F02F744EB1AAC57F01_1169150186.SK_TargetBase'
+[2023.05.16-13.56.28:553][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_HauntedHouse_LevelInstance_4f2cc2ea75d82e9a_0.LI_HauntedHouse:PersistentLevel.BP_Target_C_UAID_F02F744EB1AAC57F01_1169150186.SK_TargetBase'
+[2023.05.16-13.56.28:554][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_HauntedHouse_LevelInstance_4f2cc2ea75d82e9a_0.LI_HauntedHouse:PersistentLevel.BP_Target_C_UAID_F02F744EB1AAC47F01_1578285989.SK_TargetBase'
+[2023.05.16-13.56.28:555][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_HauntedHouse_LevelInstance_4f2cc2ea75d82e9a_0.LI_HauntedHouse:PersistentLevel.BP_Target_C_UAID_F02F744EB1AAC47F01_1578285989.SK_TargetBase'
+[2023.05.16-13.56.28:556][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_HauntedHouse_LevelInstance_4f2cc2ea75d82e9a_0.LI_HauntedHouse:PersistentLevel.BP_Target_C_UAID_F02F744EB1AAC47F01_2103607000.SK_TargetBase'
+[2023.05.16-13.56.28:556][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_HauntedHouse_LevelInstance_4f2cc2ea75d82e9a_0.LI_HauntedHouse:PersistentLevel.BP_Target_C_UAID_F02F744EB1AAC47F01_2103607000.SK_TargetBase'
+[2023.05.16-13.56.28:557][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_HauntedHouse_LevelInstance_4f2cc2ea75d82e9a_0.LI_HauntedHouse:PersistentLevel.BP_Target_C_UAID_F02F744EB1AAC48001_1301433828.SK_TargetBase'
+[2023.05.16-13.56.28:558][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_HauntedHouse_LevelInstance_4f2cc2ea75d82e9a_0.LI_HauntedHouse:PersistentLevel.BP_Target_C_UAID_F02F744EB1AAC48001_1301433828.SK_TargetBase'
+[2023.05.16-13.56.28:559][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_HauntedHouse_LevelInstance_4f2cc2ea75d82e9a_0.LI_HauntedHouse:PersistentLevel.BP_Target_C_UAID_F02F744EB1AAC47F01_1564386987.SK_TargetBase'
+[2023.05.16-13.56.28:560][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_HauntedHouse_LevelInstance_4f2cc2ea75d82e9a_0.LI_HauntedHouse:PersistentLevel.BP_Target_C_UAID_F02F744EB1AAC47F01_1564386987.SK_TargetBase'
+[2023.05.16-13.56.28:561][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_HauntedHouse_LevelInstance_4f2cc2ea75d82e9a_0.LI_HauntedHouse:PersistentLevel.BP_Target_C_UAID_F02F744EB1AAC57F01_1151577185.SK_TargetBase'
+[2023.05.16-13.56.28:561][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_HauntedHouse_LevelInstance_4f2cc2ea75d82e9a_0.LI_HauntedHouse:PersistentLevel.BP_Target_C_UAID_F02F744EB1AAC57F01_1151577185.SK_TargetBase'
+[2023.05.16-13.56.28:562][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_HauntedHouse_LevelInstance_4f2cc2ea75d82e9a_0.LI_HauntedHouse:PersistentLevel.BP_Target_C_UAID_F02F744EB1AAC57F01_1197673190.SK_TargetBase'
+[2023.05.16-13.56.28:563][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_HauntedHouse_LevelInstance_4f2cc2ea75d82e9a_0.LI_HauntedHouse:PersistentLevel.BP_Target_C_UAID_F02F744EB1AAC57F01_1197673190.SK_TargetBase'
+[2023.05.16-13.56.28:564][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_HauntedHouse_LevelInstance_4f2cc2ea75d82e9a_0.LI_HauntedHouse:PersistentLevel.BP_Target_C_UAID_F02F744EB1AAC47F01_2098912999.SK_TargetBase'
+[2023.05.16-13.56.28:564][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_HauntedHouse_LevelInstance_4f2cc2ea75d82e9a_0.LI_HauntedHouse:PersistentLevel.BP_Target_C_UAID_F02F744EB1AAC47F01_2098912999.SK_TargetBase'
+[2023.05.16-13.56.28:565][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_HauntedHouse_LevelInstance_4f2cc2ea75d82e9a_0.LI_HauntedHouse:PersistentLevel.BP_Target_C_UAID_F02F744EB1AAC47F01_1733332994.SK_TargetBase'
+[2023.05.16-13.56.28:566][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_HauntedHouse_LevelInstance_4f2cc2ea75d82e9a_0.LI_HauntedHouse:PersistentLevel.BP_Target_C_UAID_F02F744EB1AAC47F01_1733332994.SK_TargetBase'
+[2023.05.16-13.56.28:567][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_HauntedHouse_LevelInstance_4f2cc2ea75d82e9a_0.LI_HauntedHouse:PersistentLevel.BP_Target_C_UAID_F02F744EB1AAC48001_1342160830.SK_TargetBase'
+[2023.05.16-13.56.28:568][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_HauntedHouse_LevelInstance_4f2cc2ea75d82e9a_0.LI_HauntedHouse:PersistentLevel.BP_Target_C_UAID_F02F744EB1AAC48001_1342160830.SK_TargetBase'
+[2023.05.16-13.56.28:573][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_HauntedHouse_LevelInstance_4f2cc2ea75d82e9a_0.LI_HauntedHouse:PersistentLevel.BP_Target_C_UAID_F02F744EB1AAC47F01_2123405002.SK_TargetBase'
+[2023.05.16-13.56.28:574][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_HauntedHouse_LevelInstance_4f2cc2ea75d82e9a_0.LI_HauntedHouse:PersistentLevel.BP_Target_C_UAID_F02F744EB1AAC47F01_2123405002.SK_TargetBase'
+[2023.05.16-13.56.28:575][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_HauntedHouse_LevelInstance_4f2cc2ea75d82e9a_0.LI_HauntedHouse:PersistentLevel.BP_Target_C_UAID_F02F744EB1AAC47F01_2129924003.SK_TargetBase'
+[2023.05.16-13.56.28:575][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_HauntedHouse_LevelInstance_4f2cc2ea75d82e9a_0.LI_HauntedHouse:PersistentLevel.BP_Target_C_UAID_F02F744EB1AAC47F01_2129924003.SK_TargetBase'
+[2023.05.16-13.56.28:576][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_HauntedHouse_LevelInstance_4f2cc2ea75d82e9a_0.LI_HauntedHouse:PersistentLevel.BP_Target_C_UAID_F02F744EB1AAC57F01_1181737188.SK_TargetBase'
+[2023.05.16-13.56.28:577][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_HauntedHouse_LevelInstance_4f2cc2ea75d82e9a_0.LI_HauntedHouse:PersistentLevel.BP_Target_C_UAID_F02F744EB1AAC57F01_1181737188.SK_TargetBase'
+[2023.05.16-13.56.28:578][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_HauntedHouse_LevelInstance_4f2cc2ea75d82e9a_0.LI_HauntedHouse:PersistentLevel.BP_Target_C_UAID_F02F744EB1AAC57F01_1129415183.SK_TargetBase'
+[2023.05.16-13.56.28:579][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_HauntedHouse_LevelInstance_4f2cc2ea75d82e9a_0.LI_HauntedHouse:PersistentLevel.BP_Target_C_UAID_F02F744EB1AAC57F01_1129415183.SK_TargetBase'
+[2023.05.16-13.56.28:579][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_HauntedHouse_LevelInstance_4f2cc2ea75d82e9a_0.LI_HauntedHouse:PersistentLevel.BP_Target_C_UAID_F02F744EB1AAC47F01_1591827993.SK_TargetBase'
+[2023.05.16-13.56.28:580][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_HauntedHouse_LevelInstance_4f2cc2ea75d82e9a_0.LI_HauntedHouse:PersistentLevel.BP_Target_C_UAID_F02F744EB1AAC47F01_1591827993.SK_TargetBase'
+[2023.05.16-13.56.28:581][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_HauntedHouse_LevelInstance_4f2cc2ea75d82e9a_0.LI_HauntedHouse:PersistentLevel.BP_Target_C_UAID_F02F744EB1AAC48001_1327803829.SK_TargetBase'
+[2023.05.16-13.56.28:582][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_HauntedHouse_LevelInstance_4f2cc2ea75d82e9a_0.LI_HauntedHouse:PersistentLevel.BP_Target_C_UAID_F02F744EB1AAC48001_1327803829.SK_TargetBase'
+[2023.05.16-13.56.28:582][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_HauntedHouse_LevelInstance_4f2cc2ea75d82e9a_0.LI_HauntedHouse:PersistentLevel.BP_Target_C_UAID_F02F744EB1AAC48001_1407580833.SK_TargetBase'
+[2023.05.16-13.56.28:583][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_HauntedHouse_LevelInstance_4f2cc2ea75d82e9a_0.LI_HauntedHouse:PersistentLevel.BP_Target_C_UAID_F02F744EB1AAC48001_1407580833.SK_TargetBase'
+[2023.05.16-13.56.28:584][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_HauntedHouse_LevelInstance_4f2cc2ea75d82e9a_0.LI_HauntedHouse:PersistentLevel.BP_Target_C_UAID_F02F744EB1AAC47F01_1587404990.SK_TargetBase'
+[2023.05.16-13.56.28:585][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_HauntedHouse_LevelInstance_4f2cc2ea75d82e9a_0.LI_HauntedHouse:PersistentLevel.BP_Target_C_UAID_F02F744EB1AAC47F01_1587404990.SK_TargetBase'
+[2023.05.16-13.56.28:585][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_HauntedHouse_LevelInstance_4f2cc2ea75d82e9a_0.LI_HauntedHouse:PersistentLevel.BP_Target_C_UAID_F02F744EB1AAC57F01_1129417184.SK_TargetBase'
+[2023.05.16-13.56.28:587][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_HauntedHouse_LevelInstance_4f2cc2ea75d82e9a_0.LI_HauntedHouse:PersistentLevel.BP_Target_C_UAID_F02F744EB1AAC57F01_1129417184.SK_TargetBase'
+[2023.05.16-13.56.28:587][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_HauntedHouse_LevelInstance_4f2cc2ea75d82e9a_0.LI_HauntedHouse:PersistentLevel.BP_Target_C_UAID_F02F744EB1AAC57F01_1187287189.SK_TargetBase'
+[2023.05.16-13.56.28:588][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_HauntedHouse_LevelInstance_4f2cc2ea75d82e9a_0.LI_HauntedHouse:PersistentLevel.BP_Target_C_UAID_F02F744EB1AAC57F01_1187287189.SK_TargetBase'
+[2023.05.16-13.56.28:588][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_HauntedHouse_LevelInstance_4f2cc2ea75d82e9a_0.LI_HauntedHouse:PersistentLevel.BP_Target_C_UAID_F02F744EB1AAC48001_1417617834.SK_TargetBase'
+[2023.05.16-13.56.28:589][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_HauntedHouse_LevelInstance_4f2cc2ea75d82e9a_0.LI_HauntedHouse:PersistentLevel.BP_Target_C_UAID_F02F744EB1AAC48001_1417617834.SK_TargetBase'
+[2023.05.16-13.56.28:590][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_HauntedHouse_LevelInstance_4f2cc2ea75d82e9a_0.LI_HauntedHouse:PersistentLevel.BP_Target_C_UAID_F02F744EB1AAC47F01_1578269988.SK_TargetBase'
+[2023.05.16-13.56.28:591][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_HauntedHouse_LevelInstance_4f2cc2ea75d82e9a_0.LI_HauntedHouse:PersistentLevel.BP_Target_C_UAID_F02F744EB1AAC47F01_1578269988.SK_TargetBase'
+[2023.05.16-13.56.28:592][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_HauntedHouse_LevelInstance_4f2cc2ea75d82e9a_0.LI_HauntedHouse:PersistentLevel.BP_Target_C_UAID_F02F744EB1AAC57F01_1173262187.SK_TargetBase'
+[2023.05.16-13.56.28:592][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_HauntedHouse_LevelInstance_4f2cc2ea75d82e9a_0.LI_HauntedHouse:PersistentLevel.BP_Target_C_UAID_F02F744EB1AAC57F01_1173262187.SK_TargetBase'
+[2023.05.16-13.56.28:593][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_HauntedHouse_LevelInstance_4f2cc2ea75d82e9a_0.LI_HauntedHouse:PersistentLevel.BP_Target_C_UAID_F02F744EB1AAC47F01_1733354995.SK_TargetBase'
+[2023.05.16-13.56.28:594][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_HauntedHouse_LevelInstance_4f2cc2ea75d82e9a_0.LI_HauntedHouse:PersistentLevel.BP_Target_C_UAID_F02F744EB1AAC47F01_1733354995.SK_TargetBase'
+[2023.05.16-13.56.28:595][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_HauntedHouse_LevelInstance_4f2cc2ea75d82e9a_0.LI_HauntedHouse:PersistentLevel.BP_Target_C_UAID_F02F744EB1AAC48001_1386619832.SK_TargetBase'
+[2023.05.16-13.56.28:595][831]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_HauntedHouse_LevelInstance_4f2cc2ea75d82e9a_0.LI_HauntedHouse:PersistentLevel.BP_Target_C_UAID_F02F744EB1AAC48001_1386619832.SK_TargetBase'
+[2023.05.16-13.56.28:683][831]LogLevelInstance: Loaded 4 levels in 1.8 seconds
+[2023.05.16-13.56.28:753][832]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_3_LevelInstance_bb22d631e072180a_0) is flushing async loading
+[2023.05.16-13.56.28:753][832]LogStreaming: Display: FlushAsyncLoading(-1): 1 QueuedPackages, 0 AsyncPackages
+[2023.05.16-13.56.28:771][832]LogStreaming: Warning: Detected 154 objects loaded in PostLoad while streaming, this may cause hitches as we're blocking async loading to pre-load them.
+[2023.05.16-13.56.28:778][832]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_3_LevelInstance_bb22d631e072180a_0.LI_Manor_Room_3:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1320842531.SK_TargetBase'
+[2023.05.16-13.56.28:778][832]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_3_LevelInstance_bb22d631e072180a_0.LI_Manor_Room_3:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1320851543.SK_TargetBase'
+[2023.05.16-13.56.28:779][832]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_3_LevelInstance_bb22d631e072180a_0.LI_Manor_Room_3:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1320826511.SK_TargetBase'
+[2023.05.16-13.56.28:779][832]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_3_LevelInstance_bb22d631e072180a_0.LI_Manor_Room_3:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1320817502.SK_TargetBase'
+[2023.05.16-13.56.28:779][832]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_3_LevelInstance_bb22d631e072180a_0.LI_Manor_Room_3:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1335127545.SK_TargetBase'
+[2023.05.16-13.56.28:780][832]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_3_LevelInstance_bb22d631e072180a_0.LI_Manor_Room_3:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1320830516.SK_TargetBase'
+[2023.05.16-13.56.28:780][832]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_3_LevelInstance_bb22d631e072180a_0.LI_Manor_Room_3:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1320846537.SK_TargetBase'
+[2023.05.16-13.56.28:781][832]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_3_LevelInstance_bb22d631e072180a_0.LI_Manor_Room_3:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1320842531.SK_TargetBase'
+[2023.05.16-13.56.28:782][832]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_3_LevelInstance_bb22d631e072180a_0.LI_Manor_Room_3:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1320842531.SK_TargetBase'
+[2023.05.16-13.56.28:783][832]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_3_LevelInstance_bb22d631e072180a_0.LI_Manor_Room_3:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1320851543.SK_TargetBase'
+[2023.05.16-13.56.28:784][832]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_3_LevelInstance_bb22d631e072180a_0.LI_Manor_Room_3:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1320851543.SK_TargetBase'
+[2023.05.16-13.56.28:785][832]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_3_LevelInstance_bb22d631e072180a_0.LI_Manor_Room_3:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1320826511.SK_TargetBase'
+[2023.05.16-13.56.28:786][832]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_3_LevelInstance_bb22d631e072180a_0.LI_Manor_Room_3:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1320826511.SK_TargetBase'
+[2023.05.16-13.56.28:786][832]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_3_LevelInstance_bb22d631e072180a_0.LI_Manor_Room_3:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1320817502.SK_TargetBase'
+[2023.05.16-13.56.28:787][832]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_3_LevelInstance_bb22d631e072180a_0.LI_Manor_Room_3:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1320817502.SK_TargetBase'
+[2023.05.16-13.56.28:788][832]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_3_LevelInstance_bb22d631e072180a_0.LI_Manor_Room_3:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1335127545.SK_TargetBase'
+[2023.05.16-13.56.28:789][832]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_3_LevelInstance_bb22d631e072180a_0.LI_Manor_Room_3:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1335127545.SK_TargetBase'
+[2023.05.16-13.56.28:790][832]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_3_LevelInstance_bb22d631e072180a_0.LI_Manor_Room_3:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1320830516.SK_TargetBase'
+[2023.05.16-13.56.28:790][832]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_3_LevelInstance_bb22d631e072180a_0.LI_Manor_Room_3:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1320830516.SK_TargetBase'
+[2023.05.16-13.56.28:791][832]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_3_LevelInstance_bb22d631e072180a_0.LI_Manor_Room_3:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1320846537.SK_TargetBase'
+[2023.05.16-13.56.28:792][832]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_3_LevelInstance_bb22d631e072180a_0.LI_Manor_Room_3:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1320846537.SK_TargetBase'
+[2023.05.16-13.56.28:798][832]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_1_LevelInstance_475d35b32d66f430_0) is flushing async loading
+[2023.05.16-13.56.28:819][832]LogStreaming: Warning: Detected 215 objects loaded in PostLoad while streaming, this may cause hitches as we're blocking async loading to pre-load them.
+[2023.05.16-13.56.28:829][832]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_1_LevelInstance_475d35b32d66f430_0.LI_Manor_Room_1:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8D8101_1194302211.SK_TargetBase'
+[2023.05.16-13.56.28:829][832]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_1_LevelInstance_475d35b32d66f430_0.LI_Manor_Room_1:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8D8101_1194295200.SK_TargetBase'
+[2023.05.16-13.56.28:830][832]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_1_LevelInstance_475d35b32d66f430_0.LI_Manor_Room_1:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8D8101_1194325248.SK_TargetBase'
+[2023.05.16-13.56.28:831][832]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_1_LevelInstance_475d35b32d66f430_0.LI_Manor_Room_1:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8D8101_1217193262.SK_TargetBase'
+[2023.05.16-13.56.28:831][832]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_1_LevelInstance_475d35b32d66f430_0.LI_Manor_Room_1:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8D8101_1194310223.SK_TargetBase'
+[2023.05.16-13.56.28:833][832]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_1_LevelInstance_475d35b32d66f430_0.LI_Manor_Room_1:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8D8101_1194302211.SK_TargetBase'
+[2023.05.16-13.56.28:833][832]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_1_LevelInstance_475d35b32d66f430_0.LI_Manor_Room_1:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8D8101_1194302211.SK_TargetBase'
+[2023.05.16-13.56.28:834][832]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_1_LevelInstance_475d35b32d66f430_0.LI_Manor_Room_1:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8D8101_1194295200.SK_TargetBase'
+[2023.05.16-13.56.28:835][832]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_1_LevelInstance_475d35b32d66f430_0.LI_Manor_Room_1:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8D8101_1194295200.SK_TargetBase'
+[2023.05.16-13.56.28:836][832]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_1_LevelInstance_475d35b32d66f430_0.LI_Manor_Room_1:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8D8101_1194325248.SK_TargetBase'
+[2023.05.16-13.56.28:837][832]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_1_LevelInstance_475d35b32d66f430_0.LI_Manor_Room_1:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8D8101_1194325248.SK_TargetBase'
+[2023.05.16-13.56.28:838][832]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_1_LevelInstance_475d35b32d66f430_0.LI_Manor_Room_1:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8D8101_1217193262.SK_TargetBase'
+[2023.05.16-13.56.28:838][832]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_1_LevelInstance_475d35b32d66f430_0.LI_Manor_Room_1:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8D8101_1217193262.SK_TargetBase'
+[2023.05.16-13.56.28:839][832]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_1_LevelInstance_475d35b32d66f430_0.LI_Manor_Room_1:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8D8101_1194310223.SK_TargetBase'
+[2023.05.16-13.56.28:840][832]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_1_LevelInstance_475d35b32d66f430_0.LI_Manor_Room_1:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8D8101_1194310223.SK_TargetBase'
+[2023.05.16-13.56.28:845][832]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_2_LevelInstance_f3263d1198b3898b_0) is flushing async loading
+[2023.05.16-13.56.28:856][832]LogStreaming: Warning: Detected 103 objects loaded in PostLoad while streaming, this may cause hitches as we're blocking async loading to pre-load them.
+[2023.05.16-13.56.28:861][832]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_2_LevelInstance_f3263d1198b3898b_0.LI_Manor_Room_2:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1245037493.SK_TargetBase'
+[2023.05.16-13.56.28:862][832]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_2_LevelInstance_f3263d1198b3898b_0.LI_Manor_Room_2:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1245042500.SK_TargetBase'
+[2023.05.16-13.56.28:862][832]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_2_LevelInstance_f3263d1198b3898b_0.LI_Manor_Room_2:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1245023476.SK_TargetBase'
+[2023.05.16-13.56.28:862][832]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_2_LevelInstance_f3263d1198b3898b_0.LI_Manor_Room_2:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1245027481.SK_TargetBase'
+[2023.05.16-13.56.28:864][832]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_2_LevelInstance_f3263d1198b3898b_0.LI_Manor_Room_2:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1245037493.SK_TargetBase'
+[2023.05.16-13.56.28:864][832]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_2_LevelInstance_f3263d1198b3898b_0.LI_Manor_Room_2:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1245037493.SK_TargetBase'
+[2023.05.16-13.56.28:865][832]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_2_LevelInstance_f3263d1198b3898b_0.LI_Manor_Room_2:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1245042500.SK_TargetBase'
+[2023.05.16-13.56.28:866][832]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_2_LevelInstance_f3263d1198b3898b_0.LI_Manor_Room_2:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1245042500.SK_TargetBase'
+[2023.05.16-13.56.28:867][832]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_2_LevelInstance_f3263d1198b3898b_0.LI_Manor_Room_2:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1245023476.SK_TargetBase'
+[2023.05.16-13.56.28:868][832]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_2_LevelInstance_f3263d1198b3898b_0.LI_Manor_Room_2:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1245023476.SK_TargetBase'
+[2023.05.16-13.56.28:869][832]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_2_LevelInstance_f3263d1198b3898b_0.LI_Manor_Room_2:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1245027481.SK_TargetBase'
+[2023.05.16-13.56.28:870][832]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_2_LevelInstance_f3263d1198b3898b_0.LI_Manor_Room_2:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1245027481.SK_TargetBase'
+[2023.05.16-13.56.28:872][832]LogLevelInstance: Loaded 3 levels in 0.125 seconds
+[2023.05.16-13.56.34:099][333]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2023.05.16-13.56.34:181][333]LogContentBrowser: Creating deferred item: NewWorld
+[2023.05.16-13.56.34:200][334]LogContentBrowser: Renaming the item being created (Deferred Item: NewWorld).
+[2023.05.16-13.57.13:682][ 14]LogContentBrowser: Attempting asset rename: NewWorld -> LI_Attempt
+[2023.05.16-13.57.13:683][ 14]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.16-13.57.13:684][ 14]LogContentBrowser: End creating deferred item NewWorld
+[2023.05.16-13.57.15:542][180]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2023.05.16-13.57.16:903][180]LogSlate: Window 'Save Content' being destroyed
+[2023.05.16-13.57.16:913][180]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.16-13.57.17:116][180]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.05.16-13.57.17:120][180]LogSavePackage: Moving output files for package: /Game/TeamContent/Level_Instance_Rooms/LI_Attempt
+[2023.05.16-13.57.17:120][180]LogSavePackage: Moving '../../../../../../Users/Administrator/Desktop/Group Project Haunted House/TheHauntedHouse_UE5/Saved/LI_Attempt1F824DEF41295CA83C39B6B29081A83F.tmp' to '../../../../../../Users/Administrator/Desktop/Group Project Haunted House/TheHauntedHouse_UE5/Content/TeamContent/Level_Instance_Rooms/LI_Attempt.umap'
+[2023.05.16-13.57.17:130][180]LogFileHelpers: Saving map 'LI_Attempt' took 0.163
+[2023.05.16-13.57.17:135][180]LogFileHelpers: InternalPromptForCheckoutAndSave took 222 ms (total: 1.11 sec)
+[2023.05.16-13.57.17:135][180]LogAssetEditorSubsystem: Opening Asset editor for World /Game/TeamContent/Level_Instance_Rooms/LI_Attempt.LI_Attempt
+[2023.05.16-13.57.17:135][180]LightingResults: New page: Lighting Build
+[2023.05.16-13.57.17:135][180]LoadErrors: New page: Loading map: LI_Attempt.umap
+[2023.05.16-13.57.17:232][180]LogWorld: UWorld::CleanupWorld for L_Game, bSessionEnded=true, bCleanupResources=true
+[2023.05.16-13.57.17:232][180]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.16-13.57.17:233][180]LogWorld: UWorld::CleanupWorld for LI_Crypt_Room_1, bSessionEnded=true, bCleanupResources=true
+[2023.05.16-13.57.17:233][180]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.16-13.57.17:233][180]LogWorld: UWorld::CleanupWorld for LI_Crypt_Room_3, bSessionEnded=true, bCleanupResources=true
+[2023.05.16-13.57.17:233][180]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.16-13.57.17:233][180]LogWorld: UWorld::CleanupWorld for LI_Manor_Room_4, bSessionEnded=true, bCleanupResources=true
+[2023.05.16-13.57.17:233][180]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.16-13.57.17:233][180]LogWorld: UWorld::CleanupWorld for LI_HauntedHouse, bSessionEnded=true, bCleanupResources=true
+[2023.05.16-13.57.17:233][180]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.16-13.57.17:233][180]LogWorld: UWorld::CleanupWorld for LI_Manor_Room_3, bSessionEnded=true, bCleanupResources=true
+[2023.05.16-13.57.17:233][180]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.16-13.57.17:233][180]LogWorld: UWorld::CleanupWorld for LI_Manor_Room_1, bSessionEnded=true, bCleanupResources=true
+[2023.05.16-13.57.17:233][180]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.16-13.57.17:233][180]LogWorld: UWorld::CleanupWorld for LI_Manor_Room_2, bSessionEnded=true, bCleanupResources=true
+[2023.05.16-13.57.17:233][180]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.16-13.57.17:233][180]MapCheck: New page: Map Check
+[2023.05.16-13.57.17:233][180]LightingResults: New page: Lighting Build
+[2023.05.16-13.57.17:360][180]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.16-13.57.17:393][180]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2023.05.16-13.57.17:405][180]LogWorld: UWorld::CleanupWorld for LI_Attempt, bSessionEnded=true, bCleanupResources=true
+[2023.05.16-13.57.17:405][180]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.16-13.57.17:520][180]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2023.05.16-13.57.17:636][180]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2023.05.16-13.57.17:639][180]LogAudio: Display: Audio Device (ID: 1) registered with world 'LI_Attempt'.
+[2023.05.16-13.57.17:639][180]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.16-13.57.17:640][180]LogAIModule: Creating AISystem for world LI_Attempt
+[2023.05.16-13.57.17:652][180]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.05.16-13.57.17:772][180]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2023.05.16-13.57.17:800][180]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.05.16-13.57.17:800][180]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.143ms to complete.
+[2023.05.16-13.57.17:800][180]LogFileHelpers: Loading map 'LI_Attempt' took 0.664
+[2023.05.16-13.57.17:827][180]AssetCheck: New page: Asset Save: LI_Attempt
+[2023.05.16-13.57.17:827][180]LogContentValidation: Display: Validating /Script/Engine.World /Game/TeamContent/Level_Instance_Rooms/LI_Attempt.LI_Attempt
+[2023.05.16-13.57.17:946][180]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.05.16-13.57.19:804][355]LogActorFactory: Actor Factory attempting to spawn World /Game/TeamContent/Level_Instance_Rooms/LI_Crypt_Room_1.LI_Crypt_Room_1
+[2023.05.16-13.57.19:805][355]LogActorFactory: Actor Factory attempting to spawn World /Game/TeamContent/Level_Instance_Rooms/LI_Crypt_Room_1.LI_Crypt_Room_1
+[2023.05.16-13.57.20:188][388]LogActorFactory: Actor Factory attempting to spawn World /Game/TeamContent/Level_Instance_Rooms/LI_Crypt_Room_1.LI_Crypt_Room_1
+[2023.05.16-13.57.20:188][388]LogActorFactory: Actor Factory attempting to spawn World /Game/TeamContent/Level_Instance_Rooms/LI_Crypt_Room_1.LI_Crypt_Room_1
+[2023.05.16-13.57.20:211][388]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/TeamContent/Level_Instance_Rooms/LI_Crypt_Room_1_LevelInstance_aa4658ffb1557a21_0) is flushing async loading
+[2023.05.16-13.57.20:211][388]LogStreaming: Display: FlushAsyncLoading(-1): 1 QueuedPackages, 0 AsyncPackages
+[2023.05.16-13.57.20:239][388]LogStreaming: Warning: Detected 264 objects loaded in PostLoad while streaming, this may cause hitches as we're blocking async loading to pre-load them.
+[2023.05.16-13.57.20:254][388]LogLevelInstance: Loaded 1 levels in 0.048 seconds
+[2023.05.16-13.57.25:192][831]LogActorFactory: Actor Factory attempting to spawn World /Game/TeamContent/Level_Instance_Rooms/LI_Crypt_Room_2.LI_Crypt_Room_2
+[2023.05.16-13.57.25:192][831]LogActorFactory: Actor Factory attempting to spawn World /Game/TeamContent/Level_Instance_Rooms/LI_Crypt_Room_2.LI_Crypt_Room_2
+[2023.05.16-13.57.25:378][835]LogActorFactory: Actor Factory attempting to spawn World /Game/TeamContent/Level_Instance_Rooms/LI_Crypt_Room_2.LI_Crypt_Room_2
+[2023.05.16-13.57.25:378][835]LogActorFactory: Actor Factory attempting to spawn World /Game/TeamContent/Level_Instance_Rooms/LI_Crypt_Room_2.LI_Crypt_Room_2
+[2023.05.16-13.57.25:406][835]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/TeamContent/Level_Instance_Rooms/LI_Crypt_Room_2_LevelInstance_5d5385cf17d61978_0) is flushing async loading
+[2023.05.16-13.57.25:406][835]LogStreaming: Display: FlushAsyncLoading(-1): 1 QueuedPackages, 0 AsyncPackages
+[2023.05.16-13.57.25:472][835]LogStreaming: Warning: Detected 663 objects loaded in PostLoad while streaming, this may cause hitches as we're blocking async loading to pre-load them.
+[2023.05.16-13.57.25:511][835]LogLevelInstance: Loaded 1 levels in 0.114 seconds
+[2023.05.16-13.57.45:164][512]LogEditorViewport: Clicking Background
+[2023.05.16-13.57.50:107][  1]LogEditorViewport: Clicking Background
+[2023.05.16-14.06.50:628][852]BlueprintLog: New page: Compile BP_Door_Damage_Test
+[2023.05.16-14.06.50:791][852]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2023.05.16-14.06.56:912][202]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2023.05.16-14.06.56:912][202]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.16-14.06.58:454][295]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.05.16-14.06.58:454][295]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2023.05.16-14.06.58:454][295]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.16-14.07.00:541][432]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.05.16-14.07.00:542][432]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.16-14.07.00:554][432]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.05.16-14.07.00:554][432]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.16-14.07.02:640][563]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.05.16-14.07.02:641][563]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2023.05.16-14.07.02:641][563]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.16-14.07.03:722][616]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2023.05.16-14.07.03:971][616]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2023.05.16-14.07.32:067][956]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2023.05.16-14.07.32:077][956]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TeamContent/Level_Instance_Rooms/LI_Attempt_Auto3
+[2023.05.16-14.07.32:077][956]LogSavePackage: Moving '../../../../../../Users/Administrator/Desktop/Group Project Haunted House/TheHauntedHouse_UE5/Saved/LI_Attempt_Auto3E6C502C04E3981B23A476BB6B68CAC8E.tmp' to '../../../../../../Users/Administrator/Desktop/Group Project Haunted House/TheHauntedHouse_UE5/Saved/Autosaves/Game/TeamContent/Level_Instance_Rooms/LI_Attempt_Auto3.umap'
+[2023.05.16-14.07.32:090][956]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TeamContent/Level_Instance_Rooms/LI_Attempt' took 0.133
+[2023.05.16-14.07.32:091][956]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.133
+[2023.05.16-14.09.02:791][803]LogActorFactory: Actor Factory attempting to spawn World /Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_3.LI_Manor_Room_3
+[2023.05.16-14.09.02:791][803]LogActorFactory: Actor Factory attempting to spawn World /Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_3.LI_Manor_Room_3
+[2023.05.16-14.09.03:007][815]LogActorFactory: Actor Factory attempting to spawn World /Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_3.LI_Manor_Room_3
+[2023.05.16-14.09.03:007][815]LogActorFactory: Actor Factory attempting to spawn World /Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_3.LI_Manor_Room_3
+[2023.05.16-14.09.03:031][815]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_3_LevelInstance_9bafffbd422532ab_0) is flushing async loading
+[2023.05.16-14.09.03:031][815]LogStreaming: Display: FlushAsyncLoading(-1): 1 QueuedPackages, 0 AsyncPackages
+[2023.05.16-14.09.03:046][815]LogStreaming: Warning: Detected 154 objects loaded in PostLoad while streaming, this may cause hitches as we're blocking async loading to pre-load them.
+[2023.05.16-14.09.03:052][815]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_3_LevelInstance_9bafffbd422532ab_0.LI_Manor_Room_3:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1320842531.SK_TargetBase'
+[2023.05.16-14.09.03:053][815]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_3_LevelInstance_9bafffbd422532ab_0.LI_Manor_Room_3:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1320851543.SK_TargetBase'
+[2023.05.16-14.09.03:053][815]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_3_LevelInstance_9bafffbd422532ab_0.LI_Manor_Room_3:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1320826511.SK_TargetBase'
+[2023.05.16-14.09.03:053][815]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_3_LevelInstance_9bafffbd422532ab_0.LI_Manor_Room_3:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1320817502.SK_TargetBase'
+[2023.05.16-14.09.03:053][815]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_3_LevelInstance_9bafffbd422532ab_0.LI_Manor_Room_3:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1335127545.SK_TargetBase'
+[2023.05.16-14.09.03:054][815]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_3_LevelInstance_9bafffbd422532ab_0.LI_Manor_Room_3:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1320830516.SK_TargetBase'
+[2023.05.16-14.09.03:054][815]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_3_LevelInstance_9bafffbd422532ab_0.LI_Manor_Room_3:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1320846537.SK_TargetBase'
+[2023.05.16-14.09.03:056][815]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_3_LevelInstance_9bafffbd422532ab_0.LI_Manor_Room_3:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1320842531.SK_TargetBase'
+[2023.05.16-14.09.03:056][815]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_3_LevelInstance_9bafffbd422532ab_0.LI_Manor_Room_3:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1320842531.SK_TargetBase'
+[2023.05.16-14.09.03:057][815]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_3_LevelInstance_9bafffbd422532ab_0.LI_Manor_Room_3:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1320851543.SK_TargetBase'
+[2023.05.16-14.09.03:058][815]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_3_LevelInstance_9bafffbd422532ab_0.LI_Manor_Room_3:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1320851543.SK_TargetBase'
+[2023.05.16-14.09.03:059][815]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_3_LevelInstance_9bafffbd422532ab_0.LI_Manor_Room_3:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1320826511.SK_TargetBase'
+[2023.05.16-14.09.03:060][815]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_3_LevelInstance_9bafffbd422532ab_0.LI_Manor_Room_3:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1320826511.SK_TargetBase'
+[2023.05.16-14.09.03:061][815]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_3_LevelInstance_9bafffbd422532ab_0.LI_Manor_Room_3:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1320817502.SK_TargetBase'
+[2023.05.16-14.09.03:061][815]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_3_LevelInstance_9bafffbd422532ab_0.LI_Manor_Room_3:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1320817502.SK_TargetBase'
+[2023.05.16-14.09.03:062][815]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_3_LevelInstance_9bafffbd422532ab_0.LI_Manor_Room_3:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1335127545.SK_TargetBase'
+[2023.05.16-14.09.03:063][815]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_3_LevelInstance_9bafffbd422532ab_0.LI_Manor_Room_3:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1335127545.SK_TargetBase'
+[2023.05.16-14.09.03:064][815]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_3_LevelInstance_9bafffbd422532ab_0.LI_Manor_Room_3:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1320830516.SK_TargetBase'
+[2023.05.16-14.09.03:065][815]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_3_LevelInstance_9bafffbd422532ab_0.LI_Manor_Room_3:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1320830516.SK_TargetBase'
+[2023.05.16-14.09.03:065][815]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_3_LevelInstance_9bafffbd422532ab_0.LI_Manor_Room_3:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1320846537.SK_TargetBase'
+[2023.05.16-14.09.03:067][815]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/LI_Manor_Room_3_LevelInstance_9bafffbd422532ab_0.LI_Manor_Room_3:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1320846537.SK_TargetBase'
+[2023.05.16-14.09.03:070][815]LogLevelInstance: Loaded 1 levels in 0.042 seconds
+[2023.05.16-14.09.57:411][863]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/CartPath_BP.CartPath_BP_C
+[2023.05.16-14.09.57:411][863]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/CartPath_BP.CartPath_BP_C
+[2023.05.16-14.09.57:426][863]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/CartPath_BP.CartPath_BP as actor: CartPath_BP_C /Game/TeamContent/Level_Instance_Rooms/LI_Attempt.LI_Attempt:PersistentLevel.CartPath_BP_C_0
+[2023.05.16-14.09.57:439][863]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/CartPath_BP.CartPath_BP as actor: CartPath_BP_C /Game/TeamContent/Level_Instance_Rooms/LI_Attempt.LI_Attempt:PersistentLevel.CartPath_BP_C_0
+[2023.05.16-14.09.57:544][864]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/CartPath_BP.CartPath_BP_C
+[2023.05.16-14.09.57:544][864]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/CartPath_BP.CartPath_BP_C
+[2023.05.16-14.09.57:560][864]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/CartPath_BP.CartPath_BP as actor: CartPath_BP_C /Game/TeamContent/Level_Instance_Rooms/LI_Attempt.LI_Attempt:PersistentLevel.CartPath_BP_C_1
+[2023.05.16-14.09.57:574][864]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/CartPath_BP.CartPath_BP as actor: CartPath_BP_C /Game/TeamContent/Level_Instance_Rooms/LI_Attempt.LI_Attempt:PersistentLevel.CartPath_BP_C_1
+[2023.05.16-14.12.44:350][646]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/FirstPerson/BlueprintsBrens/NewCreditsMenu.NewCreditsMenu
+[2023.05.16-14.12.44:351][646]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.16-14.12.44:364][646]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.16-14.12.44:396][646]LogTexture: Display: Building textures: /Game/FirstPerson/BlueprintsBrens/Materials/wp2050581.wp2050581 (BGRA8, 700x525 x1x1x1) (Required Memory Estimate: 10.81041 MB), EncodeSpeed: Fast
+[2023.05.16-14.12.44:400][646]LogTexture: Display: Building textures: /Game/FirstPerson/BlueprintsBrens/Materials/A-Haunted-House-1920x1080.A-Haunted-House-1920x1080 (TFO_AutoDXT, 1920x1080 x1x1x1) (Required Memory Estimate: 213.460938 MB), EncodeSpeed: Fast
+[2023.05.16-14.12.44:408][646]LogTexture: Display: Building textures: /Game/FirstPerson/BlueprintsBrens/Materials/5de104a7e04c1681251981.5de104a7e04c1681251981 (TFO_AutoDXT, 1440x960 x1x1x1) (Required Memory Estimate: 183.578125 MB), EncodeSpeed: Fast
+[2023.05.16-14.12.44:882][646]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.16-14.12.44:882][646]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.16-14.12.58:441][492]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2023.05.16-14.12.58:441][492]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.16-14.12.58:456][492]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2023.05.16-14.12.58:456][492]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.16-14.13.00:664][634]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/FirstPerson/BlueprintsBrens/NewMainMenu.NewMainMenu
+[2023.05.16-14.13.00:665][634]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.16-14.13.00:685][634]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.16-14.13.01:166][634]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.16-14.13.01:166][634]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.16-14.13.04:958][864]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2023.05.16-14.13.04:958][864]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.16-14.13.04:972][864]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2023.05.16-14.13.04:972][864]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.16-14.13.06:753][972]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/FirstPerson/BlueprintsBrens/NewOptionsMenu.NewOptionsMenu
+[2023.05.16-14.13.06:753][972]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.16-14.13.06:768][972]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.16-14.13.07:283][972]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.16-14.13.07:283][972]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.16-14.13.20:283][754]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2023.05.16-14.13.20:283][754]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.16-14.13.20:307][754]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2023.05.16-14.13.20:307][754]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.16-14.13.21:104][792]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2023.05.16-14.13.21:433][792]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2023.05.16-14.13.28:164][331]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.05.16-14.13.28:171][331]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.16-14.13.28:171][331]PIE: New page: PIE session: LI_Attempt (16 May 2023, 16:13:28)
+[2023.05.16-14.13.28:171][331]LogPlayLevel: Creating play world package: /Game/TeamContent/Level_Instance_Rooms/UEDPIE_0_LI_Attempt
+[2023.05.16-14.13.28:175][331]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004218s)
+[2023.05.16-14.13.28:175][331]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TeamContent/Level_Instance_Rooms/LI_Attempt.LI_Attempt to /Game/TeamContent/Level_Instance_Rooms/UEDPIE_0_LI_Attempt.LI_Attempt (0.004258s)
+[2023.05.16-14.13.28:176][331]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.16-14.13.28:176][331]LogAIModule: Creating AISystem for world LI_Attempt
+[2023.05.16-14.13.28:177][331]LogPlayLevel: PIE: World Init took: (0.001115s)
+[2023.05.16-14.13.28:256][331]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2023.05.16-14.13.28:262][331]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2023.05.16-14.13.28:262][331]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.16-14.13.28:262][331]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.16-14.13.28:262][331]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.16-14.13.28:262][331]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.16-14.13.28:262][331]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.16-14.13.28:262][331]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.16-14.13.28:262][331]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.16-14.13.28:262][331]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.16-14.13.28:263][331]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.16-14.13.28:263][331]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.16-14.13.28:263][331]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.16-14.13.28:265][331]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.16-14.13.28:375][331]LogAudioMixer: Display: Using Audio Hardware Device Speakers / Headphones (Realtek Audio)
+[2023.05.16-14.13.28:376][331]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.16-14.13.28:376][331]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.16-14.13.28:376][331]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.16-14.13.28:377][331]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2023.05.16-14.13.28:378][331]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2023.05.16-14.13.28:381][331]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2023.05.16-14.13.28:382][331]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2023.05.16-14.13.28:382][331]LogInit: FAudioDevice initialized.
+[2023.05.16-14.13.28:382][331]LogAudio: Display: Audio Device (ID: 9) registered with world 'LI_Attempt'.
+[2023.05.16-14.13.28:452][331]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.16-14.13.28:454][331]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.05.16-14.13.28:456][331]LogWorld: Bringing World /Game/TeamContent/Level_Instance_Rooms/UEDPIE_0_LI_Attempt.LI_Attempt up for play (max tick rate 0) at 2023.05.16-15.13.28
+[2023.05.16-14.13.28:456][331]LogWorld: Bringing up level for play took: 0.002733
+[2023.05.16-14.13.28:462][331]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2023.05.16-14.13.28:469][331]LogLevelInstance: Loaded 3 levels in 0.001 seconds
+[2023.05.16-14.13.28:504][331]LogStreaming: Display: FlushAsyncLoading(-1): 3 QueuedPackages, 0 AsyncPackages
+[2023.05.16-14.13.28:525][331]LogStreaming: Warning: Detected 154 objects loaded in PostLoad while streaming, this may cause hitches as we're blocking async loading to pre-load them.
+[2023.05.16-14.13.28:603][331]LogStreaming: Warning: Detected 663 objects loaded in PostLoad while streaming, this may cause hitches as we're blocking async loading to pre-load them.
+[2023.05.16-14.13.28:640][331]LogStreaming: Warning: Detected 264 objects loaded in PostLoad while streaming, this may cause hitches as we're blocking async loading to pre-load them.
+[2023.05.16-14.13.28:693][331]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/UEDPIE_0_LI_Manor_Room_3_LevelInstance_9bafffbd422532ab_1.LI_Manor_Room_3:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1320842531.SK_TargetBase'
+[2023.05.16-14.13.28:694][331]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/UEDPIE_0_LI_Manor_Room_3_LevelInstance_9bafffbd422532ab_1.LI_Manor_Room_3:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1320851543.SK_TargetBase'
+[2023.05.16-14.13.28:694][331]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/UEDPIE_0_LI_Manor_Room_3_LevelInstance_9bafffbd422532ab_1.LI_Manor_Room_3:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1320826511.SK_TargetBase'
+[2023.05.16-14.13.28:694][331]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/UEDPIE_0_LI_Manor_Room_3_LevelInstance_9bafffbd422532ab_1.LI_Manor_Room_3:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1320817502.SK_TargetBase'
+[2023.05.16-14.13.28:694][331]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/UEDPIE_0_LI_Manor_Room_3_LevelInstance_9bafffbd422532ab_1.LI_Manor_Room_3:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1335127545.SK_TargetBase'
+[2023.05.16-14.13.28:695][331]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/UEDPIE_0_LI_Manor_Room_3_LevelInstance_9bafffbd422532ab_1.LI_Manor_Room_3:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1320830516.SK_TargetBase'
+[2023.05.16-14.13.28:695][331]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/UEDPIE_0_LI_Manor_Room_3_LevelInstance_9bafffbd422532ab_1.LI_Manor_Room_3:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1320846537.SK_TargetBase'
+[2023.05.16-14.13.28:696][331]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/UEDPIE_0_LI_Manor_Room_3_LevelInstance_9bafffbd422532ab_1.LI_Manor_Room_3:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1320842531.SK_TargetBase'
+[2023.05.16-14.13.28:697][331]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/UEDPIE_0_LI_Manor_Room_3_LevelInstance_9bafffbd422532ab_1.LI_Manor_Room_3:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1320842531.SK_TargetBase'
+[2023.05.16-14.13.28:698][331]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/UEDPIE_0_LI_Manor_Room_3_LevelInstance_9bafffbd422532ab_1.LI_Manor_Room_3:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1320851543.SK_TargetBase'
+[2023.05.16-14.13.28:699][331]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/UEDPIE_0_LI_Manor_Room_3_LevelInstance_9bafffbd422532ab_1.LI_Manor_Room_3:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1320851543.SK_TargetBase'
+[2023.05.16-14.13.28:699][331]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/UEDPIE_0_LI_Manor_Room_3_LevelInstance_9bafffbd422532ab_1.LI_Manor_Room_3:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1320826511.SK_TargetBase'
+[2023.05.16-14.13.28:700][331]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/UEDPIE_0_LI_Manor_Room_3_LevelInstance_9bafffbd422532ab_1.LI_Manor_Room_3:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1320826511.SK_TargetBase'
+[2023.05.16-14.13.28:701][331]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/UEDPIE_0_LI_Manor_Room_3_LevelInstance_9bafffbd422532ab_1.LI_Manor_Room_3:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1320817502.SK_TargetBase'
+[2023.05.16-14.13.28:701][331]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/UEDPIE_0_LI_Manor_Room_3_LevelInstance_9bafffbd422532ab_1.LI_Manor_Room_3:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1320817502.SK_TargetBase'
+[2023.05.16-14.13.28:702][331]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/UEDPIE_0_LI_Manor_Room_3_LevelInstance_9bafffbd422532ab_1.LI_Manor_Room_3:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1335127545.SK_TargetBase'
+[2023.05.16-14.13.28:702][331]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/UEDPIE_0_LI_Manor_Room_3_LevelInstance_9bafffbd422532ab_1.LI_Manor_Room_3:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1335127545.SK_TargetBase'
+[2023.05.16-14.13.28:703][331]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/UEDPIE_0_LI_Manor_Room_3_LevelInstance_9bafffbd422532ab_1.LI_Manor_Room_3:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1320830516.SK_TargetBase'
+[2023.05.16-14.13.28:704][331]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/UEDPIE_0_LI_Manor_Room_3_LevelInstance_9bafffbd422532ab_1.LI_Manor_Room_3:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1320830516.SK_TargetBase'
+[2023.05.16-14.13.28:704][331]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/UEDPIE_0_LI_Manor_Room_3_LevelInstance_9bafffbd422532ab_1.LI_Manor_Room_3:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1320846537.SK_TargetBase'
+[2023.05.16-14.13.28:705][331]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Temp/Game/TeamContent/Level_Instance_Rooms/UEDPIE_0_LI_Manor_Room_3_LevelInstance_9bafffbd422532ab_1.LI_Manor_Room_3:PersistentLevel.BP_Target_C_UAID_F02F744EB1AA8E8101_1320846537.SK_TargetBase'
+[2023.05.16-14.13.28:720][331]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.05.16-14.13.28:735][331]PIE: Server logged in
+[2023.05.16-14.13.28:746][331]PIE: Play in editor total start time 0.576 seconds.
+[2023.05.16-14.13.28:802][331]LogViewport: Scene viewport resized to 1920x1080, mode Windowed.
+[2023.05.16-14.13.29:028][333]LogShaderCompilers: Display: ================================================
+[2023.05.16-14.13.29:028][333]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.16-14.13.29:028][333]LogShaderCompilers: Display: Total job queries 310, among them cache hits 31 (10.00%)
+[2023.05.16-14.13.29:028][333]LogShaderCompilers: Display: Tracking 279 distinct input hashes that result in 207 distinct outputs (74.19%)
+[2023.05.16-14.13.29:028][333]LogShaderCompilers: Display: RAM used: 2.43 MB (0.00 GB) of 3276.80 MB (3.20 GB) budget. Usage: 0.07%
+[2023.05.16-14.13.29:028][333]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.05.16-14.13.29:028][333]LogShaderCompilers: Display: Shaders Compiled: 10
+[2023.05.16-14.13.29:028][333]LogShaderCompilers: Display: Jobs assigned 10, completed 10 (100.00%)
+[2023.05.16-14.13.29:028][333]LogShaderCompilers: Display: Average time worker was idle: 604.63 s
+[2023.05.16-14.13.29:028][333]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.09 s
+[2023.05.16-14.13.29:028][333]LogShaderCompilers: Display: Job execution time: average 1.01 s, max 1.64 s
+[2023.05.16-14.13.29:028][333]LogShaderCompilers: Display: Job life time (pending + execution): average 1.08 s, max 1.72
+[2023.05.16-14.13.29:028][333]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 6.16 s
+[2023.05.16-14.13.29:028][333]LogShaderCompilers: Display: Jobs were issued in 10 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.05.16-14.13.29:028][333]LogShaderCompilers: Display: Average processing rate: 1.62 jobs/sec
+[2023.05.16-14.13.29:028][333]LogShaderCompilers: Display: Total thread time: 7.66 s
+[2023.05.16-14.13.29:028][333]LogShaderCompilers: Display: Total thread preprocess time: 0.37 s
+[2023.05.16-14.13.29:028][333]LogShaderCompilers: Display: Percentage time preprocessing: 4.80%
+[2023.05.16-14.13.29:028][333]LogShaderCompilers: Display: Effective parallelization: 1.24 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2023.05.16-14.13.29:028][333]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2023.05.16-14.13.29:028][333]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    6 times, average 0.87 sec, max 1.45 sec, min 0.57 sec)
+[2023.05.16-14.13.29:028][333]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 0.70 sec, max 0.70 sec, min 0.70 sec)
+[2023.05.16-14.13.29:029][333]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 0.60 sec, max 0.60 sec, min 0.60 sec)
+[2023.05.16-14.13.29:029][333]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.55 sec, max 0.56 sec, min 0.55 sec)
+[2023.05.16-14.13.29:029][333]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2023.05.16-14.13.29:029][333]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 68.45% of total time (compiled    6 times, average 0.87 sec, max 1.45 sec, min 0.57 sec)
+[2023.05.16-14.13.29:029][333]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 14.48% of total time (compiled    2 times, average 0.55 sec, max 0.56 sec, min 0.55 sec)
+[2023.05.16-14.13.29:029][333]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy - 9.21% of total time (compiled    1 times, average 0.70 sec, max 0.70 sec, min 0.70 sec)
+[2023.05.16-14.13.29:029][333]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 7.86% of total time (compiled    1 times, average 0.60 sec, max 0.60 sec, min 0.60 sec)
+[2023.05.16-14.13.29:029][333]LogShaderCompilers: Display: ================================================
+[2023.05.16-14.13.31:177][467]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.16-14.13.31:177][467]LogWorld: BeginTearingDown for /Game/TeamContent/Level_Instance_Rooms/UEDPIE_0_LI_Attempt
+[2023.05.16-14.13.31:178][467]LogSlate: Window 'TheHauntedHouse Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.05.16-14.13.31:202][467]LogWorld: UWorld::CleanupWorld for LI_Attempt, bSessionEnded=true, bCleanupResources=true
+[2023.05.16-14.13.31:202][467]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.16-14.13.31:206][467]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.16-14.13.31:218][467]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.16-14.13.31:299][467]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.16-14.13.31:302][467]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.05.16-14.13.31:304][467]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.05.16-14.13.31:324][467]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2023.05.16-14.13.31:365][468]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2023.05.16-14.13.31:445][468]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
