@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< Updated upstream
 				"C:/Users/Administrator/Documents/GitHub/The-Haunted-House/TheHauntedHouse_UE5/Content/Levels/L_MainMenu.umap",
 				"C:/Users/Administrator/Documents/GitHub/The-Haunted-House/TheHauntedHouse_UE5/Content/TeamContent/Models/PlaceHolder_Assets/SM_PlaceHolder_Facade_Straight.uasset",
 				"C:/Users/Administrator/Documents/GitHub/The-Haunted-House/TheHauntedHouse_UE5/Content/TeamContent/Models/PlaceHolder_Assets/SM_PlaceHolder_Floor.uasset",
@@ -2922,6 +2923,25 @@
 				"C:/Users/Administrator/Desktop/Haunted House/The-Haunted-House/Unreal Project/TheHauntedHouse/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"C:/Users/Administrator/Desktop/Haunted House/The-Haunted-House/Unreal Project/TheHauntedHouse/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset",
 				"C:/Users/Administrator/Desktop/Haunted House/The-Haunted-House/Unreal Project/TheHauntedHouse/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset"
+=======
+				"F:/Unreal Projects/The-Haunted-House/TheHauntedHouse_UE5/Content/Levels/L_Game.umap",
+				"F:/Unreal Projects/The-Haunted-House/TheHauntedHouse_UE5/Content/TeamContent/Models/SM_WoodPlank_1.uasset",
+				"F:/Unreal Projects/The-Haunted-House/TheHauntedHouse_UE5/Content/TeamContent/Models/SM_WoodPlank_2.uasset",
+				"F:/Unreal Projects/The-Haunted-House/TheHauntedHouse_UE5/Content/TeamContent/Models/SM_WoodPlank_3.uasset",
+				"F:/Unreal Projects/The-Haunted-House/TheHauntedHouse_UE5/Content/TeamContent/Models/SM_WoodPlank_4.uasset",
+				"F:/Unreal Projects/The-Haunted-House/TheHauntedHouse_UE5/Content/TeamContent/Models/SM_WoodPlank_5.uasset",
+				"F:/Unreal Projects/The-Haunted-House/TheHauntedHouse_UE5/Content/TeamContent/Materials/Substance_Materials/MI_WoodPlanks.uasset",
+				"F:/Unreal Projects/The-Haunted-House/TheHauntedHouse_UE5/Content/TeamContent/Textures/Asset_Textures/SM_WoodPlank_Set_DefaultMaterial_BaseColor.uasset",
+				"F:/Unreal Projects/The-Haunted-House/TheHauntedHouse_UE5/Content/TeamContent/Textures/Asset_Textures/SM_WoodPlank_Set_DefaultMaterial_Normal.uasset",
+				"F:/Unreal Projects/The-Haunted-House/TheHauntedHouse_UE5/Content/TeamContent/Textures/Asset_Textures/SM_WoodPlank_Set_DefaultMaterial_OcclusionRoughnessMetallic.uasset",
+				"C:/Users/Administrator/Desktop/Group Project Haunted House/TheHauntedHouse_UE5/Content/TeamContent/Blueprints/BP_Door_Damage_Test.uasset",
+				"C:/Users/Administrator/Desktop/Group Project Haunted House/TheHauntedHouse_UE5/Content/Levels/L_Game.umap",
+				"C:/Users/Administrator/Desktop/Group Project Haunted House/TheHauntedHouse_UE5/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/Administrator/Desktop/Group Project Haunted House/TheHauntedHouse_UE5/Content/TeamContent/Blueprints/BP_Trap_Explosive.uasset",
+				"C:/Users/Administrator/Desktop/Group Project Haunted House/TheHauntedHouse_UE5/Content/TeamContent/UI/Health/Hearts_UI.uasset",
+				"C:/Users/Administrator/Desktop/Group Project Haunted House/TheHauntedHouse_UE5/Content/TeamContent/Blueprints/TargetForDoor.uasset",
+				"C:/Users/Administrator/Desktop/Group Project Haunted House/TheHauntedHouse_UE5/Content/TeamContent/Level_Instance_Rooms/LI_Attempt.umap"
+>>>>>>> Stashed changes
 			]
 		}
 	]
