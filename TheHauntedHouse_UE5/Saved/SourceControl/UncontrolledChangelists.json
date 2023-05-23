@@ -11,7 +11,9 @@
 				"C:/Users/Administrator/Desktop/Group Project Haunted House/TheHauntedHouse_UE5/Content/TeamContent/Blueprints/BP_Trap_Explosive.uasset",
 				"C:/Users/Administrator/Desktop/Group Project Haunted House/TheHauntedHouse_UE5/Content/TeamContent/UI/Health/Hearts_UI.uasset",
 				"C:/Users/Administrator/Desktop/Group Project Haunted House/TheHauntedHouse_UE5/Content/TeamContent/Blueprints/TargetForDoor.uasset",
-				"C:/Users/Administrator/Desktop/Group Project Haunted House/TheHauntedHouse_UE5/Content/TeamContent/Level_Instance_Rooms/LI_Attempt.umap"
+				"C:/Users/Administrator/Desktop/Group Project Haunted House/TheHauntedHouse_UE5/Content/TeamContent/Level_Instance_Rooms/LI_Attempt.umap",
+				"C:/Users/Administrator/Desktop/Group Project Haunted House/TheHauntedHouse_UE5/Content/TeamContent/Blueprints/BP_FriendlyTarget.uasset",
+				"C:/Users/Administrator/Desktop/Group Project Haunted House/TheHauntedHouse_UE5/Content/TeamContent/Blueprints/BP_Target.uasset"
 			]
 		}
 	]
