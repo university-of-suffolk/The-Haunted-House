@@ -13,7 +13,11 @@
 				"C:/Users/Administrator/Desktop/Group Project Haunted House/TheHauntedHouse_UE5/Content/TeamContent/Blueprints/TargetForDoor.uasset",
 				"C:/Users/Administrator/Desktop/Group Project Haunted House/TheHauntedHouse_UE5/Content/TeamContent/Level_Instance_Rooms/LI_Attempt.umap",
 				"C:/Users/Administrator/Desktop/Group Project Haunted House/TheHauntedHouse_UE5/Content/TeamContent/Blueprints/BP_FriendlyTarget.uasset",
-				"C:/Users/Administrator/Desktop/Group Project Haunted House/TheHauntedHouse_UE5/Content/TeamContent/Blueprints/BP_Target.uasset"
+				"C:/Users/Administrator/Desktop/Group Project Haunted House/TheHauntedHouse_UE5/Content/TeamContent/Blueprints/BP_Target.uasset",
+				"C:/Users/Administrator/Desktop/Group Project Haunted House/TheHauntedHouse_UE5/Content/FirstPerson/Blueprints/CartPath_BP.uasset",
+				"C:/Users/Administrator/Desktop/Group Project Haunted House/TheHauntedHouse_UE5/Content/FirstPerson/BlueprintsBrens/HUD.uasset",
+				"C:/Users/Administrator/Desktop/Group Project Haunted House/TheHauntedHouse_UE5/Content/FirstPerson/BlueprintsBrens/HUD_AmmoCount.uasset",
+				"C:/Users/Administrator/Desktop/Group Project Haunted House/TheHauntedHouse_UE5/Content/FirstPerson/BlueprintsBrens/BP_FirstPersonCharacter_Brens.uasset"
 			]
 		}
 	]
